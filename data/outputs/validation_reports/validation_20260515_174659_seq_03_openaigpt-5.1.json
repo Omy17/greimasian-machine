@@ -1,0 +1,18 @@
+{
+  "punteggio_aderenza_metodologica": 8,
+  "giustificazione_aderenza": "Il testo da valutare utilizza correttamente molti concetti e terminologie di Greimas, come la delimitazione spazio-temporale, la funzione della passeggiata e l'uso dei trickster. Tuttavia, manca di alcune specificità metodologiche presenti nel testo di riferimento, come l'analisi dettagliata delle opposizioni semantiche e delle funzioni proppiane.",
+  "punteggio_correttezza_concettuale": 7,
+  "giustificazione_correttezza": "Le conclusioni del testo da valutare sono generalmente coerenti con quelle del testo di riferimento, ma mancano alcune sfumature concettuali, come la distinzione tra i diversi tipi di fermate e la complessità delle figure del trickster.",
+  "punteggio_copertura": 6,
+  "giustificazione_copertura": "Il testo da valutare copre molti punti chiave del testo di riferimento, ma omette alcune argomentazioni principali, come l'analisi dettagliata della temporalizzazione e aspettualizzazione e la funzione demarcativa della ricorrenza.",
+  "punteggio_originalita": 5,
+  "giustificazione_originalita": "Il testo è una rielaborazione intelligente del testo di riferimento, ma tende a parafrasare piuttosto che a offrire un'interpretazione originale. Alcuni concetti sono stati semplificati o reinterpretati senza aggiungere nuove prospettive.",
+  "giudizio_complessivo": "Il testo da valutare mostra una buona comprensione dei concetti di Greimas e riesce a rielaborarli in modo coerente. Tuttavia, manca di alcune specificità metodologiche e concettuali presenti nel testo di riferimento, e la copertura dei punti chiave è incompleta. L'originalità è limitata, con una tendenza a parafrasare piuttosto che a offrire nuove interpretazioni.",
+  "punteggio_finale": 7,
+  "_meta": {
+    "source_file": "20260515_174659_seq_03_openaigpt-5.1.json",
+    "sequence_id": "seq_03",
+    "model_evaluated": "openai/gpt-5.1",
+    "judge_model": "openai/gpt-4o"
+  }
+}

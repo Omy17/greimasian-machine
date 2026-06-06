@@ -1,0 +1,18 @@
+{
+  "punteggio_aderenza_metodologica": 5,
+  "giustificazione_aderenza": "Il testo utilizza la terminologia di base di Greimas (Programma Narrativo, competenza, performanza, modalità, assiologia), ma in modo prevalentemente descrittivo. Manca l'applicazione rigorosa degli strumenti più complessi e specifici di Greimas, come l'uso del quadrato semiotico per modellare le trasformazioni dinamiche (es. la trasformazione della scelta in dilemma, o la progressione degli stati somatici), l'analisi presupposizionale nella costruzione del PN, o la distinzione fine tra sapere/saper-fare narrativo e tematico.",
+  "punteggio_correttezza_concettuale": 8,
+  "giustificazione_correttezza": "Le conclusioni generali sono corrette e coerenti con quelle di Greimas. L'LLM identifica correttamente il conflitto tra i due programmi narrativi, la natura assiologica (e non narrativa) della vittoria dei soggetti, e il fallimento del programma di manipolazione dell'anti-soggetto. La comprensione del conflitto di valori di fondo è solida.",
+  "punteggio_copertura": 4,
+  "giustificazione_copertura": "La copertura è significativamente parziale. Vengono omessi numerosi punti chiave e quasi tutte le argomentazioni più sofisticate di Greimas. Mancano, tra gli altri: l'analisi della trasformazione della scelta in dilemma (/non-poter-non-scegliere/), l'interpretazione della temporalizzazione come figura dell'ingiunzione, la dialettica tra soggetto secondo la menzogna e soggetto secondo il segreto, il concetto di 'nuisance value' e, soprattutto, la complessa analisi finale dell' 'organizzazione del silenzio' che correla il piano somatico e verbale alla progressione sul quadrato del potere (/dominato/ -> /non-dominato/ -> /dominante/).",
+  "punteggio_originalita": 8,
+  "giustificazione_originalita": "Il testo non è una parafrasi o una copia, ma un tentativo autonomo di applicare il metodo greimasiano al testo. L'analisi è strutturata in modo originale, pur ricalcando lo schema generale di Greimas. Il suo limite non è la mancanza di originalità, ma l'incapacità di raggiungere la stessa profondità analitica e complessità metodologica del testo di riferimento.",
+  "giudizio_complessivo": "L'analisi generata dall'LLM è un esercizio competente di applicazione della semiotica narrativa di base. Identifica correttamente gli attori, i loro programmi narrativi e il conflitto assiologico centrale, arrivando a conclusioni concettualmente valide. Tuttavia, la sua aderenza al metodo greimasiano rimane superficiale. Il modello utilizza la terminologia come un lessico per descrivere la trama, piuttosto che come un apparato teorico per svelare le strutture profonde e le dinamiche generative del senso, come fa Greimas. L'analisi prodotta omette sistematicamente gli snodi teorici più complessi e originali del testo di riferimento, risultando in una versione semplificata e meno potente, paragonabile a un buon saggio universitario piuttosto che a un'analisi accademica di alto livello.",
+  "punteggio_finale": 6,
+  "_meta": {
+    "source_file": "20260515_174659_seq_09_openaigpt-5.1.json",
+    "sequence_id": "seq_09",
+    "model_evaluated": "openai/gpt-5.1",
+    "judge_model": "google/gemini-2.5-pro"
+  }
+}

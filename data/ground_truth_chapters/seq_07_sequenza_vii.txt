@@ -1,0 +1,563 @@
+SEQUENZA VII
+LA CATTURA
+Ma trasalirono, spaventati, sentendo qualcuno camminare dietro di loro; e, girati gli occhi,
+scorsero, in piedi, proprio alle loro spalle, quattro uomini, quattro uomini grandi e grossi,
+armati e barbuti, vestiti come domestici in livrea e con certi berretti piatti, che li tenevano sotto
+tiro con i loro fucili.
+Le due canne da pesca sfuggirono dalle loro mani e cominciarono ad allontanarsi lungo il
+fiume.
+In pochi secondi furono presi, trascinati, gettati in una barca e traghettati sull’isola.
+E dietro l’edificio che avevano creduto abbandonato, scorsero una ventina di soldati tedeschi.
+Una specie di gigante villoso che stando a cavalcioni su una sedia fumava una gran pipa di
+porcellana chiese loro in ottimo francese: “Be’, signori, avete fatto buona pesca?”
+Allora un soldato depose ai piedi dell’ufficiale la rete piena di pesci che aveva curato di
+prendere. Il prussiano sorrise: “Eh, eh, vedo che non andava male. (Ma...)”
+1. Organizzazione testuale
+1.1. Delimitazione della sequenza
+La sequenza si può facilmente rendere autonoma a prima vista: è già
+delimitata dai due marcatori logici “ma” e la segmentazione del testo si
+opera così:
+SQ VI ∪SQ VIII(manifestata dal “ma” dell’inizio)
+SQ VII∪SQ VIII(manifestata dal “ma” della fine)
+SQ VII presenta però al suo interno una disgiunzione spaziale altrettanto
+significativa: il trasferimento di S , da un luogo utopico (il “bordo
+1
+dell’acqua”) a un altro (l’“isola Marante”), disgiunzione forte, poiché
+segnala la fine di un racconto (che possiamo chiamare R ) e l’instaurazione
+1
+di un nuovo racconto (R ). La cattura interrompe la ricerca della felicità (la
+2
+pesca) e inaugura il percorso che conduce alla morte. Al luogo utopico
+secondo l’illusione (il bordo dell’acqua) si sostituisce un secondo spazio
+utopico secondo la verità (la terra circondata dall’acqua). L’organizzazione
+narrativa scavalca comunque questo confine, facendo corrispondere i limiti
+della sequenza a quelli di un microracconto completo che realizza lo
+schema proppiano: all’interno di questo schema il trasferimento spaziale
+viene inteso come il ritorno del vincitore che consegna al destinante
+l’oggetto di valore acquisito (i prigionieri). Sebbene riconosciamo in questa
+frattura spaziale una particolare funzione dell’economia narrativa generale,
+siamo in ogni caso portati, nell’organizzazione della sequenza testuale, a far
+prevalere le disgiunzioni logiche sulla disgiunzione spaziale.
+Nota: Una disgiunzione forica segna l’inizio della sequenza. Si dà infatti:
+dove il verbo “trasalirono” comporta tra l’altro, sia al livello della radice sia a quello della
+desinenza temporale, il sema aspettuale /puntualità/ con valore incoativo.
+1.2. Articolazione interna
+La disgiunzione spaziale che avrebbe potuto servire da limite tra una
+sequenza e l’altra può essere invece utilizzata per distinguere due segmenti
+che corrispondono a due sintagmi narrativi del microracconto: la prova e il
+dono.
+D’altra parte, se si tiene conto della ricorrenza dei lessemi verbali
+Seg1: “scorsero”≃Seg2: “scorsero”
+si ha la tentazione di dividere ogni distinto segmento in due
+sottosegmenti, di cui il primo stabilisce lo spazio cognitivo di S e il
+1
+secondo manifesta il programma narrativo di S . Una tale segmentazione,
+2
+semplice e logica, non corrisponde tuttavia alla realtà della manifestazione
+testuale, nella quale si intrecciano costantemente gli elementi del fare
+cognitivo e quelli del fare pragmatico. Diremo quindi che il testo è la
+manifestazione avviluppata di due fare narrativi di natura diversa:
+a) il primo è situato sulla dimensione pragmatica del racconto e realizza
+il programma narrativo di S ;
+2
+b) il secondo è situato sulla dimensione cognitiva e rappresenta il
+processo di cognizione di S , che ha per oggetto, essenzialmente, il fare
+1
+pragmatico di S .
+2
+Così riconosciuti e distinti, i due fare narrativi non sono né concatenati
+in segmenti consecutivi né propriamente avviluppati, benché appaiano così
+nella loro manifestazione testuale. Al contrario si trovano sovrapposti, come
+due dimensioni autonome e parallele del racconto. Conviene dunque
+esaminarli separatamente.
+2. La dimensione pragmatica
+2.1. Il programma narrativo dell’anti-soggetto
+Provando a interrogare con ingenuità il testo per sapere ciò che
+“realmente” succede nella sequenza ci si rende conto che questa è
+caratterizzata dal passaggio dell’iniziativa dal soggetto all’anti-soggetto, e
+che la serie evenemenziale qui descritta rappresenta in primo luogo un
+compiuto PN di S . Per riscrivere tale programma in forma di enunciato
+2
+convenzionale facilmente leggibile basta indicare, in una volta, i ruoli
+attanziali e gli attori che li assumono:
+Per quanto imperfetta, tale trascrizione ci fa subito notare l’omissione
+testuale di alcuni enunciati narrativi, che vanno pertanto ritenuti essere
+presupposti dallo svolgimento del PN.
+a) la comparsa in EN dell’ufficiale prussiano presuppone infatti
+11
+l’esistenza di una relazione /De vs Do/ tra l’ufficiale e i suoi soldati (da noi
+denominati S ), che agiscono come destinatari inviati dal loro destinante.
+2
+Due enunciati contrattuali devono quindi essere previsti e collocati
+all’inizio del PN:
+EN = F invio(De : ufficiale→ O : PN→ Do = S : soldati)
+1 2 3 2 2
+EN = F accettazione(Do : soldati→ O : PN→ De : ufficiale)
+2 2 3 2
+Nota: È evidente che questa formulazione riguarda una realtà molto più complessa: siamo
+infatti indotti a trattare separatamente il problema dell’anti-soggetto.
+b) L’esecuzione del PN da parte di S esige d’altronde il suo spostamento
+2
+preliminare che in EN annoteremo come spostamento riflessivo (S in
+8 2
+quanto soggetto sposta S in quanto oggetto):
+2
+EN = F spostamento(S : soldati→ S : soldati)
+3 2 2
+Un PN di questo tipo, situato al livello grammaticale di superficie, è
+costituito in realtà da tre sintagmi narrativi canonici che si possono ottenere
+raggruppando alcuni EN:
+(1) contratto = EN + EN
+1 2
+(2) prova = EN + EN + EN + EN
+4 5 6 7
+(3) dono = EN + EN
+11 12
+Ogni sintagma narrativo viene altresì isolato dagli enunciati di
+spostamento che individuano le disgiunzioni spaziali: EN e EN + EN +
+3 8 9
+EN .
+10
+Mettendo da parte per il momento il problema del sintagma contrattuale,
+si può dire che i due rimanenti sintagmi (2) e (3) in realtà sono espansioni
+figurative, forme retoriche della narratività, che rendono conto a un livello
+narrativo più profondo della comunicazione di oggetti di valore. I risultati
+possono essere trascritti nel modo seguente:
+PN = S ∪ (O + O ) ∩ S (= DO ) ∪ (O + O ) ∩ De
+1 1 2 2 2 1 2 2
+2.2. Gli oggetti di valore: O
+2
+Per poter interpretare il PN, così come si svolge sulla dimensione
+pragmatica del racconto, rimane solo da precisare a che cosa corrispondano
+esattamente gli oggetti di valore che, nella formulazione logica, sono
+designati come O e O e che, nella manifestazione testuale figurativa, sono
+1 2
+rappresentati rispettivamente dai “due amici” e dai “pesci”.
+Quanto alla natura dei “pesci” (O ), la risposta sembra relativamente
+2
+semplice: abbiamo già riconosciuto in questa figura un ipotattico
+dell’investimento semantico che riunisce i due termini della deissi positiva
+/vita/ + /non morte/, corrispondente sul piano figurativo alla simbiosi del
+Sole e dell’Acqua. Dono del destinante durante la “pesca miracolosa”, i
+“pesci” rappresentano i valori assiologici attualizzati, poiché la loro
+congiunzione con il soggetto è realizzata ma sospesa (sono immersi
+nell’acqua dopo la loro cattura). Valori, insomma, al tempo stesso presenti e
+proiettati al di fuori del soggetto, cosa che in qualche modo costituisce il
+loro modo di esistenza “normale”. L’appropriazione di questi valori da parte
+dell’anti-soggetto non li sopprime in quanto valori del soggetto, ma li fa
+passare allo stato di valori virtuali.
+La riflessione sullo statuto di O (i “pesci”) ci ha fatto operare uno
+2
+slittamento quasi impercettibile dalle considerazioni su S e il suo
+2
+programma a quelle che riguardano S . Ciò che avremmo dovuto notare è
+1
+che, secondo il PN di S , l’anti-soggetto entra in possesso dei valori
+2
+rappresentati dalla “rete piena di pesci” e li “consuma” alla fine del
+racconto. Il nostro ragionamento è invece consistito nel ritornare sul PN di
+S e nel cominciare l’esame dei valori e delle posizioni attanziali di questo
+1
+programma dopo l’operazione della cattura.
+Lo slittamento non deve sorprendere se si considera che, nella misura in
+cui realizza una struttura paradigmatica e mette in presenza un attante e un
+anti-attante, qualsiasi racconto polemico svolge un doppio programma
+narrativo, i cui enunciati – nella loro totalità o solo in parte – vengono
+sovrapposti e correlati. Nel caso in esame tale correlazione si esprime in
+modo semplice: la congiunzione di S con l’oggetto “pesci” (situata sul PN
+2
+di S ) è concomitante alla disgiunzione dell’oggetto “pesci” da S
+2 1
+(operazione che riguarda quindi il PN di S ). È allora indispensabile
+1
+interrogare l’oggetto O (“pesci”) da questo doppio punto di vista.
+2
+Dal punto di vista del PN di S la privazione di O che il soggetto subisce
+1 2
+non sopprime la sua qualità di soggetto del volere (in altre parole: lo stato di
+prigioniero rende virtuali i valori nei quali si era prima riconosciuto). La
+congiunzione di O con S richiede invece un’interpretazione più delicata.
+2 2
+a) A prima vista, l’appropriazione da parte dell’anti-soggetto dei valori
+vitali del soggetto appare come un atto di cattiveria gratuito, o piuttosto
+come la manifestazione di nuisance value:1 O ha valore agli occhi dell’anti-
+2
+soggetto solo nella misura in cui la sua perdita priva il soggetto dei valori
+vitali.
+b) D’altra parte, la disgiunzione dei pesci dall’acqua e la loro
+congiunzione con la terra (sono deposti ai piedi dell’ufficiale) – operazione
+effettuata sull’asse dei contraddittori – anticipa la loro distruzione definitiva
+e si presenta come la manifestazione del potere allo stato puro. L’offerta
+così deposta notifica, sull’asse della verticalità, la relazione che va da
+/dominante/ a /dominato/.
+c) L’esaltazione di questo “poter-nuocere”, procurata a S dalla sua
+2
+congiunzione con O , viene confermata dalla connotazione euforica:
+2
+l’ufficiale sorride solo due volte nel testo – qui e nella sequenza finale – e lo
+fa entrambe le volte alla vista dei “pesci”. Questa euforia raggiungerà
+d’altronde l’apice al momento del consumo e della distruzione pianificati:
+le “delizie” che l’ufficiale si ripromette rimandano alla “gioia deliziosa” che
+invade i due pescatori al momento del dono miracoloso. La congiunzione di
+entrambi i soggetti con O (sia creatrice sia distruttrice di valori) è una fonte
+2
+di felicità.
+2.3. Gli oggetti di valore: O
+1
+1. Sorgono analoghe difficoltà quando si tratta di interpretare lo statuto di
+O : la formula intuitiva – secondo la quale si tratterebbe, in questo caso,
+1
+della trasformazione del soggetto in oggetto – non sembra del tutto
+soddisfacente. Si sa infatti che l’instaurazione del soggetto esige
+l’allestimento progressivo di una struttura modale relativamente complessa:
+il soggetto in questione non può essere considerato come un ruolo attanziale
+semplice, che tramite la sola trasformazione si possa convertire in un altro
+ruolo attanziale, quello di oggetto. Come nel caso di O , è allora preferibile
+2
+ricorrere a una lettura doppia di questo segmento narrativo, collocando in
+seguito l’attore “due amici” su due PN (quello di S e quello di S ).
+2 1
+2. Un’osservazione preliminare di buon senso: è evidente che a proposito
+dei “due amici” si può parlare di oggetto solo ponendosi nella prospettiva
+del PN di S e inoltre soltanto a proposito dei segmenti del programma che
+2
+non sono resi espliciti. Quale che sia l’oggetto, non si definisce che in
+rapporto al soggetto che lo prende di mira: solo la conoscenza preliminare
+dell’esistenza dei “due amici” e il desiderio manifestato dall’anti-soggetto
+di impadronirsene li costituisce in oggetto, oggetto che a un primo stadio è
+virtuale e in seguito dà luogo a un fare congiuntore.
+La congiunzione di O con S , conseguenza di una prova, nel testo è
+1 2
+manifestata nella forma figurativa dell’appropriazione e questo può quindi
+darci i ragguagli sulla natura di questa operazione. Si noterà subito che i
+due amici, caduti nelle mani del nemico, sono:
+“presi, trascinati, gettati...”
+cioè sono manipolati come cose e non come esseri umani, tanto più che
+gli stessi predicati – o i loro parasinonimi:
+“trasportare” – “afferrare” – “lanciare”
+ricorrono a proposito dei corpi dei due pescatori, nella sottosequenza
+“L’immersione”.
+3. Questa reificazione comporta alcune caratteristiche gene-ralizzabili:
+a) La presa di possesso di O , da parte di S si situa sul piano somatico e
+1 2
+riguarda solo questo piano; non per questo le attività cognitive dei due
+amici si fermano, e il testo lo mostra bene.
+b) L’appropriazione somatica ha l’effetto di privare l’attante soggetto del
+suo fare, poiché una “cosa” può essere definita in negativo come sprovvista
+di questa qualità. Il soggetto diviene oggetto passando dallo stato di agente
+allo stato di paziente, senza perdere per questo le sue altre proprietà
+strutturali.
+Questa passività che permette di assimilare il soggetto alle cose non è
+visibile solo al momento della prova, quando i due amici entrano in contatto
+con l’anti-soggetto che agisce, ma appare come caratteristica costante di O .
+1
+La costruzione della frase
+“Le due canne da pesca sfuggirono dalle loro mani”
+può essere infatti interpretata sia come l’abbandono di uno strumento del
+fare sia come l’abbandono del ruolo di soggetto frastico da parte dell’attante
+(il quale si lascia sfuggire lo strumento) a vantaggio delle “due canne” che
+assumono tale ruolo e “sfuggono” da sole.
+4. Cambiando prospettiva e adottando la lettura del PN di S , si può subito
+1
+aggiungere che il fare somatico di cui vengono privati i due amici, è
+specificato come il fare che permette di eseguire il PN “pesca”. Infatti, la
+frase appena citata si trova a essere correlata, sull’asse del paradigma, con
+un’altra frase semanticamente comparabile:
+Infatti:
+a) se si oppongono i predicati delle due proposizioni
+/ tenere/ vs /non tenere/
+b) e se si tiene conto del fatto che i due “loro” sono anaforici rispettivamente di S e S
+1 2
+c) ci si rende conto che i due aiutanti strumentali
+“canne da pesca” vs “fucili”
+indicano il tipo di fare che caratterizza ciascuno dei PN.
+Si vede che l’aspetto pseudoincoativo – in realtà terminativo – del
+predicato “sfuggirono” contrassegna, insieme alla soppressione del
+“pescare”, la fine del PN “pesca” e, di conseguenza, del primo racconto R .
+1
+L’appropriazione somatica di un soggetto da parte di un anti-soggetto che lo
+riduce in qualche modo allo stato di oggetto ha come corollario, dal punto
+di vista del PN di S , la privazione del suo fare. Ma la potenzialità del fare è
+1
+proprio ciò che definisce l’attante soggetto: rendere impossibile
+l’esecuzione del suo programma vuol dire privarlo della modalità del poter-
+fare nei limiti, evidentemente, dell’isotopia nella quale s’inscrive questo
+fare (nel nostro caso la pesca, come esercizio di un’attività gioiosa).
+2.4. Soggetto secondo il fare e soggetto secondo l’essere.
+Ci sembra che sia qui che la distinzione che abbiamo proposto fra
+soggetto secondo il fare e soggetto secondo l’essere possa diventare più
+utile all’analisi. Il primo è il soggetto che, dotato delle modalità del fare,
+organizza ed esegue il programma narrativo; il soggetto secondo l’essere è
+invece il depositario delle proprietà (valori o modalità) che gli sono
+attribuite o di cui è privato in seguito alle trasformazioni operate dai due
+soggetti antagonisti del fare (da S nel caso dell’appropriazione, da S nel
+1 2
+caso del dono, per esempio).
+Nella posizione narrativa in esame, S (“due amici”) non è più soggetto
+1
+secondo il fare ma rimane nondimeno soggetto secondo l’essere e
+quest’ultimo statuto garantisce la sua permanenza di attante lungo il corso
+dell’intero testo. Infatti S rimane:
+1
+a) Il soggetto secondo il volere: si è visto che la privazione di O
+2
+(“pesci”) non lo sopprime nella sua qualità di soggetto virtuale, quindi non
+lo priva della modalità del voler-essere.
+b) Il soggetto secondo il sapere: il sapere su sé stesso e sul mondo, lungi
+dall’essere annullato, si esercita invece sulla dimensione cognitiva che
+ricopre la totalità della sequenza.
+c) Il soggetto secondo il non-potere: nella sequenza precedente S aveva
+1
+già riconosciuto che “mai si sarebbe stati liberi” e che lo stato permanente
+che caratterizza l’umanità è quello di essere dominata. Questo stato di
+dipendenza, rispetto al proto-destinante sociale che lo definiva nel suo
+“essere del non-potere”, si trovava allora attualizzato: la cattura, privando il
+soggetto dell’illusione di agire, non fa che realizzare questa modalità del
+/non-poter-essere/.
+Tale sembra essere, a grandi linee, lo statuto modale di S “prigioniero”.
+1
+Se si aggiunge ancora che l’esercizio del sapere, registrato nell’esame della
+sequenza precedente, aveva fatto apparire allo stato virtuale un nuovo
+volere (il volere di negare lo stato di /non-potere/) si può già intravedere
+l’eventualità di un nuovo PN e di un nuovo racconto che organizzeranno
+questa seconda parte del testo.
+2.5. Struttura dell’anti-soggetto
+La sequenza di cui ci occupiamo ora introduce per la prima volta la
+rappresentazione dell’anti-soggetto secondo il modo della presenza
+realizzata. Benché domini in modo implicito il testo nel suo insieme (a
+partire da “Parigi era bloccata...”), fin qui si è manifestato solo secondo i
+modi del virtuale o dell’attuale. A questo punto sembra opportuno
+esaminarlo un po’ più da vicino, superando i limiti rigidi che ci impone il
+principio strategico della segmentazione del testo in sequenze (frutto di
+un’opzione metodologica, non di una necessità).
+Annunciata da tempo, la comparsa del nemico “invisibile e onnipotente”
+avviene qui sotto la forma della manifestazione attoriale di un ufficiale e di
+una ventina di soldati. Rispetto ai “prussiani”, “popolo sconosciuto e
+vittorioso”, il gruppo di militari si pone come rappresentazione iponimica,
+immagine in miniatura della società prussiana. Rispetto ai “due amici”,
+soggetto narrativo e attante collettivo dotati di un volere comune, i nemici
+che appaiono d’un tratto a interrompere il loro PN si presentano sia come
+anti-soggetto sia come anti-attante collettivo. Questo doppio punto di vista
+– tassonomico e narrativo – ci fa considerare “reale” il nemico.
+I ruoli attanziali dell’anti-soggetto
+La principale difficoltà incontrata nell’analisi del “nemico” è il carattere
+polisemico dell’attore “ufficiale prussiano” o piuttosto la complessità dei
+ruoli attanziali che è chiamato ad assumere sia a un dato momento sia
+successivamente. Ruoli che deve giocare in quanto delegato e, più
+precisamente, in quanto “procuratore” dei vari tipi di destinanti che
+abbiamo riconosciuto.
+a) L’ufficiale, presentato figurativamente come “una specie di gigante
+villoso che stando a cavalcioni su una sedia fumava una gran pipa di
+porcellana” è certamente, su questo piano, la copia conforme del Mont-
+Valérien; e come tale assume il ruolo di delegato dell’anti-destinante
+individuale e al tempo stesso universale.
+b) Nella misura in cui abbiamo potuto riconoscere in qualsiasi tipo di
+“governo” un proto-destinante sociale, il compito di rappresentarlo spetta
+all’ufficiale.
+c) Egli è infine l’anti-soggetto-destinatario del suo anti-destinante
+sociale, introdotto quasi subito nel testo con la denominazione “prussiani”.
+Ruolo che si oppone simmetricamente a “Parigi” e al suo delegato, il
+colonnello Dumoulin.
+d) Tuttavia, il gruppo di militari prussiani incontrato dai due amici si
+situa sullo stesso asse dei due francesi e costituisce non solamente una
+figura d’insieme, come i due amici, ma un modello ridotto della loro stessa
+società: l’ufficiale, da questo punto di vista, è tutt’uno con i suoi soldati, e
+questo individuo molare può essere considerato come un anti-attante
+collettivo.
+Il notevole sincretismo dei ruoli attanziali si dissolve in tutto o in parte a
+seconda dell’isotopia di lettura sulla quale la figura attoriale dell’ufficiale
+viene situata nell’una o nell’altra posizione narrativa del testo. I ruoli (a) e
+(b) sono facili da riconoscere e da distinguere. Non si può dire lo stesso dei
+ruoli attanziali (c) e (d). A causa della rappresentazione gerarchizzata della
+società prussiana, l’ufficiale il più delle volte si situa contemporaneamente
+sui due piani: è anti-soggetto, investito di poteri e modalizzato dal suo
+destinante, ma è al tempo stesso un elemento integrato nella struttura
+dell’anti-attante che innanzitutto funziona come anti-soggetto. Per evitare di
+sottilizzare troppo nell’analisi di questo punto – che nell’economia generale
+del racconto rappresenta un aspetto marginale – abbiamo deciso di non
+distinguere volta per volta questi due ruoli e trascrivere con il simbolo S le
+2
+due accezioni dell’anti-soggetto.
+La struttura tassonomica dell’anti-attante
+Dal punto di vista dell’organizzazione tassonomica dell’anti-attante, le
+sue proprietà si individuano più facilmente se lo si paragona alla struttura e
+alle caratteristiche dell’attante “due amici”. Sarà sufficiente elencare alcune
+di queste sue proprietà:
+a) Mentre l’attante è caratterizzato dalla struttura egualitaria, l’anti-
+attante presenta, al contrario, un’organizzazione gerarchizzata (l’ufficiale +
+20 soldati).
+b) Mentre l’anti-attante è dato come una collezione numerica
+scomponibile – e, in particolare, in numeri pari (20 –12 –4 –2 + 2) (e questo
+serve a eludere qualsiasi velleità d’individuazione) l’attante collettivo
+oppone a questo trattamento quantitativo le sue specificazioni attoriali di
+ordine qualitativo; così, accanto ai tratti comuni dei due amici
+(piccoloborghesi, guardie nazionali, pescatori fanatici), si rilevano
+opposizioni qualitative secondarie (repubblicano vs anarchico,
+commerciante vs artigiano, basso vs alto, grosso vs magro ecc.)
+c) Se l’anti-attante si presenta come una collettività anonima (né
+l’ufficiale né i suoi soldati sono presentati per nome e quindi risultano
+sostituibili gli uni agli altri), l’attante si compone di attori che al contrario
+portano denominazioni fortemente motivate: così Morissot (cfr. il
+Meursault di Camus) è scomponibile in mort-rit-sot; e Sauvage, in sot-
+sauve-sauvage:2 i due hanno in comune un sot (stupido) antifrastico.
+La struttura narrativa dell’anti-soggetto
+Se adesso si volessero comparare i due attanti collettivi dal punto di vista
+narrativo, considerando il loro comportamento in quanto soggetto e anti-
+soggetto, si riconoscerebbero differenze significative.
+a) Mentre il soggetto S si comporta da soggetto unitario, possedendo le
+1
+stesse competenze ed esercitando lo stesso fare, l’anti-soggetto S è
+2
+caratterizzato, al contrario, da una suddivisione di competenze e di compiti:
+l’ufficiale è il solo a disporre di un potere di decisione ed esercita un fare
+decisionale verbalizzato, mentre i soldati hanno solo un potere di
+esecuzione e un fare esecutivo somatico.
+b) Mentre i due attori costitutivi del soggetto comune dispongono in un
+primo momento di un volere individuale che riportano poi all’attante
+collettivo, la relazione
+De (ufficiale) freccia→Do (soldati)
+che appare nell’esecuzione di un micro-PN (la cattura dei due amici) non
+permette la manifestazione di alcun volere. Contrariamente allo schema
+proppiano, il trasferimento dell’oggetto di valore al destinante (l’ufficiale)
+avviene così contemporaneamente allo spostamento dell’esecutore (soldati),
+senza lasciare alcun margine di libertà al soggetto vittorioso.
+c) Mentre il soggetto secondo il suo stesso volere si sottomette al
+contratto permissivo (il “lasciapassare” del colonnello Dumoulin), l’anti-
+soggetto è costituito secondo le regole del contratto ingiuntivo: la modalità
+del /potere/, di cui sono dotati i soldati, può essere definita come un /non-
+poter-non-fare/.
+Se la struttura attanziale del racconto è – come del resto ci si poteva
+aspettare – polemica, si vede che essa viene fortemente polarizzata dagli
+investimenti contraddittori e/o contrari del soggetto e dell’anti-soggetto.
+3. La dimensione cognitiva
+3.1. Il “punto di vista”
+Per quanto disattenta, una lettura dell’insieme della sequenza non
+potrebbe tralasciare un fenomeno interessante: lo sfasamento tra lo
+svolgersi del discorso vero e proprio e i cambiamenti della trama narrativa
+che gli è sottesa. Come si è visto questa sequenza non è soltanto il luogo
+della prima apparizione “reale” dell’anti-soggetto; la sua organizzazione si
+basa essenzialmente sullo sviluppo del PN di S : dal punto di vista narrativo,
+2
+si può registrare a questo punto una rottura netta che noi abbiamo
+sottolineato in modo un po’ artificiale dividendo il testo nei due racconti
+autonomi R e R .
+1 2
+A livello discorsivo la sequenza è al contrario caratterizzata dal
+mantenimento del soggetto discorsivo che, ereditato dal racconto
+precedente, essa continua a trattare come soggetto sintattico delle sue frasi,
+fino all’ultimo segmento, con la presa di parola del prussiano: mentre la
+frontiera tra SQ VI e SQ VII è molto marcata sia nella forma (dal disgiuntivo
+“ma”) che in senso forico (dall’opposizione tra “ridere” e “trasalire”), il
+soggetto discorsivo l’attraversa senza difficoltà, dando l’impressione che la
+sua avventura non faccia che continuare.
+Lo sfasamento tra l’organizzazione discorsiva e l’organizzazione
+narrativa del testo molto probabilmente può rendere conto di alcuni aspetti
+di quel complesso fenomeno che spesso viene designato come “punto di
+vista”. Dato che qualsiasi racconto comporta almeno due PN correlati, quelli
+del soggetto e dell’anti-soggetto, nella sua forma più semplice il punto di
+vista può essere definito come l’identificazione del soggetto discorsivo con
+l’uno o con l’altro soggetto narrativo. Il racconto si svolge tuttavia su due
+dimensioni autonome della narratività (la pragmatica e la cognitiva),
+simultaneamente o a intermittenza, e l’identificazione del soggetto
+discorsivo può avvenire sia con il soggetto o l’anti-soggetto cognitivo, sia
+con il soggetto o l’anti-soggetto pragmatico. Nel caso in questione il
+soggetto discorsivo (rappresentato da “essi”)3 è anche l’incarnazione del
+soggetto cognitivo S : è “sotto lo sguardo” di questo S cognitivo che si
+1 1
+svolge il programma pragmatico di S .
+2
+3.2. Il doppio riconoscimento
+Il problema del “chi parla?” – o piuttosto del “chi vede?” – in questa
+sequenza viene così risolto: non solo i “quattro uomini grandi e grossi,
+armati e barbuti, vestiti come domestici in livrea” non sono “descritti” da
+Maupassant, ma “visti” dal suo delegato S . Di più: questa “specie di
+1
+gigante villoso che stando a cavalcioni su una sedia fumava”
+(immediatamente identificabile con la figura ipotattica del Mont-Valérien),
+si riferisce all’universo cognitivo dei due amici, come un modo particolare
+di leggere quel che è “visto”.
+In seguito due operazioni cognitive vengono effettuate dai due amici. La
+prima si situa sul “bordo dell’acqua”, cioè nello spazio utopico di S ; la
+1
+seconda ha luogo nell’“isola Marante”, spazio utopico di S . Tutt’e due
+2
+consistono nella rettifica del sapere di S e perciò si presentano come
+1
+“riconoscimenti” nel senso aristotelico del termine.
+Per come sono descritti nella nostra sequenza, in effetti i due fare
+cognitivi appaiono come ricorrenze testuali, accompagnate dall’inversione
+di segno delle esplorazioni cognitive precedenti, situate alla frontiera tra SQ
+VI e SQ V. Alla fine di SQ VI Morissot cercava di sapere “se qualcuno
+camminava nei paraggi”; adesso i due amici sentono qualcuno “camminare
+dietro di loro”. Se in SQ V l’isola Marante sembrava “abbandonata” e “il
+piccolo edificio era chiuso”, adesso “dietro l’edificio che avevano creduto
+abbandonato” scorgono una ventina di soldati tedeschi.
+La situazione si ribalta, da questo punto in poi, in seguito a tale doppio
+riconoscimento. Ciò non influenza il PN di S (che continuerà a svolgersi
+2
+sulla dimensione pragmatica), bensì il PN di S (di cui costituisce la
+1
+“peripezia”).
+Senza procedere a un’analisi più dettagliata, si può dire che il
+riconoscimento consiste, nel nostro caso, nella cessazione di uno stato
+cognitivo caratterizzato da un auto-inganno: i due amici devono infatti
+ricredersi sia sul piano interocettivo (rispetto alla certezza che avevano
+della loro solitudine) sia sul piano esterocettivo (rispetto alla convinzione
+dell’assenza dell’anti-soggetto). Il riconoscimento costituisce quindi un
+cambiamento di spazio cognitivo e il passaggio, nell’isotopia della
+veridizione, dallo stato dell’illusione a quello della realtà (o della verità).
+L’esperienza della gioia e l’assenza del potere dominatore erano solo un
+inganno: il PN di S , che riprenderà da questo momento, non sarà più
+1
+intaccato dall’illusione; dopo questa assunzione di realtà potrà essere
+concepito come la sua denegazione.
+3.3. La presa di parola
+Con il riconoscimento dei suoi errori di giudizio, il soggetto discorsivo
+“essi”, che rappresenta il S cognitivo, si esaurisce e cede il posto a S ,
+1 2
+incarnato dall’ufficiale prussiano. Questa trasmissione della “funzione”
+discorsiva avviene attraverso l’ambiguità con cui è resa l’espressione
+lessicalizzata dell’attante: “una specie di gigante villoso”. Questa va letta in
+due modi diversi: “il gigante villoso” è innanzitutto l’oggetto dello sguardo
+dei due amici, ma è allo stesso tempo soggetto di una nuova frase la cui
+struttura attanziale
+“egli (il gigante) ... (chiese) loro”
+è equivalente, sul piano dell’enunciato, a
+“io ... voi”
+e tale si manterrà, per il resto del testo, nell’enunciazione articolata sotto
+forma di pseudodialogo. Enunciazione delimitata d’altronde
+dall’enunciatore che riprenderà il racconto su di sé, trattando il soggetto e
+l’anti-soggetto su un piano di parità:
+“egli” vs “essi”.
+Considerando la presa di parola nel suo duplice aspetto – come atto
+somatico che inaugura il comportamento verbale e come inizio della
+comunicazione verbale – si noterà che, se l’appropriazione somatica della
+parola è la manifestazione di un /poter-fare/, il fare trascelto (la
+comunicazione verbale) ha, nell’assiologia di S , la connotazione di non-
+1
+autenticità (SQ II). I termini antinomici di un tale atteggiamento sono da
+questo momento prevedibili: la non-comunicazione, ma anche il
+disconoscimento del potere di S .
+2
+Il primo saggio della comunicazione instaurata da S ci è fornito da
+2
+Domanda: “Be’, signori, avete fatto buona pesca?”
+Risposta:“Eh, eh, vedo che non andava male.”
+nella quale S gioca successivamente i ruoli di due interlocutori. Si tratta
+2
+di una parodia del dialogo la cui inefficacia è evidente.
+Questa parodia comporta elementi antifrastici: la gentilezza eccessiva
+dell’ufficiale si situa all’estremità opposta rispetto alla posizione narrativa
+dei due prigionieri, e contiene elementi di derisione; il disprezzo è il
+risultato dell’inserimento della conversazione mondana nella struttura
+/dominante/ vs /dominato/.
+Derisoria o ironica, l’antifrasi è nondimeno la forma privilegiata
+dell’espressione della verità, nell’enunciatore: anche la qualifica “signori”
+per mezzo della quale l’ufficiale si rivolge ai due pescatori, li designa in
+anticipo come “signori”, cioè “personaggi di riguardo” (Petit Robert).
+1 Modo di dire inglese, letteralmente: “valore di disturbo”. Designa l’importanza che si acquisisce
+a causa della propria capacità di nuocere. La locuzione originale è diffusa in Francia perché
+qualificava già la politica nucleare di Charles de Gaulle nei confronti degli Stati Uniti. (N.d.C.)
+2 Morissot: mort (morte, morto), rit (ride), e sot (balordo, stupido); Sauvage: sot, sauve (salva,
+come aggettivo o verbo) e sauvage (selvaggio). (N.d.C.)
+3 Implicito nella versione italiana. (N.d.C.)

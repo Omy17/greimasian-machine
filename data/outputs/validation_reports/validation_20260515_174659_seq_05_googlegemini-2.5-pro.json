@@ -1,0 +1,18 @@
+{
+  "punteggio_aderenza_metodologica": 8,
+  "giustificazione_aderenza": "Il testo da valutare utilizza correttamente molti concetti e termini di Greimas, come 'spazio cognitivo', 'anti-soggetto', e 'performanza'. Tuttavia, manca di alcune specificità metodologiche presenti nel testo di riferimento, come l'analisi dettagliata del débrayage e embrayage.",
+  "punteggio_correttezza_concettuale": 9,
+  "giustificazione_correttezza": "Le conclusioni del testo da valutare sono coerenti con quelle del testo di riferimento, in particolare per quanto riguarda la costruzione dello spazio cognitivo e l'assenza dell'anti-soggetto. Tuttavia, alcune sfumature concettuali, come la distinzione tra dono e prova, sono meno approfondite.",
+  "punteggio_copertura": 7,
+  "giustificazione_copertura": "Il testo da valutare copre molti dei punti chiave del testo di riferimento, ma manca di alcune argomentazioni dettagliate, come l'analisi del débrayage enunciazionale e l'analisi semantica approfondita della 'gioia'.",
+  "punteggio_originalita": 6,
+  "giustificazione_originalita": "Il testo è una rielaborazione intelligente del testo di riferimento, ma in alcuni punti si avvicina a una parafrasi. Manca di un'originalità significativa nella presentazione delle idee.",
+  "giudizio_complessivo": "Il testo da valutare mostra una buona comprensione dei concetti di Greimas e li applica in modo coerente. Tuttavia, manca di alcune specificità metodologiche e di una copertura completa delle argomentazioni del testo di riferimento. La rielaborazione è intelligente ma non particolarmente originale.",
+  "punteggio_finale": 8,
+  "_meta": {
+    "source_file": "20260515_174659_seq_05_googlegemini-2.5-pro.json",
+    "sequence_id": "seq_05",
+    "model_evaluated": "google/gemini-2.5-pro",
+    "judge_model": "openai/gpt-4o"
+  }
+}

@@ -1,0 +1,878 @@
+SEQUENZA IV
+LA RICERCA
+Un’ora dopo camminavano fianco a fianco sulla strada maestra. Poi raggiunsero la villa
+occupata dal colonnello; questi sorrise della richiesta e acconsentì alla loro fantasia. Si rimisero
+in marcia, muniti di un lasciapassare.
+Presto superarono gli avamposti, attraversarono Colombes abbandonata, e si trovarono al
+margine dei piccoli vigneti che scendono vero la Senna. Erano circa le undici.
+Di fronte, il villaggio di Argenteuil sembrava morto. Le alture di Orgemont e di Sannois
+dominavano tutto il paese. La grande pianura che arriva a Nanterre era vuota, completamente
+vuota, con i suoi ciliegi nudi e le sue terre grigie.
+Indicando le cime il sig. Sauvage mormorò: “I prussiani sono lassù!”
+E un senso d’inquietudine paralizzò i due amici davanti a quel paese deserto.
+I prussiani! Non ne avevano mai visti, ma da mesi sentivano che erano lì, intorno a Parigi, a
+rovinare la Francia, a saccheggiare, a massacrare, ad affamare, invisibili e onnipotenti. E una
+sorta di terrore superstizioso si univa all’odio che provavano per quel popolo sconosciuto e
+vittorioso.
+Morissot balbettò: “E se ci capitasse di incontrarne?”
+Il sig. Sauvage, con quell’ironia parigina che malgrado tutto si ridestava, rispose: “Gli
+offriremmo una frittura.”
+Ma esitavano ad avventurarsi nella campagna, intimiditi dal completo silenzio dell’orizzonte.
+Alla fine il sig. Sauvage si decise: “Su, in cammino! Ma con cautela.” E scesero in un vigneto,
+piegati in due, strisciando, approfittando dei cespugli per nascondersi, lo sguardo inquieto,
+l’orecchio teso.
+Rimaneva da attraversare una striscia di terra nuda per raggiungere il bordo del fiume. Si
+misero a correre; non appena ebbero raggiunto la sponda si rannicchiarono tra le canne secche.
+Morissot incollò la guancia alla terra per sentire se qualcuno stesse camminando nei paraggi.
+Non udì nulla. Erano proprio soli, completamente soli.
+1. Segmentazione provvisoria
+Per indicare i limiti della sequenza, e per mettere in luce le grandi linee
+della sua organizzazione interna, possiamo effettuare una prima
+segmentazione secondo criteri spaziali. Questa segmentazione terrà conto
+(i) della distribuzione generale degli spazi operata dall’enunciatore al
+momento della produzione del testo, (ii) dell’inscrizione degli attori in
+questi spazi, per come si manifesta con il loro spostamento.
+1. Abbiamo già accennato all’importanza della ricorrenza come marca di
+segmentazione: la ripetizione del frammento testuale “camminare fianco a
+fianco” ha permesso di riconoscere due tipi di spostamento: lo spostamento-
+passeggiata (che caratterizza SQ III) e lo spostamento-ricerca (che
+caratterizza SQ IV). La reiterazione di questo frammento costituisce il limite
+che separa SQ IV dal testo che la precede.
+All’interno della sequenza, lo spostamento del soggetto duale si
+scompone in una serie:
+spostamento 1 → fermata 1 → spostamento 2 → fermata 2.
+Le due fermate sono segnalate dalla presenza del lessema “margine”, che
+indica entrambe le volte un limite spaziale:
+2. I due spostamenti possono essere a loro volta distinti prendendo in
+considerazione la natura degli spazi attraversati. Attenendoci
+provvisoriamente alle denominazioni proppiane, diremo:
+Ciascuna delle fermate al “margine” di un nuovo spazio è seguita dalla
+sua esplorazione visiva da parte del soggetto cognitivo. Si tratta di una
+doppia esplorazione, segnalata dalla ricorrenza del deittico spaziale “di
+fronte”: il primo “di fronte” corrisponde alla divisione della sequenza in due
+parti, caratterizzate dai due tipi di spazio già nominati; il secondo segnala la
+fine di SQ IV e introduce l’apparizione di un nuovo spazio.
+3. Sono possibili due diverse segmentazioni, a seconda che si consideri la
+fermata come l’aspetto terminativo dello spostamento che precede o come
+l’aspetto incoativo dello spostamento che segue. Per approfondire l’analisi
+dell’organizzazione spaziale dell’insieme del racconto e, di conseguenza,
+facendo convergere i due criteri utilizzati, consideriamo la fermata come
+un’incoatività, come una sorta di presa di possesso cognitiva dello spazio da
+parte del soggetto, seguita ogni volta da una presa di possesso di carattere
+somatico.
+2. Lo spazio familiare
+2.1. Il lasciapassare
+1. La ricerca dei due amici comincia con lo spostamento, interrotto per
+un momento dalla necessità di ottenere un lasciapassare. Questo momento
+narrativo corrisponde a prima vista – se ci si attiene alla catena sintagmatica
+delle funzioni proppiane – alla prova qualificante prevista dopo la partenza
+del soggetto, che ha come conseguenza l’acquisizione di un aiutante. Il
+“lasciapassare” è, appunto, l’aiutante accordato al soggetto dal donatore (il
+colonnello Dumoulin), delegato anch’egli dal destinante della ricerca.
+In realtà le cose sono più complicate. Innanzitutto per essere qualificato
+come tale l’aiutante deve essere investito di un contenuto modale che rende
+il soggetto competente a realizzare il programma narrativo progettato
+almeno in parte. Niente di simile nel nostro caso, dove il “lasciapassare”
+non è in relazione diretta con il PN “pesca”; tutt’al più, permettendo di
+lasciare lo spazio disforico per un altro spazio supposto euforico, esso
+agevola il PN “evasione”. La partenza del soggetto non è d’altronde una vera
+e propria partenza, poiché lo /spostamento/, come funzione proppiana, si
+situa dopo l’uscita del soggetto dallo spazio familiare, ossia, nel nostro
+caso, dopo l’attraversamento degli avamposti. Esaminando l’acquisizione
+del “lasciapassare” sul piano narrativo, la sua posizione sintagmatica risulta
+di conseguenza anteriore alla prova qualificante: l’ottenimento del
+lasciapassare si inscrive nella problematica del contratto.
+2. Il contratto si presenta, nella sua forma semplificata, come una
+successione di due enunciati simmetrici, legati tra loro da una relazione di
+presupposizione logica:
+EN = F prescrizione/interdizione (De → Do)
+1
+EN = F accettazione/rifiuto (Do → De).
+2
+Il caso che abbiamo appena schematizzato è quello di un contratto
+ingiuntivo: per come è costituito lo schema, il destinante comunica il suo
+/volere/ al destinatario (il quale, a sua volta, è in grado di accettarlo o di
+rifiutarlo); /volere/ che, se è accettato, prende la forma del /dovere/. Non è
+lo schema adeguato al nostro caso, che si caratterizza innanzitutto per la
+permutazione sintagmatica dei due enunciati: il destinatario (i due amici)
+esprime il suo /volere/, che viene in seguito accettato dal destinante (il
+colonnello). Questo sintagma narrativo può essere formulato nel modo
+seguente:
+EN = F richiesta (Do → De)
+1
+EN = F permesso/impedimento (De → Do).
+2
+Questa formulazione rende conto in modo imperfetto dell’insieme del
+meccanismo messo in gioco: infatti, se nel primo caso si tratta di un /volere/
+primo del destinante, che lo trasmette e lo infonde in qualche modo al
+destinatario, nel secondo caso, al contrario, il destinatario è già in possesso
+del suo programma narrativo e del /voler-fare/ che lo organizza. Il
+destinante, in presenza di questo progetto, non fa che esercitare un /volere/
+secondo, sanzionando (positivamente o negativamente) il /volere/ già
+installato del soggetto. Diremo che si tratta in questo caso di un contratto
+permissivo che non fa altro che sanzionare il contratto ingiuntivo anteriore.
+3. Il racconto che stiamo analizzando mette dunque in evidenza
+l’esistenza di due istanze contrattuali; il primo contratto mette in gioco un
+destinante individuale e il secondo un destinante sociale. Il primo
+destinante istituisce il soggetto competente; il secondo destinante lo
+approva o – come può anche accadere – si oppone al /volere/ individuale,
+per impedire la realizzazione del suo programma, e si trasforma in anti-
+destinante.
+4. Il riconoscimento di questi due tipi di contratto e dei due livelli di
+destinazione ha come conseguenza il raddoppiamento della struttura
+polemica della narrazione. Se S (i due amici) si trova in situazione
+1
+polemica con S (il nemico che sta per incontrare), si può supporre che
+2
+ciascuno dei due soggetti dipenda, a sua volta, da un destinante individuale
+(rappresentato nel racconto della figurazione cosmica) e da un destinante
+sociale (le loro rispettive società, di cui il colonnello Dumoulin e l’ufficiale
+prussiano sono delegati). È possibile quindi dire, anticipando, che il
+destinante sociale di S rappresenta una società permissiva, mentre quello di
+1
+S è l’emanazione di una società prescrittiva (dato che l’ufficiale prussiano
+2
+opera attraverso una serie di comandi).
+Il testo manifesta in modo chiaro il carattere permissivo del destinante
+sociale, come si vede dal fatto che il PN del soggetto viene qualificato come
+“fantasia”: la fantasia, secondo la definizione corrente dei dizionari, denota
+infatti un desiderio “che non corrisponde a un bisogno reale”. Il destinante
+non esige che il programma individuale sia conforme al PN del destinante
+sociale: è sufficiente che non sia contraddittorio con esso.
+Avremmo comunque torto nel considerare che il contratto permissivo non
+comporti obblighi per il destinatario: il seguito del racconto proverà il
+contrario, poiché il “lasciapassare”, divenuto oggetto di valore detenuto dal
+soggetto e richiesto dall’anti-soggetto, giocherà un ruolo fondamentale.
+Partendo da questo destinante sociale si costituisce, da un capo all’altro del
+racconto, una nuova isotopia narrativa.
+5. Il “lasciapassare” è un oggetto ambiguo. Emanazione del contratto
+stipulato con il rappresentante di una società che detiene il potere, esso
+appare come una delega del /poter-fare/: la denominazione “parola
+d’ordine”, che gli viene affibbiata nella seconda parte del racconto, mostra
+che si tratta di un aiutante investito della modalità del /potere/. Tuttavia, pur
+facendo parte di fatto del PN “guerra”, esso recita un ruolo supplementare
+nel PN “pesca”, permettendo il passaggio da un’isotopia all’altra, come è
+previsto dall’enunciatore ma non è prevedibile per il soggetto installato e
+per l’enunciatario.
+D’altro canto questo aiutante investito del /poter-fare/ si presenta sotto
+forma di un oggetto di sapere che, proprio per la sua comunicabilità, può
+diventare un oggetto del volere dell’anti-soggetto. Riprenderemo più avanti
+l’esame delle sue trasformazioni.
+2.2. L’organizzazione spaziale del racconto
+L’attraversamento
+Dal punto di vista narrativo il “rimettersi in marcia” del soggetto munito
+del “lasciapassare” dà inizio alla ricerca e appare come un fulcro del
+racconto. Infatti:
+a) l’attraversamento degli avamposti segnala la separazione definitiva del
+soggetto dal destinante sociale Parigi; separazione sottolineata dallo scadere
+degli effetti del contratto permissivo (a causa dell’uso del lasciapassare) che
+ancora legava i due amici al destinante sociale Parigi;
+b) la fermata al “margine” dei piccoli vigneti costituisce una marca
+doppia – come fermata in generale e come fermata al margine di uno spazio
+– della disgiunzione spaziale fondamentale che sta per effettuarsi. Una
+notazione temporale apparentemente non pertinente – “erano circa le
+undici” – si aggiunge a questa disgiunzione spaziale come un indicatore di
+storicità e di unicità dell’evento.
+Tuttavia, questo attraversamento della frontiera che separa i due spazi –
+inglobato e inglobante – è un caso specifico dell’articolazione generale
+dello spazio narrativo e dobbiamo prenderlo in esame.
+Lo spazio della fiaba
+Restando fedeli alla tradizione proppiana, i semiologi russi (Meletinskij e
+il suo gruppo) pensano che la partenza dell’eroe corrisponda alla distinzione
+spazio familiare vs spazio estraneo
+separazione che segnala l’allontanamento dell’eroe dal suo “ambiente”
+abituale e la sua conseguente penetrazione in un “altrove” straniero e
+nemico.
+A esser sinceri, questa interpretazione sembra corrispondere soltanto a
+una certa classe di racconti – più che altro le fiabe russe di magia – e
+presuppone la presenza concomitante di un certo gruppo di tratti strutturali.
+a) Una relazione di conformità tra il destinante e il destinatario-soggetto,
+caratterizzata dal possesso di uno stesso sistema di valori (che in seguito è
+rifiutato o confermato dall’eroe).
+b) Questa conformità assiologica viene consolidata, al momento del
+processo di spazializzazione, dall’attribuzione, ai due attanti in tal modo
+collegati, di uno spazio comune che sarà detto “il loro” (e che traduciamo in
+modo imperfetto con il termine “familiare”). In opposizione a quest’ultimo,
+il “vasto mondo” in cui l’eroe s’avventura è considerato uno spazio
+“estraneo”.
+c) L’aggettivo possessivo, con il quale gli studiosi sovietici cercano di
+render conto dell’attribuzione ai due attanti (destinante e soggetto) di un
+certo spazio narrativo comune, ben esprime l’intervento del narratore:
+quest’ultimo si incarica di identificare lo spazio dell’enunciazione (il qui
+della narrazione) con un certo spazio parziale del racconto enunciato (il qui
+del narrato), che è poi quello del destinante sociale. Si comprende che
+questo genere di identificazione funziona in modo, per così dire naturale, se
+e solo se il narratore viene inteso come un narratore sociale che fa parte,
+sociologicamente, della società del destinante, del quale rappresenta la
+parola. Ci si può chiedere se la distribuzione topologica proposta per
+descrivere le fiabe russe di magia non possa essere caratteristica
+dell’etnoletteratura in generale.
+Ma il termine “etnoletteratura” deve essere inteso in modo abbastanza
+largo, dato che l’organizzazione topologica di cui s’è parlato sembra
+ricoprire in modi analoghi certe narrazioni che appartengono alla
+“socioletteratura” delle nostre società sviluppate. Così, accanto ai racconti
+nei quali il destinante sociale proietta fuori di sé, in uno spazio che gli è
+“estraneo”, il soggetto-eroe (che di quello spazio è invece originario),
+possiamo collocare numerosi western: in queste narrazioni lo Straniero
+(eroe sconosciuto, non rivelato) arriva in città, spazio “familiare” del
+destinante sociale; congiunzione spaziale che, grazie alla conformità
+assiologica di cui s’è detto, porta all’integrazione del soggetto-eroe.
+Débrayage ed embrayage spaziali
+Circoscrivere una classe di racconti come caratteristica del discorso
+sociale (e, definendola meglio, come tipica della letteratura orale) e, allo
+stesso tempo, escludere da questa classe gli oggetti narrativi propri al
+discorso individuale è consentito – come s’è detto – da un certo tipo di
+embrayage spaziale: embrayage operato dal soggetto dell’enunciazione, il
+quale riprende su di sé il carico dell’organizzazione topologica del
+racconto-enunciato (risultato di un débrayage iniziale) per avvicinarlo
+nuovamente all’istanza dell’enunciazione, ossia identificando lo spazio del
+destinante sociale e quello del narratore.
+Questo schema molto semplice, tipico del racconto popolare, non si
+applica ai racconti di Maupassant. In uno dei suoi racconti più celebri, La
+Ficelle, il protagonista Maître Hauchecorne, possessore di uno spazio
+familiare (la fattoria), luogo della sua morte solitaria, se ne separa per
+congiungersi con lo spazio del destinante sociale (il villaggio). L’esistenza
+di questi due spazi, entrambi “familiari”, sottolinea la contraddizione
+dell’eroe che si riconosce al contempo in due destinanti assiologicamente
+incompatibili: uno individuale e l’altro sociale.
+Accade la stessa cosa in Deux amis: il raddoppiamento dei destinanti
+(sociali e individuali) fa entrare in crisi lo schema spaziale proppiano: lo
+spazio “familiare” del soggetto (i due amici), conforme a quello del
+destinante individuale, viene figurativamente situato “sul bordo dell’acqua”,
+mentre lo spazio “Parigi” è comune al soggetto e al destinante sociale.
+Ecco le ragioni che ci hanno portato a rifiutare l’interpretazione
+proppiana, troppo particolare, e a proporre – separando le due procedure di
+débrayage ed embrayage – di trattare dapprima l’organizzazione spaziale
+del racconto-enunciato (legato al débrayage spaziale che rende oggettiva la
+spazialità rappresentata), per passare poi, separatamente, agli eventuali
+interventi dell’enunciatore.
+Lo spazio enunciato
+La descrizione della spazialità discorsiva oggettivata può essere
+concepita come una distribuzione topologica, conforme alla definizione del
+racconto e parallela al suo sviluppo. Se ci si attiene alla definizione del
+racconto come trasformazione logica situata tra due stati narrativi stabili, si
+possono considerare come spazio topico il luogo dove si trova manifestata
+sintatticamente la trasformazione in questione, e come spazi eterotopici i
+luoghi che, precedendolo e seguendolo, lo inglobano. È evidente che il
+termine “racconto” è troppo vago e che la definizione proposta – stabilendo
+la conformità tra il soggetto del PN e lo spazio che gli è attribuito – si
+applica rigorosamente a un solo programma narrativo. Quando si tratta
+invece di un racconto raddoppiato, dove si incrociano due PN autonomi –
+come è appunto il caso della fiaba russa di magia –, possono essere distinti
+due spazi topici: se quello del soggetto-eroe è situato in un altrove nemico,
+lo spazio dell’anti-soggetto (il “traditore”) si identifica con quello del
+destinante sociale dell’eroe. La stessa cosa accade quando il racconto
+comporta, come nel nostro caso, due programmi narrativi intrecciati,
+programmi i cui attanti-soggetto sono sincretizzati in un solo attore (i due
+amici): lo spazio topico, nella prima parte del racconto, è rappresentato dal
+“bordo dell’acqua” e, nella seconda parte, dall’“isola Marante”.
+Diviene necessaria, molto spesso, una sottoarticolazione dello spazio
+topico: delimitando con precisione uno spazio utopico, luogo fondamentale
+in cui il fare dell’uomo può trionfare sulla permanenza dell’essere, l’analisi
+può distinguerlo da spazi paratopici, luoghi delle prove preparatorie (o
+qualificanti) situati tra i due poli della categoria spaziale. In tal modo,
+l’articolazione dello spazio enunciato appare come la proiezione
+oggettivante del dispositivo dei deittici spaziali, originariamente collegati
+all’istanza temporale dell’enunciazione:
+Per tornare al nostro testo, l’attraversamento degli avamposti inaugura
+l’articolazione topologica del racconto: denotando l’abbandono dello spazio
+eterotopico rappresentato dall’inglobato “Parigi”, esso è al contempo
+l’apertura sullo spazio paratopico, luogo mediatore che bisogna attraversare
+per ritrovare, nel quadro della ricerca intrapresa dai due amici, lo spazio
+utopico che è per S il “luogo dei sogni”.
+1
+3. Lo spazio topico
+3.1. Nuova segmentazione.
+1. Come il soggetto dell’enunciazione, anche il lettore può segnalare a
+livello temporale una sosta, non foss’altro che per ricapitolare quel che ha
+acquisito nel corso della lettura. Si ricorderà che, cominciando l’esame di
+questa sequenza, abbiamo proposto una segmentazione provvisoria del testo
+– organizzandolo, secondo il criterio pragmatico, come una doppia fermata
+seguita da uno spostamento di S . Adesso siamo in grado di interpretare la
+1
+prima parte della sequenza omologando i segnali della segmentazione
+(manifestati sul piano discorsivo) con lo svolgimento figurativo e
+propriamente narrativo del testo:
+piano discorsivo fermata spostamento
+piano figurativo ottenimento del attraversamento
+lasciapassare
+piano narrativo sintagma contrattuale enunciato
+disgiuntivo
+Avendo situato questa parte del PN nello spazio eterotopico, non ci resta
+che analizzare la seconda parte della sequenza dove il PN si lega invece allo
+spazio topico.
+2. Un nuovo segnale di segmentazione si manifesta sotto forma del
+deittico “di fronte”, che ingloba la seconda parte della sequenza – la quale,
+come si è visto, si divide secondo la categoria
+fermata vs spostamento
+e ha come limite “Su, in cammino!”. Per consolidare quest’ultima
+divisione, è possibile riconoscere un’opposizione paradigmatica: in
+entrambi i casi si tratta di un’esplorazione, ma l’appropriazione dello spazio
+è statica e visiva nel primo caso mentre nel secondo è dinamica e cinesica.
+In parallelo all’articolazione pragmatica del racconto, che oppone
+/immobilità/ a /movimento/, appare qui una nuova dimensione, di tipo
+cognitivo, che si sovrappone alla dimensione propriamente evenemenziale.
+Dal punto di vista della narratività evenemenziale, l’insieme del testo
+delimitato dai due deittici “di fronte” comporta un solo enunciato narrativo,
+quello che denota lo spostamento di S da uno spazio all’altro. Il fare
+1
+cognitivo si sostituisce al fare pragmatico e si dispiega lungo il testo,
+articolandolo, secondo che si tratti di
+fare interpretativo vs fare persuasivo
+in due sottoprogrammi già riconosciuti grazie ad altri criteri. Ci
+torneremo. Adesso, per approfondire l’analisi, distingueremo all’interno
+della seconda parte della sequenza due segmenti complessi denominati in
+modo arbitrario
+fermata interpretativa vs spostamento persuasivo.
+3.2. Fermata interpretativa
+Nonostante la difficoltà che talvolta si incontra a tracciare limiti testuali,
+questo segmento complesso appare composto di quattro segmenti che
+possiamo così indicare in breve:
+Seg1: descrizione dello spazio topico
+Seg2: notifica della sospensione della ricerca
+Seg3: presentazione dell’attante collettivo “I prussiani”
+Seg4: accenno all’eventualità dell’incontro
+Pur non essendo in alcun modo giustificato, è lo schema secondo cui
+esamineremo il testo.
+L’esplorazione dello spazio topico
+1. La penetrazione di S nello spazio topico è segnalata, come si è visto,
+1
+da una fermata che rende possibile un’esplorazione visiva. Il risultato di
+questa esplorazione, osservando il testo da vicino, provoca una “paralisi” di
+S , ossia un’incapacità di agire nel senso del PN previsto. Tra la fermata
+1
+voluta e l’immobilità forzata è accaduto qualcosa che ha prodotto una
+trasformazione nel contenuto modale di S ; una trasformazione, più
+1
+precisamente, a livello della modalità del /potere/, che viene infatti negata:
+/poter-fare/ ⇒ /non poter-fare/.
+Dato che l’evento che precede questa perdita del potere è un’esplorazione
+cognitiva dello spazio, c’è una trasformazione del /sapere/ di S che
+1
+condiziona il suo nuovo stato di /non-poter-fare/. In altre parole, il
+segmento che abbiamo designato come “descrizione dello spazio topico”
+deve essere letto come un’operazione cognitiva che apporta un certo sapere:
+più che costituire un “brano descrittivo” offerto direttamente dal soggetto
+dell’enunciazione – e malgrado l’illusione referenziale che esso cerca di
+produrre, popolando il testo di un gran numero di toponimi – il segmento
+rende conto del fare cognitivo (di carattere interpretativo) del soggetto
+installato nel racconto-enunciato. Così, la frase inaugurale “il villaggio di
+Argenteuil sembrava morto” ha come soggetto semantico S (i due amici).
+1
+2. Prendendo in considerazione soltanto il deittico “di fronte”, ci si
+accorge che, piuttosto che essere un semplice indicatore di deissi, esso è, in
+realtà quel che altrove abbiamo chiamato un topologico, ossia un elemento
+relazionale organizzatore dello spazio. Infatti, “di fronte” non soltanto
+presuppone un soggetto situato sull’asse orizzontale in una posizione di
+prospettività, ma rinvia nello stesso tempo a “quel che è di fronte”, ossia a
+un oggetto esplorato situato nello stesso asse. Antropomorfizzando un poco
+questo oggetto, il “di fronte” si trasforma in un “faccia a faccia”, situazione
+che corrisponde all’enunciato narrativo che segnala l’incontro-scontro tra
+due soggetti. Senza comunque dare troppo peso a questo topologico (che
+mette in opera uno schema relazionale che prevede una posizione attanziale
+per un eventuale anti-soggetto), possiamo dire che – nella misura in cui il
+seguito dell’analisi lo confermerà – esso funziona come un cataforico
+discorsivo che annuncia, senza nominarli, sia un certo luogo personificato
+sia una certa presenza umana.
+3. Esaminiamo innanzitutto il significante spaziale. Accanto alla
+dimensione orizzontale sulla quale è situato il villaggio di Argenteuil
+(introdotta da “di fronte”), lo spazio topico esplorato comporta una
+dimensione verticale, riconoscibile dall’opposizione tra le “cime” (le
+“alture” di Orgemont e Sannois) e la “grande pianura (che arriva a
+Nanterre)”. Questa articolazione dello spazio in dimensioni investe anche il
+piano del significato, del quale solo certi termini vengono precisati grazie
+ad attribuzioni qualificative. Così, sulla dimensione orizzontale prospettiva
+soltanto il termine /davanti/, rappresentato da Argenteuil, è connotato come
+“morte”; mentre sulla dimensione verticale è il termine /basso/ che porta le
+qualificazioni “vuoto” e “nudo”, due interpretazioni spaziali disforiche.
+Ora, la figurazione spaziale del progetto di ricerca implica un
+avanzamento sul piano orizzontale e una discesa (sottolineata
+dall’iterazione del verbo “scendere”) su quello verticale. Se si pensa che la
+ricerca è uno spostamento euforico, ci si accorge che il supplemento
+d’informazione apportato dall’interpretazione cognitiva dello spazio rende
+presenti in modo brusco due valutazioni contrarie della ricerca stessa. La
+ricerca, euforica quando era agognata, diviene disforica nel momento in cui
+viene eseguita. Da questa esplorazione dello spazio topico risulta una
+visione premonitrice: l’esito del progetto, espresso nel linguaggio spaziale,
+connota (in sovrimpressione) il “luogo dei sogni” con i termini “morto” e
+“vuoto”. È sufficiente accostare due frasi dalla struttura sintattica identica,
+situate all’inizio e alla fine della sottosequenza
+“La grande pianura [...] era vuota, completamente vuota”
+e
+“Erano proprio soli, completamente soli”,
+per poter omologare lo spazio e l’attore che lo possiede, essendo in un
+rapporto di inglobante a inglobato
+cosa che annuncia la morte solitaria dei due amici.
+4. Si noterà tuttavia che il termine /alto/ della dimensione verticale è
+trattato in superficie in un modo un po’ diverso dagli altri: mentre i termini
+spaziali /davanti/ e /basso/ possiedono qualificazioni attribuite loro nel
+quadro di enunciati di stato, il termine /alto/ si presenta come il soggetto di
+un enunciato di fare:
+“Le alture di Orgemont e di Sannois dominavano tutto il paese.”
+L’analisi semantica mostrerebbe però che, malgrado la sua forma
+transitiva di superficie, la struttura dell’enunciato è in realtà, a livello più
+profondo, quella di un enunciato di stato – comparabile per esempio a
+quella di “Giovanni è più grande di Piero”. Questo enunciato di stato,
+conosciuto dai logici, si distingue per due tratti specifici: (a) comporta due
+attanti al posto di uno, (b) la relazione-funzione che lega questi due attanti è
+orientata e va da un attante all’altro (cosa che spiega la forma di enunciato
+di fare che prende in superficie).
+Si vede quindi che, nella misura in cui l’investimento semantico può
+riguardare sia i termini attanziali sia la funzione, disponiamo di due modi
+per rappresentare questo insieme relazionale
+laddove quest’ultima formulazione apre la possibilità di trasferire la
+struttura relazionale da un campo semantico all’altro, e spiega così il suo
+funzionamento come una categoria di “logica concreta”. Così, nel caso che
+ci riguarda adesso, il /dominio/ funziona come un’espressione spaziale della
+modalità del /poter-essere/ attribuita a un eventuale spazio nemico. Sul
+piano della premonizione, l’esplorazione dello spazio – che aveva già
+lasciato prevedere, con la presenza del topologico “di fronte”, un probabile
+incontro-scontro – insinua adesso, con la presenza del termine /dominante/,
+l’eventualità di uno stato /dominato/. Sul piano figurativo, il termine
+spaziale /dominante/, tramite della categoria /contenente/ vs /contenuto/,
+prepara l’apparizione di un anti-soggetto potente.
+Il fare interpretativo
+L’attento esame di Seg1 ci ha permesso di ricostruire il modello
+dimensionale dello spazio rappresentato davanti a S . Questa analisi del
+1
+significante spaziale ha messo inoltre in evidenza l’esistenza di un
+significato spaziale correlato termine a termine alle categorie del
+significante. Ci restano adesso da studiare più da vicino le procedure di
+percezione di questo spazio, ossia le vie e i mezzi con cui il soggetto lo
+apprende e lo interpreta sul piano cognitivo. Ovviamente si tratta di
+procedure situate sul piano dell’immaginario, messe in opera dal soggetto
+dell’enunciazione: la nostra analisi può cercare di costruire il simulacro di
+una tale rappresentazione.
+VARIAZIONI DI ISOTOPIA
+Consideriamo la prima frase di questo segmento:
+“Di fronte, il villaggio di Argenteuil sembrava morto.”
+Il topologico “di fronte”, come s’è visto, presuppone l’esistenza di un
+incontro-scontro tra un soggetto e un oggetto, sulla cui natura il soggetto è
+chiamato a pronunciarsi:
+(1) F topologico (S: due amici → O: villaggio di Argenteuil)
+In seguito a questo esame visivo il soggetto darà sull’oggetto un giudizio
+di esistenza che ha la forma di un enunciato qualificativo:
+(2) Q morte (A: villaggio di Argenteuil).
+Questa formulazione, che cerca di rendere conto del fenomeno
+linguistico di superficie, non è corretta, poiché non si tratta né della vita né
+della morte del villaggio di Argenteuil, ma di uno spazio denominato
+“Argenteuil” che il soggetto considera come un /inglobante/ che può
+comportare un /inglobato/, sul quale, in realtà, verte il giudizio /morte/. È
+necessario allora – procedendo alla lettura dell’oggetto rappresentato
+dall’attore figurativo “villaggio di Argenteuil” – operare la sostituzione
+dell’/inglobante/ con l’/inglobato/.
+(3) A /inglobante/ ⇒ A /inglobato/
+Si tratta della procedura di conversione che permette il passaggio da
+un’isotopia semantica all’altra: diremo che la categoria /inglobante/ vs
+/inglobato/ è un connettore d’isotopia. Infatti la conversione non si situa
+all’interno del solo attore “villaggio di Argenteuil”, ma si applica
+all’insieme del segmento.
+Il termine /inglobato/ si trova, d’altra parte, qualificato di “morte”: si può
+dire che la categoria semica /morto/ vs /vivente/ è una categoria contestuale
+che è sottesa, non soltanto al predicato, ma anche all’attante-soggetto
+dell’enunciato. L’oggetto dell’apprensione cognitiva comporta, dunque, in
+apparenza, oltre al sema /inglobato/, uno dei termini della categoria /morto/
+vs /vivente/:
+(4) A = /inglobato/ + /morto vs vivente/.
+Tuttavia, questa interpretazione semantica non permette ancora di dare
+una formulazione definitiva dell’enunciato qualificativo (2), poiché la
+categoria /morto/ vs /vivente/ non è che l’espressione figurativa della
+categoria astratta /assente/ vs /presente/, ottenuta da una conversione che
+utilizza il connettore metaforico, che permette il passaggio da un’isotopia
+all’altra, grazie all’esistenza di almeno un sema comune situato su entrambe
+le isotopie. Si può tentare di spiegare la scelta del termine “morto” come
+sostituto di “assente” con il fatto che “morto” – comportando al contempo il
+sema /assente/ e il sema /disforia/ – manifesta sincreticamente le due
+strutture che si realizzano nello stesso segmento testuale: la struttura della
+dimensionalità spaziale (già esaminata) della quale connota il termine
+/orizzontale + prospettivo/ e la struttura cognitiva che stiamo studiando.
+Siamo così in grado di rendere conto della conversione
+(5) A /figurativo/ ⇒ A /astratto/
+che permette di riscrivere l’enunciato (2) nel modo seguente:
+(6) Q assenza [A: /inglobato/ + /vivente/].
+Quest’analisi minuziosa – che a qualcuno potrà sembrare pignola – ha un
+duplice scopo: da una parte, mostra con un esempio concreto la distanza
+considerevole, a percorsi multipli, che separa la manifestazione di un testo
+di una lingua naturale dalla sua rappresentazione semantica; da un’altra
+parte, rende evidente l’esistenza di un livello di lettura cognitiva che si
+dispiega a partire dallo sfondo della spazialità (già significante in sé).
+LA RELAZIONE FIDUCIARIA
+1. Ci si accorge che lo sguardo del soggetto che esplora lo spazio cerca di
+rilevare, attraverso gli indizi che questo gli offre, la presenza (o l’assenza)
+umana, e che le attribuzioni conferite successivamente ai differenti termini
+spaziali, sul piano figurativo, segnalano preoccupazione. Così, l’eventuale
+presenza di un anti-soggetto è esaminata e valutata in tre posizioni spaziali:
+In due posizioni spaziali su tre la presenza umana viene negata e il
+giudizio di esistenza che verte su di esse si trasforma dunque in un giudizio
+di non-esistenza. In questi due casi, il risultato dell’esplorazione cognitiva è
+la constatazione della non esistenza dell’oggetto cercato, così come il
+sapere acquisito dal soggetto verte sulla non esistenza, che abbiamo già
+designato come:
+sapere (–e + a)
+laddove questo sapere è relativo alle due zone, prospettiva e inferativa,
+dello spazio esplorato.
+2. A questo punto bisogna insistere sul fatto che il sapere così acquisito
+non è un dato immediato ma il risultato di un’interpretazione. Infatti, “il
+villaggio di Argenteuil sembrava morto” agli occhi degli spettatori che,
+dello spazio esaminato, percepiscono solo apparenze, e solo a partire da
+questo /apparire/ devono inferirne l’/essere/. Se chiamiamo il piano
+dell’apparire piano fenomenico e quello dell’essere piano noumenico
+(lasciando ai due termini il senso di “piano di esistenza semiotica”), diremo
+che il fare interpretativo consiste nel passare da un piano all’altro:
+asserendo successivamente i due modi di esistenza, si stabilisce una
+relazione fiduciaria tra i due piani. Diversamente articolata, questa
+relazione è costitutiva di un campo di valori fiduciari – lessicalizzati come
+“certezza”, “convinzione”, “dubbio”, “ipotesi” ecc. –, campo di
+sovradeterminazioni modali di cui rimane ancora difficile immaginare
+l’economia.
+3. Il risultato tangibile di questo primo esame teorico è innanzitutto la
+diffidenza che devono ispirarci le diverse lessicalizzazioni che denotano le
+forme d’esistenza fenomenica quali “sembrare”, “apparire”, “passare per”
+ecc.; se non altro perché esse ricoprono spesso l’insieme dello schema che
+rappresenta il fare interpretativo:
+Nel caso del villaggio di Argenteuil che “sembrava morto”,
+l’esplorazione cognitiva parte, in modo manifesto, dal piano fenomenico.
+Ma, quando si tratterà di procedere allo stesso modo parlando della “grande
+pianura”, ci si accontenterà di dire che essa “era vuota, completamente
+vuota” ecc.; dove il verbo “essere”, manifestando il piano noumenico, rende
+conto in primo luogo della relazione fiduciaria. Quel che qui è cambiato
+rispetto ad Argenteuil che “sembra” morto, è il grado di certezza che verte
+sul “vuoto” della grande pianura e non il processo interpretativo come tale.
+Non disponendo di una categorizzazione sicura dei valori fiduciari, non
+siamo in grado di notare questa variazione di “gradi di certezza” che
+permettono di distinguere i due fare interpretativi. Ci accontenteremo così
+di indicare separatamente, utilizzando gli stessi simboli e e a, i modi di
+esistenza fenomenico e noumenico. Il sapere del soggetto, nei confronti
+della presenza umana, può essere descritto:
+1. nella posizione prospettiva
+sapere (a) → (–e + –a)
+2. nella posizione inferativa
+sapere (e) → (–e + –a)
+ATTUALIZZAZIONE DELL’ANTI-ATTANTE
+1. Parlando della posizione superativa (“le alture di Orgemont e di
+Sannois”) abbiamo annotato che la caratterizzava, come “/assenza/ o
+/presenza/”, la sospensione del fare cognitivo. Il procedimento
+dell’enunciatore che consiste nel lasciare una casella vuota può essere
+considerato come una sorta di “trovata drammatica” della scrittura di
+superficie, per creare tensione. Niente di stupefacente nel fatto che questa
+posizione sia ripresa un po’ oltre da un parasinonimo lessicale (“le alture”
+→ “le cime”) e che un’interpretazione nuova e definitiva le sia conferita
+con insistenza (accompagnata da un gesto deittico). La trascrizione di
+questa interpretazione è semplice
+sapere (e) ⇒ (–e + –a)
+con cui si esprime, da un lato, la /certezza/ a livello fiduciario e,
+dall’altro, la /presenza/ nascosta.
+2. Il senso globale del segmento appare adesso con chiarezza. Posto
+all’interno della sequenza che abbiano a ragione chiamato “La ricerca”,
+questo segmento, situato sul piano cognitivo, si presenta come una sorta di
+controricerca, ossia come una ricerca dell’anti-soggetto. L’esplorazione
+visiva del paesaggio postula implicitamente una presenza umana virtuale;
+presenza che, date le connotazioni disforiche delle dimensioni spaziali, non
+può che essere ostile, ma che il fare cognitivo è riuscito a negare.
+Un’ubicazione disponibile, segnalata dalla categoria della /dominazione/, è
+data dapprima come una presenza virtuale per essere poi trasformata in
+presenza attualizzata. L’anti-attante, dotato in prima istanza,
+figurativamente, della modalità del /poter-essere/, si trova rivestito di un
+nome proprio e diviene un attore.
+3. Sul piano dell’attualizzazione, il soggetto S viene confrontato con un
+1
+anti-soggetto S , o piuttosto con un anti-destinante sociale dal quale
+2
+emanerà in seguito, per una sorta di delega, un anti-soggetto realizzato.
+Questo confronto lascia a sua volta prevedere, come anticipazione,
+l’eventualità di una prova che S dovrà affrontare. Torneremo sulla
+1
+questione.
+L’anti-destinante sociale
+Un’interpretazione verbale, “I prussiani sono lassù”, serve da cataforico
+per introdurre un segmento intercalato, annunciato dalla ripresa del nome
+proprio, che può essere considerato come una definizione in espansione
+della denominazione “prussiani”. Si tratta del passaggio dalla dimensione
+pragmatica della narratività (che comprende, evidentemente, sia la
+gestualità sia il comportamento verbale) alla sua dimensione cognitiva e
+volitiva, dove si trovano situati gli “stati d’animo” e gli “eventi interiori”.
+Non insisteremo sulle caratteristiche di questo “linguaggio interiore”: altri
+prima di noi hanno studiato ciò che si è convenuto chiamare “discorso
+indiretto libero”, che è una procedura particolare assai complessa di
+débrayage. Essa consiste nella delega della parola, da parte del soggetto
+dell’enunciazione, a un soggetto dell’enunciato installato nel discorso;
+parola che poi, embraiandola, viene ripresa dallo stesso soggetto
+dell’enunciazione, il quale inizia a parlare in nome del soggetto
+dell’enunciato, facendo in modo che non si tratti più di un “io” ma di un
+“egli” qualunque, ossia mantenendo il débrayage attanziale.
+2. Ci sembra invece interessante rilevare che il segmento intercalato si
+presenta – oltre che come definizione dei “prussiani” – come l’espansione
+di un altro cataforico, l’“inquietudine”. È come se l’antagonista (invertendo
+la terminologia proppiana potremmo dire l’anti-donatore), la cui presenza è
+solo attualizzata e non reale, possa esercitare un fare su S il cui risultato
+1
+manifesto è l’“inquietudine paralizzante”. Ciò spiega le ragioni per le quali
+il segmento intercalato si presenta come un microracconto autonomo.
+3. Per riassumere brevemente questo microracconto, sarà sufficiente forse
+enumerarne le principali caratteristiche.
+a) Esso comporta l’incontro-scontro di due attori collettivi: “i prussiani”
+e “Parigi”, determinato spazialmente dalla categoria /inglobante/ vs
+/inglobato/ (si pensi a “intorno a Parigi”).
+b) Esso riprende la relazione /dominante/ vs /dominato/ ed effettua
+l’omologazione
+che trasforma un /poter-essere/ in un /poter-fare/, ossia ha l’effetto di
+narrativizzare uno stato.
+c) Esso riprende anche le qualificazioni disforiche dello spazio (“morto”,
+“vuoto”, “deserto”) per trasformarle in funzioni-predicati che descrivono un
+fare: “saccheggiare, massacrare, affamare”.
+d) Con la frase “non ne avevano mai visti, ma [...] sentivano che erano
+lì”, esso presenta il sapere di S sul nemico come:
+1
+sapere (a)⇒(–a + e).
+e) In seguito a questo fare distruttore, si istituisce l’essere di un attante, al
+modo di un’“immagine di marca”: è il momento del riconoscimento
+proppiano, della glorificazione dell’eroe. Infatti, i prussiani sono
+riconosciuti come “invisibili e onnipotenti”. Queste caratteristiche,
+comparabili agli attributi di Dio, conferiscono all’anti-destinante la
+dimensione del sacro, laddove il “terrore superstizioso” è il contro-dono del
+riconoscimento glorificante dell’eroe. Eccoci dunque al nostro punto di
+partenza: l’“inquietudine” che paralizza i due amici.
+La prova qualificante
+Dopo aver ammesso che la funzione discorsiva del segmento intercalato
+è l’interpretazione dell’“inquietudine” provocata dai prussiani, e che il
+segmento può dunque essere posizionato nel luogo riservato a questo
+lessema, occorre notare che il resto della sottosequenza che abbiamo
+intitolato “fermata interpretativa” costituisce una serie di enunciati che
+possiamo presentare, in sintesi, nel modo seguente:
+(1) “inquietudine”
+(2) “ironia”
+(3) “esitazione”.
+Esaminiamoli uno per uno.
+L’INQUIETUDINE
+Il contenuto di “inquietudine” che si trova esplicitato nel segmento
+intercalato appare come uno stato complesso. Esso è composto da:
+a) l’odio “che provavano per quel popolo sconosciuto e vittorioso”;
+b) il terrore superstizioso che provavano dinnanzi ai prussiani “invisibili
+e onnipotenti”.
+Si tratta di due “sentimenti” dotati di un’intensità estrema, in
+contraddizione evidente con la dolcezza implicata nel PN “pesca”: solo il
+cambiamento del programma narrativo – il passaggio dal PN “pesca” al PN
+“guerra” –, dovuto all’apparizione (attualizzata) dei prussiani, può renderne
+conto. Aiutandosi con i dizionari, si può notare che, se il terrore è una
+“paura estrema”, l’odio è una “viva inimicizia che porta a sperare il male o
+a far male a qualcuno”. Se, dopo aver appreso ciò si cerca di riconoscere
+quel minimo di tratti pertinenti che rende possibile opporre i due lessemi, ci
+si accorge che essi possono essere descritti, ognuno a sua volta, come
+predicati in enunciati a due attanti, e che questi predicati stabiliscono una
+relazione orientata tra questi due attanti: l’“odio” va da S a S , mentre il
+1 2
+“terrore” ha la sua origine in S e investe S . Da cui:
+2 1
+Si noterà d’altra parte che “odio” e “terrore” hanno in sé la modalità del
+/volere/ e che, dopo una riduzione semica, i due termini sembrano opporsi,
+in quanto predicati, come
+/desiderare/ vs /temere/
+Se /desiderare/ può essere considerato come una certa lessicalizzazione
+del volere, /temere/ non è un non-volere ma un volere contrario che si
+interpreta, come si è visto, all’interno di una struttura sintattica che postula
+la reciprocità dei due antagonisti. Si può dunque dire che, in seguito
+all’attualizzazione dell’anti-soggetto, il nostro S viene investito in modo
+1
+concomitante di due voleri contrari che costituiscono un termine complesso
+– o un termine neutro – dello stato volitivo del soggetto.
+Se l’analisi narrativa ha mostrato che il desiderio può essere omologato,
+sul piano figurativo, allo spostamento prospettivo, è normale proporre
+l’omologazione del timore con lo spostamento retrospettivo, di modo che:
+È facile comprendere quindi che “inquietudine” (che sussume questo
+stato volitivo complesso) provoca, sul piano somatico, la “paralisi”
+(laddove il verbo “paralizzare” significa “immobilizzare”, “rendere
+incapace di agire”).
+Questo è il primo risultato della presenza aggressiva dell’anti-soggetto.
+L’IRONIA
+1. La risposta a questa aggressione si manifesta sotto la forma
+dell’“ironia parigina”: per far fronte all’anti-destinante sociale, il destinante
+sociale (introdotto dall’aggettivo “parigina”) fa la sua apparizione. La
+produzione verbale di cui Sauvage si fa carico può essere individualizzata
+nel suo contenuto, ma resta comunque un’“attitudine mentale”, ossia una
+forma ideologica propria al destinante collettivo.
+Questo intervento si situa, non dimentichiamolo, nel momento stesso in
+cui la ricerca (che fa parte del PN “pesca”) viene brutalmente sospesa a
+causa dell’apparizione dell’anti-soggetto che attualizza un programma del
+tutto diverso (il PN “guerra”); e i due programmi si oppongono, malgrado la
+loro differente veridizione, come
+pace vs guerra
+La domanda di Morissot, “E se ci capitasse di incontrarne?” non è altro
+che l’accettazione di questo nuovo PN e di una nuova isotopia semantica. La
+risposta di Sauvage, invece, costituisce il passaggio, retto dall’“ironia
+parigina”, da un’isotopia all’altra; passaggio effettuato con l’aiuto del
+connettore antifrastico che consiste nell’offrire alla manifestazione i termini
+contrari a quelli prevedibili a partire dalla prima isotopia, operando cioè le
+sostituzioni:
+guerra → pace
+inimicizia → amicizia
+scontro → incontro amicale
+appropriazione → dono ecc.
+Nota: Si vedrà che il dono, termine antifrastico, verrà ripreso in seguito e avrà una
+realizzazione antitetica. Un tratto in più da aggiungere al carattere premonitore del testo di
+Maupassant.
+2. Quest’ironia parigina somiglia d’altronde molto da vicino a quello
+“spirito francese” del XVIII secolo, anch’esso di natura antifrastica, che
+consisteva nel non attribuire, a parole, alcuna importanza a cose gravi e
+viceversa. Quel che ci interessa è il punto preciso del testo nel quale tale
+ironia viene introdotta. Abbiamo già notato che essa si presenta come la
+risposta di “Parigi” all’attacco dei “prussiani”. Nel momento in cui
+l’aggressione dell’anti-destinante ha come effetto la produzione del “terrore
+superstizioso”, la replica del destinante “Parigi” consiste nel desacralizzare
+l’immagine del nemico “invisibile e onnipotente”. L’umorismo non è
+soltanto il miglior antidoto contro la paura ma ha una funzione narrativa
+precisa: negando il volere contrario ipostatizzato, esso restituisce a S il suo
+1
+originario /voler-fare/, il suo desiderio di proseguire la ricerca.
+L’ESITAZIONE
+1. La prova che qualcosa a questo punto è accaduto sul piano narrativo è
+fornita dall’apparizione del disgiuntivo “ma”, il cui significato è
+pressappoco il seguente: “(essi erano pronti a proseguire) ma esitavano...”.
+Questa trasformazione è d’altronde visibile se si raffrontano i due “stati
+d’animo”, quello che precede e quello che segue l’“ironia”:
+“paralisi” vs “esitazione”
+“inquietudine” vs “(stato di colui che è) intimidito”
+“davanti al paese deserto” vs “dal completo silenzio
+dell’orizzonte.”
+Si noterà facilmente l’indebolimento generale dei termini utilizzati nella
+seconda frase, dovuto alla sparizione del sema /intensità/. Sotto l’azione
+della demistificazione, il “terrore” cede il posto alla normale paura, provata
+davanti alla supposta presenza del nemico: l’apprensione visiva dello spazio
+(“quel paese deserto”), che aveva condotto il soggetto a riconoscere
+l’attributo sacro dell’“invisibilità”, è sostituita dall’esplorazione uditiva di
+quello stesso spazio (“il completo silenzio dell’orizzonte”); così partendo
+dal sapere che il nemico è e non appare – l’esplorazione dello spazio cerca i
+segnali della sua presenza su un altro piano; alla “paralisi”, che è
+un’“incapacità di agire”, viene sostituita l’“esitazione”, che è soltanto una
+“sospensione dell’azione”.
+2. Possiamo dire insomma: ciò che caratterizzava il primo stato era la
+sospensione del /voler-fare/ del soggetto, che l’intervento del destinante
+parigino ha permesso di ristabilire; ciò che invece caratterizza il secondo
+stato è la sospensione del /poter- fare/ condizionato dallo stato cognitivo,
+dal /sapere/ che pesa a favore e contro di esso. Questa modalizzazione del
+/poter-fare/, attualizzata ma inoperante, passerà allo stato di realizzazione al
+momento dell’atto di decisione, che appare in tal modo come un fare
+trasformativo situato sulla dimensione cognitiva.
+3. Così, questa vittoria sulla paura appare come una vera e propria prova
+qualificante: situata sull’isotopia della guerra, essa istituisce il soggetto
+come “eroe”, le cui performanze saranno manifestate nella seconda parte
+del racconto. Situata sulla dimensione noologica, al contempo cognitiva e
+volitiva, la prova occupa il suo posto nello spazio paratopico, in conformità
+a quanto prevede lo schema proppiano. Nel contempo la difficoltà che
+avevamo trovato nel nominare l’attante antagonista (anti-soggetto
+confrontato al soggetto, anti-destinante in rapporto al destinante parigino) si
+trova risolta: l’antagonista gioca il ruolo attanziale dell’anti-donatore, che
+permette al soggetto di superare, sul piano dell’attualizzazione, le prove;
+prove che dovrà sostenere più avanti sul piano della realizzazione.
+Malgrado la complessità del racconto letterario rispetto al racconto orale,
+e malgrado l’introduzione di numerose nuove variabili, la stabilità dello
+schema narrativo generale è notevole.
+3.3. Lo spostamento persuasivo
+Il programma pragmatico
+1. “Su, in cammino!” dà inizio all’esecuzione del programma primitivo,
+sospeso dall’inizio a causa dei problemi di competenza che il soggetto
+doveva preventivamente risolvere. Come detto questa ricerca è una discesa,
+con tutta l’ambiguità di questo termine: il luogo /basso/ è il luogo euforico
+sognato, ma anche un luogo vuoto e minaccioso (poiché dominato dall’anti-
+destinante).
+Lo spostamento si compie nello stesso tempo sulle due isotopie: su quella
+della pace (poiché ha la pesca come oggetto) e su quella della guerra
+(poiché si effettua “con precauzione”, ossia, per i dizionari, “secondo l’arte
+della guerra”).1
+2. Lo spazio topico è in effetti colmo di presenze supposte e sospette e il
+comportamento somatico di S si trova a esserne duplicato: è, da una parte,
+1
+una pratica significante, un’attività la cui significazione rinvia ed è destinata
+al soggetto; ma è anche un comportamento organizzato in vista della
+comunicazione con l’anti-soggetto. Sul programma del fare pragmatico si
+innesta così un programma del fare cognitivo.
+3. Il programma pragmatico è semplice: si tratta in realtà della
+spazializzazione dell’enunciato narrativo che mira alla congiunzione di S
+1
+con O , l’oggetto di valore che è all’origine della ricerca:
+1
+F trasf [S → (S ∩ O)]
+1 1
+laddove il fare trasformatore del soggetto è rappresentato figurativamente
+come il percorso dello spazio paratopico determinato da due limiti che il
+testo designa utilizzando il termine “margine”:
+– il “margine dei piccoli vigneti” è il limite dello spazio eterotopico;
+– il “margine del fiume” quello dello spazio utopico.
+La sottosequenza che stiamo esaminando riproduce d’altra parte in modo
+iterativo le divisioni spaziali precedentemente stabilite: la presa di possesso
+cognitiva dello spazio è seguita da un’appropriazione somatica, che prevede
+due tappe distinte del percorso, al quale in effetti corrispondono due
+paragrafi del testo:
+Un ultimo paragrafo, infine, è dedicato alla registrazione dei risultati del
+percorso.
+Il programma cognitivo
+1. A questo programma pragmatico, che fa seguito all’esplorazione dello
+spazio con lo sguardo di S , si sovrappone un secondo programma,
+1
+cognitivo, che presumibilmente si svolge sotto lo sguardo di S , invisibile
+2
+sul piano dell’apparire ma la cui esistenza noumenica è asserita come /e + –
+a/.
+Una struttura di comunicazione viene così sottesa al percorso spaziale da
+effettuare, anche se questo mira a negare la comunicazione, per ottenere con
+un disturbo dell’emissione un /non-far-sapere/ al posto del /far-sapere.
+Ora, questo disturbo costituisce (malgrado la sua forma inversa) quel che
+intendiamo per fare persuasivo: si tratta, per S , di esercitare un fare
+1
+persuasivo che verte sulla propria esistenza (sulla sua verità), di modo che il
+fare interpretativo di S , situato sull’altro polo del canale di trasmissione, ne
+2
+concluda sull’inesistenza di S (faccia una falsa constatazione sulla sua
+1
+esistenza).
+Il fare persuasivo consiste dunque nel preparare quel che abbiamo
+chiamato piano fenomenico – offerto alla lettura di S – di modo che possa
+2
+essere letta solo l’inesistenza /–e + –a/.
+La persuasione è, nel nostro caso, un’operazione che fa passare S da
+1
+/e + a/⇒/e + –a/,
+operazione rappresentabile sul quadrato semiotico nel modo seguente:
+2. La persuasione consiste dunque nel negare il termine /apparire/ per far
+sorgere il termine /non apparire/, operazione che designeremo, sul piano
+figurativo, come mascheramento. E si vede chiaramente come il successo o
+il fallimento di questa operazione dipenderà dal tipo di relazione fiduciaria
+(rf) che si stabilisce sul piano noumenico (No) e fenomenico (Fn):
+È possibile allora riconoscere, sul piano figurativo, due forme di fare
+persuasivo, alle quali corrispondono i due paragrafi della sottosequenza.
+Opponiamo così
+/mascheramento spaziale/ vs /mascheramento temporale/
+laddove entrambi consistono nell’essere visti il meno possibile: il primo
+esponendo il minor numero di parti possibile, il secondo esponendosi il
+minor tempo possibile.
+3. Guardando le cose più da vicino – e tenendo conto del fatto che il fare
+persuasivo qui in gioco si presenta come un’operazione logica /a → –a/
+(definizione stessa, a livello delle strutture profonde, della trasformazione
+narrativa) – siamo obbligati a riconoscere l’esistenza di una prova situata
+sulla dimensione cognitiva del racconto. Possiamo dunque dire,
+riassumendo, che la seconda parte di SQ IV comporta in realtà due prove: la
+prima riguarda la componente narrativa della competenza e consiste
+nell’acquisizione di un nuovo /poter-voler-fare/; la seconda riguarda la
+componente della performanza, serve a mettere alla prova S in quanto
+1
+soggetto secondo il suo /saper-fare/. In altre parole, il PN individuale di S
+1
+prosegue, malgrado l’opposizione manifestatagli dal PN sociale di S (la
+2
+“guerra”): le due prove consistono nel superare gli ostacoli indirizzati a S
+1
+da S .
+2
+4. Resta da sapere se la prova “mascheramento” riesce o meno. Da qui il
+comportamento di Morissot nel terzo paragrafo della nostra sottosequenza:
+egli pone la guancia per terra “per sentire se qualcuno stesse camminando
+nei paraggi”. Il risultato di questa esplorazione – ulteriore fare
+interpretativo – è negativo: sul piano fenomenico dell’apparire la prova
+sembra essere riuscita.
+Tuttavia, questo fare interpretativo può essere considerato in due modi:
+come l’aspetto terminativo della temporalità durativa della sequenza
+precedente o come l’aspetto incoativo di un nuovo fare temporalizzato che
+si annuncia con la sequenza successiva. Possiamo comunque rinviare il suo
+esame alla SQ V.
+1 A parte il significato originario di “stare in guardia”, non abbiamo trovato traccia della relazione
+che Greimas qui asserisce tra il francese “précaution” (da cui deriva anche l’italiano “precauzione”).
+(N.d.C.)

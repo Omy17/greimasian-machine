@@ -1,0 +1,222 @@
+{
+  "total_validations": 24,
+  "judge_model": "openai/gpt-4o",
+  "scores": [
+    {
+      "sequence_id": "seq_01",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 8,
+      "aderenza": 9,
+      "correttezza": 8,
+      "copertura": 7,
+      "originalita": 6
+    },
+    {
+      "sequence_id": "seq_01",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 8,
+      "aderenza": 9,
+      "correttezza": 8,
+      "copertura": 7,
+      "originalita": 6
+    },
+    {
+      "sequence_id": "seq_02",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 7,
+      "aderenza": 8,
+      "correttezza": 7,
+      "copertura": 6,
+      "originalita": 5
+    },
+    {
+      "sequence_id": "seq_02",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 8,
+      "aderenza": 9,
+      "correttezza": 8,
+      "copertura": 7,
+      "originalita": 6
+    },
+    {
+      "sequence_id": "seq_03",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 7,
+      "aderenza": 8,
+      "correttezza": 7,
+      "copertura": 6,
+      "originalita": 7
+    },
+    {
+      "sequence_id": "seq_03",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 7,
+      "aderenza": 8,
+      "correttezza": 7,
+      "copertura": 6,
+      "originalita": 5
+    },
+    {
+      "sequence_id": "seq_04",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 7,
+      "aderenza": 8,
+      "correttezza": 7,
+      "copertura": 6,
+      "originalita": 5
+    },
+    {
+      "sequence_id": "seq_04",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 8,
+      "aderenza": 8,
+      "correttezza": 9,
+      "copertura": 7,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_05",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 8,
+      "aderenza": 8,
+      "correttezza": 9,
+      "copertura": 7,
+      "originalita": 6
+    },
+    {
+      "sequence_id": "seq_05",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 7,
+      "aderenza": 8,
+      "correttezza": 7,
+      "copertura": 6,
+      "originalita": 7
+    },
+    {
+      "sequence_id": "seq_06",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 8,
+      "aderenza": 8,
+      "correttezza": 9,
+      "copertura": 7,
+      "originalita": 6
+    },
+    {
+      "sequence_id": "seq_06",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 7,
+      "aderenza": 8,
+      "correttezza": 7,
+      "copertura": 6,
+      "originalita": 5
+    },
+    {
+      "sequence_id": "seq_07",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 6,
+      "aderenza": 7,
+      "correttezza": 6,
+      "copertura": 5,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_07",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 7,
+      "aderenza": 8,
+      "correttezza": 7,
+      "copertura": 6,
+      "originalita": 7
+    },
+    {
+      "sequence_id": "seq_08",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 6,
+      "aderenza": 7,
+      "correttezza": 6,
+      "copertura": 5,
+      "originalita": 6
+    },
+    {
+      "sequence_id": "seq_08",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 6,
+      "aderenza": 7,
+      "correttezza": 6,
+      "copertura": 5,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_09",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 7,
+      "aderenza": 8,
+      "correttezza": 7,
+      "copertura": 6,
+      "originalita": 5
+    },
+    {
+      "sequence_id": "seq_09",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 8,
+      "aderenza": 8,
+      "correttezza": 9,
+      "copertura": 7,
+      "originalita": 6
+    },
+    {
+      "sequence_id": "seq_10",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 6,
+      "aderenza": 7,
+      "correttezza": 6,
+      "copertura": 5,
+      "originalita": 6
+    },
+    {
+      "sequence_id": "seq_10",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 8,
+      "aderenza": 8,
+      "correttezza": 9,
+      "copertura": 7,
+      "originalita": 6
+    },
+    {
+      "sequence_id": "seq_11",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 6,
+      "aderenza": 7,
+      "correttezza": 6,
+      "copertura": 5,
+      "originalita": 6
+    },
+    {
+      "sequence_id": "seq_11",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 7,
+      "aderenza": 8,
+      "correttezza": 7,
+      "copertura": 6,
+      "originalita": 5
+    },
+    {
+      "sequence_id": "seq_12",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 7,
+      "aderenza": 8,
+      "correttezza": 7,
+      "copertura": 6,
+      "originalita": 5
+    },
+    {
+      "sequence_id": "seq_12",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 7,
+      "aderenza": 8,
+      "correttezza": 7,
+      "copertura": 6,
+      "originalita": 5
+    }
+  ]
+}

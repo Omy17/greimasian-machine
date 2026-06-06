@@ -1,0 +1,560 @@
+SEQUENZA I
+PARIGI
+Parigi era bloccata, affamata e rantolante. Gli uccelli diventavano rari sui tetti e le fogne si
+spopolavano. Si mangiava qualsiasi cosa.
+1. Organizzazione testuale
+1.1. Disgiunzioni temporali e spaziali
+Il testo prescelto presenta, nella sua forma scritta, un dispositivo grafico
+che si caratterizza per la scelta dei caratteri di stampa, per il taglio delle
+frasi, per il sezionamento in paragrafi e così via. Quest’ultimo – che è
+considerato un criterio pressoché “naturale” o almeno un segnale evidente
+della presenza del narratore nel discorso – possiede sfortunatamente un
+carattere soltanto indicativo, ossia facoltativo e non necessario. Il che
+secondo noi deriva dal fatto che ogni discorso – e più che mai il discorso
+narrativo – presenta un’organizzazione multiplanare e il sezionamento in
+paragrafi pone sì delimitazioni indiscutibili ma le colloca ora su uno ora su
+un altro livello dello svolgimento del discorso.
+Così si è spesso portati a ricorrere a criteri spazio-temporali di
+segmentazione, che hanno il vantaggio di essere presenti in ogni discorso
+pragmatico, ovvero in ogni discorso che riporta serie di “eventi” o di “fatti”:
+di necessità questi si trovano inscritti nel sistema di coordinate spazio-
+temporali. Pur senza riconoscere alla segmentazione spazio-temporale un
+carattere universale e tantomeno un predominio gerarchico (vedremo del
+resto che spesso ad avere la meglio sono le disgiunzioni logiche), per la
+chiarezza dell’esposizione sembra conveniente applicare tale
+segmentazione, in prima istanza, al testo da analizzare.
+La temporalità
+È intuitivo rilevare che i primi due paragrafi del testo si presentano come
+un insieme di notazioni figurative le quali rinviano a un periodo
+determinato temporalmente, denominato /guerra/. Tuttavia la
+denominazione guerra appare solo all’inizio del terzo paragrafo, che
+racconta gli avvenimenti situati “prima della guerra”. È soltanto
+retrospettivamente, dunque, e grazie a una retrolettura dei primi due
+paragrafi che si può postulare una loro base temporale, proiettando uno dei
+due termini dell’opposizione:
+“prima della guerra” vs (durante la guerra).
+Quest’opposizione si scompone a sua volta in due categorie. Una
+categoria temporale in senso stretto:
+(1)/prima/vs/durante/ vs /dopo/.
+Una categoria denominativa, che opera la segmentazione della
+temporalità in periodi:
+(2)/guerra/ vs /pace/.
+Lo spazio testuale ricoperto dai primi due paragrafi può essere delimitato
+coniugando i termini selezionati dalle categorie (1) e (2): /durante/, che è il
+tempo nel quale si inscrivono gli eventi narrati, e /guerra/, che è la
+denominazione semantica di questo ambito temporale, assiologizzata dai
+valori presenti nel testo.
+Nota: Il narratore non utilizza nessun tipo di ancoraggio storico (datazione o allusione a eventi
+di portata socio-politica), come se con il tramite di questa omissione volesse sin dall’inizio
+presentare la guerra come un male universale e assoluto.
+La spazialità
+Se l’ancoraggio storico del racconto resta implicito, l’ancoraggio
+spaziale è invece del tutto palese: la prima parola del testo, “Parigi”, è il
+toponimo che designa uno dei luoghi che la narrazione pone.
+Questo luogo topico, Parigi – che, in quanto nome proprio, è in linea di
+principio privo di qualsiasi significazione – è immediatamente qualificato
+dall’aggettivo “bloccata”, che costituisce la prima determinazione spaziale,
+e che è possibile interpretare nel seguente modo:
+Questa semplice categoria semica permette, in conformità con la
+delimitazione spazio-temporale del testo, di opporne i primi due paragrafi al
+terzo, il quale comincia con la notazione dello spostamento disgiuntivo
+dell’attore Morissot, che passa dall’/inglobato/ all’/inglobante/ (“Morissot
+partiva...”).
+1.2. Disgiunzione attoriale
+I criteri spazio-temporali appena utilizzati, se per certi versi mostrano la
+frontiera che certamente divide i primi due paragrafi e il seguito del testo,
+sono invece del tutto inutili per distinguere i primi due paragrafi tra loro.
+Siamo così obbligati a cercare un nuovo criterio di segmentazione.
+Uno di questi sembra essere la disgiunzione attoriale. In effetti già la
+prima lettura superficiale dell’insieme del testo suggerisce spontaneamente
+la possibilità di dividerlo in due parti che si distinguono a seconda della
+dominante discorsiva degli attori in esse manifestati.
+La prima parte è caratterizzata dalla presenza continua di soggetti frastici
+rappresentati da “essi” (o, che è lo stesso, da “Morissot” e “il sig.
+Sauvage”); la seconda, invece, è dominata dall’iterazione del soggetto
+frastico “egli” (l’ufficiale prussiano). Per rendere autonomia al primo
+paragrafo, consolidando così le indicazioni del dispositivo grafico, è
+possibile suggerire un’opposizione tra questo paragrafo (che così si eleva
+alla dignità di sequenza [d’ora in poi: SQ]) e il seguito del testo. Tale
+opposizione si fonda sulla differenza tra i soggetti discorsivi:
+Per essere giustificata, la disgiunzione attoriale deve soddisfare due
+condizioni: bisogna in primo luogo mostrare che Parigi è un attore
+discorsivo permanente lungo tutta la sequenza; bisogna in secondo luogo
+fondare l’opposizione su una distinzione categoriale di due classi d’attori,
+rappresentati rispettivamente da “Parigi” e da “Morissot e il sig. Sauvage”.
+Notiamo innanzitutto che l’organizzazione frastica di SQ I presenta alcune
+difficoltà. Essa è composta da quattro proposizioni coordinate, ognuna delle
+quali ha un soggetto frastico diverso: “Parigi”, “gli uccelli”, “le fogne”,
+“si”. Se una lettura intuitiva considera evidente il fatto che il luogo topico di
+queste quattro proposizioni è sempre “Parigi”, la manifestazione testuale
+non sembra consentirlo: le quattro proposizioni messe una accanto all’altra
+possono essere lette al limite come espressioni figurative autonome,
+paragonabili, per così dire, a quattro immagini affiancate nella stessa strofa
+di una poesia simbolista.
+Il problema può apparire ozioso a chi non è interessato all’analisi
+linguistica ma costituisce un ostacolo per la grammatica discorsiva (o
+testuale), la quale desidera assicurare la coerenza del testo e rendere conto
+della permanenza degli attori, che nello svolgimento del discorso si trovano
+manifestati da differenti posizioni attanziali frastiche. Per questa ragione,
+l’esame della sequenza avrà cura di esplicitare i presupposti frastici che
+permettono di garantire la sua isotopia attoriale.
+Se si arriva a rendere conto della permanenza dell’attore “Parigi” in
+modo soddisfacente dal punto di vista linguistico (dato che si tratta di un
+problema di linguistica discorsiva, e non del livello narrativo che possiamo
+considerare translinguistico), allora si potrà fondare l’opposizione
+intersequenziale sulla distinzione
+e l’intera sequenza potrà essere letta come l’insieme delle determinazioni
+qualificanti che istituiscono “Parigi” come attore collettivo.
+Nota: Consideriamo attori individuali non soltanto gli attori provvisti di una figura individuale,
+ma anche le coppie di vario tipo (gemelli, nonna e nipote ecc.), ben note alla mitologia.
+2. La prima frase
+2.1. I ruoli tematici
+Avendo in modo provvisorio stabilito l’autonomia di SQ I, le cui
+dimensioni corrispondono alle delimitazioni del primo paragrafo, l’analisi
+semantica può seguire senza difficoltà la scomposizione sintattica in frasi
+del testo lineare. La prima frase
+“Parigi era /bloccata/, /affamata/ e /rantolante/”
+ha costruzione attributiva e possiede una struttura ternaria di
+qualificazioni, alla quale è sottesa una connotazione disforica comune che
+costituisce il supporto continuo dell’insieme della sequenza. Dal punto di
+vista semantico, la struttura ternaria si dissolve senza problemi: il primo
+elemento, che comporta una determinazione spaziale, si separa infatti dalle
+altre due qualificazioni, che ne sono sprovviste e che presentano contenuti
+fortemente assiologizzati. Ponendo che alla proposizione attributiva si possa
+attribuire lo statuto di definizione, si dirà che la denominazione “Parigi” è
+dotata di una definizione spaziale e di una definizione assiologica.
+Quest’ultima comporta due lessemi, che i dizionari correnti parafrasano
+così:
+(a) “affamato” ≃ “che soffre la fame”
+(b) “rantolante” ≃ “parlando di moribondo, che emette un rumore rauco.”
+La seconda definizione parafrastica attira subito la nostra attenzione per
+il suo carattere insolito: riesce a descrive un comportamento sonoro (“un
+rumore rauco”) solo accostandolo, come manifestazione particolare, a un
+nome d’agente (“moribondo”), essere lessematico nel quale si è tentati di
+riconoscere un ruolo tematico, ossia un soggetto dotato di un appropriato
+percorso discorsivo.
+La prima conseguenza che si può trarre da tale constatazione è
+l’estrazione del sema /umano/ dal contenuto semantico del lessema
+“rantolante” e il suo trasferimento dalla definizione alla denominazione
+“Parigi”. Essendo sinora dotata soltanto di una determinazione spaziale
+disforica, quest’ultima acquisisce così una figura antropomorfa, viene
+“personificata”, e può essere scritta come:
+“Parigi” = /inglobato/ + /disforico/ + /umano/.
+La seconda conseguenza consiste nel riconoscere al di sotto della
+manifestazione figurativa sonora di “rantolante” l’esistenza di un ruolo
+tematico che possiamo designare come /morente/ e metterlo in parallelo con
+il ruolo tematico di /vivente/ (manifestato in “affamato”: solo i viventi
+possono essere affamati). Ma dire che qualcuno è morente significa
+riconoscere che il suo stato è di /non-morte/, così come lo stato di vivente è
+di /vita/. Si tratta, è vero, di stati precari, poiché tendono verso i loro
+contraddittori /morte/ e /non-vita/. Ricordiamo altresì che la
+rappresentazione del quadrato semiotico permette di visualizzare queste
+“tendenze”:
+I lessemi “rantolante” e “affamato” descrivono posizioni incerte dei due
+ruoli /morente/ e /vivente/ sui due assi dei contraddittori: (1) per /morente/ e
+(2) per /vivente/.
+2.2. Le strutture aspettuali
+Una rappresentazione di questo tipo presta il fianco a semplici obiezioni
+di logica: i termini contraddittori sono termini discreti, categoriali, che non
+comportano una soluzione di continuità, e la negazione dell’uno fa
+immediatamente sorgere l’altro.
+Come interpretare allora i ruoli /morente/ e /vivente/, i cui percorsi
+narrativi impliciti consistono proprio nel predisporre il passaggio da un
+termine contraddittorio a un altro? La difficoltà può essere superata
+affermando l’autonomia di due livelli distinti della rappresentazione
+semiotica: un livello logico-semantico, in cui si trovano situate le
+operazioni logiche che rendono conto delle manipolazioni dei contenuti del
+testo; un livello discorsivo, in cui queste stesse operazioni logiche, una
+volta convertite, possono ricevere, sul piano grammaticale, formulazioni
+attanziali che riguardano una grammatica narrativa di superficie e, sul piano
+semantico, rappresentazioni processuali e aspettuali.
+Abbandonando provvisoriamente il livello logico-semantico, cerchiamo
+di rappresentare il funzionamento di un ruolo tematico al livello discorsivo.
+Il fatto di essere /morente/ o /vivente/ appare, a questo livello, come un
+processo continuo e, di conseguenza, dotato del sema aspettuale
+/duratività/: si dirà che a uno stato di natura logica corrisponde, come
+conseguenza della procedura di temporalizzazione, un processo durativo; in
+altri termini: la durata è la rappresentazione temporale di uno stato. Il
+processo durativo, a sua volta, può essere delimitato da due aspettualità
+puntuali: l’/incoatività/ e la /terminatività/. Così, nel caso di /morente/, il
+processo soggiacente comporta un aspetto durativo – corrispondente al
+termine logico /non-morte/ – e un aspetto terminativo – corrispondente al
+termine /morte/. Un terzo sema aspettuale deve essere introdotto a questo
+proposito, quello di /tensività/ (indispensabile quando si vuol dare, per
+esempio, la rappresentazione semantica di lessemi come “abbastanza”,
+“vicino”, “troppo”, “lontano” ecc.): può essere definito come la relazione di
+tensione che il sema durativo contrae con uno o con l’altro sema puntuale.
+Nel caso che ci interessa, la relazione tensiva tra il processo durativo e il
+suo compimento (l’aspetto puntuale terminativo) sembra poter rendere
+conto del percorso narrativo dei due ruoli /morente/ e /vivente/.
+L’interpretazione che abbiamo abbozzato è riassunta nello schema seguente:
+Lo schema mostra che la relazione tensiva è orientata: se, a partire dalla
+posizione /duratività/, corrispondente a /vita/, tale relazione fosse orientata
+in senso inverso, si andrebbe verso il termine /incoatività/, che rende conto
+del ruolo tematico del /nascente/. Partendo, al contrario, dalla posizione
+durativa correlata a /morte/, si potrebbe stabilire la tensione verso l’aspetto
+terminativo corrispondente a /non-morte/, dando la rappresentazione del
+ruolo di /resuscitante/.
+A giusto titolo ci si domanderebbe quale sia l’ubicazione esatta dei
+lessemi “affamato” e “rantolante” nel dispositivo che abbiamo costruito. Per
+la loro presenza nel testo questi lessemi evidentemente giustificano la
+costruzione del meccanismo che rende conto del funzionamento aspettuale
+dei ruoli tematici e che fa altresì da scambio tra i contenuti “mortali”
+profondi e la denominazione “Parigi” alla quale sono attribuiti. Ma c’è di
+più. Questi lessemi sono espressioni figurative che denotano l’esaurimento
+progressivo della vita e, così facendo, sono parte di un inventario di
+variabili stilistiche a disposizione delle scelte del soggetto
+dell’enunciazione. Inscritte nel contesto delle costrizioni semiotiche che
+abbiamo cercato di esplicitare, non appena si raggiunge il livello figurativo
+queste scelte diventano più aleatorie (a prima vista non c’è ragione per cui
+l’enunciatore sia portato a scegliere necessariamente nella serie di
+privazioni possibili la “fame” o il “rantolo” tra le tante eventuali
+manifestazioni della morte).
+Un ultimo sema aspettuale, quello di /intensità/, deve essere tuttavia
+introdotto: segnala l’esatta posizione, molto vicina al punto terminativo,
+nell’esecuzione del percorso narrativo di /vivente/ e di /morente/.
+2.3. Una logica delle approssimazioni
+Il riconoscimento di due livelli autonomi di rappresentazione semantica –
+il livello logico e quello discorsivo – e di una certa equivalenza che si può
+postulare tra queste due rappresentazioni ha una certa importanza per
+l’intera teoria semiotica. Il fatto che, per essere manifestata nel discorso, la
+struttura logica del contenuto possa essere temporalizzata, e che categorie
+logico-semantiche dell’organizzazione profonda possano essere interpretate
+grazie a categorie aspettuali della temporalità, permette di comprendere e
+di conciliare due tipi di trasformazioni: le trasformazioni strutturali e le
+trasformazioni discorsive. Così, per esempio, la descrizione della storia
+fondamentale, concepita come una serie di trasformazioni delle strutture
+profonde, non esclude ma, al contrario, autorizza la sua proiezione sull’asse
+della temporalità, dove la storia intesa come discorso ritrova le durate, le
+puntualità e le tensioni. Per rendere chiara questa constatazione basta
+considerare un dettaglio della storia della lingua francese: se il passaggio
+dal francese antico (lingua con declinazioni) al francese moderno (lingua
+senza declinazioni) appare come una trasformazione strutturale, questo
+cambiamento si estende, a livello della temporalità di superficie, per circa
+trecento anni, periodo in cui trasformazioni discorsive parziali, procedure di
+mediazione e di supplenza hanno avuto tutto il tempo di manifestarsi.
+Sarebbe d’altra parte difficile spiegare un insieme non trascurabile di fatti
+semiotici se non lo consentissero la copertura della contraddizione logica
+attraverso la temporalità e la sua interpretazione aspettuale in termini di
+tensioni tra ciò che è presente e ciò che è ancora assente (con le
+sovradeterminazioni intensive che abbiamo visto avvicinare i contenuti
+investiti all’uno o all’altro dei termini contraddittori).
+La logica naturale (o logica concreta), le cui manifestazioni sono
+frequenti nei testi mitici, sacri, poetici ecc., è caratterizzata dall’uso di
+categorie relative, i cui termini invece di presentarsi come discontinuità
+categoriali si oppongono tra loro come il più al meno, l’eccesso
+all’insufficienza, il plusvalore al mancato profitto (si pensi, per esempio,
+all’eccessiva o scarsa considerazione in cui sono tenute le relazioni di
+parentela, una delle categorie esplicative del mito di Edipo secondo Lévi-
+Strauss).
+Rendere relativa, in questo modo, la contraddizione ci permette di
+intravedere la possibilità di una logica delle approssimazioni che tratterebbe
+oggetti dai contorni approssimativi, come fa la topologia, e sarebbe
+altrettanto rigorosa della logica categoriale.
+Per tornare all’analisi del nostro caso specifico, il meccanismo aspettuale
+che abbiamo costruito segnala, sull’asse della durata, la posizione
+discorsiva del ruolo tematico come molto vicina (a causa della tensione
+terminativa e dell’intensità che la sovradetermina) alla sua conclusione,
+ossia alla posizione che a livello logico-semantico corrisponde
+rispettivamente ai termini /non-vita/ e /morte/. Adottando il segno ± per
+indicare l’approssimazione, si possono allora definire i ruoli tematici come
+equivalenti o, che è lo stesso, come conversioni dei termini categoriali in
+modo che:
+/vivente/ ≃ /± non-vita/
+/morente/ ≃ /± morte/.
+A questo punto si può offrire una rappresentazione semantica della
+proposizione attributiva, che consideriamo come definizione della
+denominazione toponimica “Parigi”:
+Parigi = [inglobato] + [/± non vita/ + /± morte/] + [disforico] + [/umano/ + /figurativo/]
+3. La seconda frase
+3.1. L’isotopia discorsiva
+Quando si passa da una frase realizzata in una lingua naturale alla frase
+immediatamente successiva, si pone, sul piano testuale, il problema della
+coerenza discorsiva. L’esistenza del discorso – e non di una successione di
+frasi indipendenti – può essere affermata solo postulando che la totalità
+delle frasi che lo compongono costituisca un’isotopia comune, riconoscibile
+grazie alla ricorrenza nel suo svolgersi di una categoria o di un fascio di
+categorie linguistiche. Così, siamo inclini a pensare che un discorso
+“logico” debba essere supportato da un reticolo di elementi anaforici che,
+richiamandosi da una frase all’altra, garantiscono la sua permanenza topica.
+Al contrario, il discorso poetico – soprattutto quando mira
+consapevolmente all’“abolizione della sintassi” – manifesta in superficie
+una certa incoerenza grammaticale, a causa dell’omissione delle marche di
+ricorrenza. Tra i due estremi si collocano tutti i tipi di discorsi che
+potremmo dire imperfetti, nello stesso senso in cui tutte le manifestazioni
+delle lingue naturali sono imperfette rispetto all’idealità delle forme
+grammaticali postulate. Questi discorsi sono immediatamente comprensibili
+e, al contempo, incoerenti in superficie: la loro lettura, scontata per l’utente
+della lingua, crea ostacoli pressoché insormontabili al linguista, che si
+preoccupa di far risaltare tutti gli impliciti e di fondare la permanenza
+dell’isotopia discorsiva con oggettività, attraverso il riconoscimento delle
+marche di ricorrenza. Anche le ansie pignole del linguista, che si sforza di
+portare alla luce i complessi reticoli di presupposizioni soggiacenti a ogni
+discorso, sembrano spesso futili al semiologo che si interessa solo delle
+grandezze testuali transfrastiche.
+Nella nostra sequenza non c’è apparentemente nulla a indicare che la
+seconda frase (composta da due proposizioni coordinate) segua la prima, e
+che perciò sia la descrizione della città di Parigi. Nulla, se non il semplice
+fatto della loro successione. È come se la semplice contiguità (comparabile
+al ruolo che gioca nella sintassi freudiana del sogno) costituisse da sola
+l’elemento del piano dell’espressione che ricopre e segnala la relazione tra
+due unità frastiche, fondando così la loro successione come significazione.
+Per rendere conto della natura di questa relazione, è però preferibile
+affrontare il problema da un altro lato. Se, come dice Hjelmslev, una delle
+prime operazioni dello studioso di sintassi è la catalisi (ossia
+l’esplicitazione degli elementi frastici impliciti) il lessema “Parigi” può
+essere introdotto nelle due proposizioni coordinate con il ruolo di
+determinante:
+“i tetti (di Parigi)”
+“le fogne (di Parigi)”
+In tal modo, la relazione tra “Parigi” da una parte, i “tetti” e le “fogne”
+dall’altra, si presenta come una relazione tra determinante e determinato o,
+più grossolanamente, come una relazione ipotattica. Ma non è tutto. Se il
+lessema “Parigi” (o l’attore Parigi, in termini semiotici) occupa nella prima
+frase la posizione di attante soggetto, esso ha nella seconda proposizione
+coordinata il ruolo di determinante del soggetto. Constatando nelle due frasi
+la ricorrenza di “Parigi” come segnale dell’isotopia, si può dire allora che la
+loro è una relazione ipotattica semplice.
+La situazione è diversa se si considera la prima proposizione, in cui
+“Parigi” ha la funzione di determinante non più del soggetto ma del
+circostante “tetti”. Dato che il circostante si situa, nella gerarchia
+dell’enunciato semplice, a un livello di derivazione inferiore, la relazione
+tra “Parigi” (soggetto della prima frase) e “Parigi” implicito della seconda
+frase (determinante di “tetti”) non è più una relazione ipotattica semplice:
+essa rappresenta una sorta di cascata di relazioni ipotattiche il cui numero
+corrisponde a quello dei piani di derivazione dei costituenti dell’enunciato.
+Diremo allora che si tratta di una relazione ipotattica complessa.
+Nota: Come ha fatto notare un collega di Ottawa, gli articoli determinativi “i tetti” e “le fogne”
+possono essere intesi avere una funzione anaforica supplementare e servire da marche di
+ricorrenza discorsiva. Essi avrebbero la funzione di scambio, rinviando contemporaneamente
+all’antecedente “Parigi” della prima frase e al determinante “Parigi” implicito. (Si pensi a “amo
+Parigi” → “amo la Parigi d’anteguerra”.)
+A questo proposito, possiamo aggiungere due osservazioni.
+Da ciò che abbiamo detto sulla relazione ipotattica risulta che l’isotopia
+discorsiva non può essere identificata, dal punto di vista strutturale, con la
+semplice concordanza grammaticale. Si tratta invece del meccanismo di
+rezione (paragonabile alla relazione che si stabilisce, per esempio, tra una
+preposizione latina e il genitivo che regge), di una rezione semantica nel
+senso che Tesnière ha dato a questo qualificativo. Infatti, se le relazioni che
+si stabiliscono tra i termini anaforizzabili possono essere descritte come
+relazioni sintattiche di selezione, i termini che si trovano in tal modo
+collegati sono riconoscibili solo grazie alle loro determinazioni semantiche.
+Si vede anche, d’altra parte, fino a che punto il termine retorico metonimia,
+che abbiamo usato spontaneamente per denominare il fenomeno esaminato,
+resti vago; c’è tutto l’interesse a sostituirlo con definizioni grammaticali
+precise.
+L’esame di questo caso particolare di isotopia discorsiva, se le sue
+conclusioni possono essere generalizzate, fa un po’ di luce sulle relazioni
+esistenti tra il discorso e la frase, tra la linguistica discorsiva e la linguistica
+frastica.
+L’isotopia sulla quale si regge tutta la sequenza discorsiva è quella della
+spazialità, manifestata nel testo sotto forma di terminali lessicali (“Parigi”)
+espliciti o impliciti. In confronto a questa linearità semantica, le
+rappresentazioni sintattiche che si potrebbero dare di frasi prese
+individualmente si trovano sfalsate, rendendo conto ogni volta di una
+distanza retorica differente.1
+3.2. La rappresentazione spaziale
+Riconosciuta l’esistenza di un’isotopia spaziale che soggiace alla
+sequenza discorsiva – come d’altronde dei modi in cui le frasi particolari si
+attaccano a questa base discorsiva – siamo autorizzati a dare di questa
+spazialità una rappresentazione semantica più profonda.
+I lessemi deittici “tetti” e “fogne”, rappresentanti ipotattici dello spazio
+“Parigi”, si dispongono, una volta accostati paradigmaticamente, sull’asse
+della verticalità nel modo seguente:
+La categoria spaziale /inglobato/ vs /inglobante/, che abbiamo ricavato a
+partire dal lessema “bloccata”, si situa al contrario sull’asse
+dell’orizzontalità e inscrive così l’attore Parigi nel sistema di coordinate:
+Se si aggiunge che i termini /alto/ e /basso/ sono posizioni sull’asse della
+verticalità a partire dalle quali sono costruite le superfici piane orizzontali,
+si vede che lo strato “tetti” costituisce una sorta di coperchio e lo strato
+“fogne” il fondo di questa costruzione spaziale “a pentola”, le cui pareti
+rappresentano il cilindro ottenuto con l’aggiunta della superficie verticale
+alla rotondità orizzontale dell’/inglobante/. La figura spaziale dell’attore
+Parigi è costituita da questa specie di pentola, una costruzione astratta a
+partire dalla quale possono essere prodotte le realizzazioni lessicali
+“bloccata”, “tetti” e “fogne”.
+3.3. L’esplicitazione semantica
+Il confronto delle due proposizioni coordinate:
+mostra la loro indiscutibile parentela semantica. Malgrado le posizioni
+sintattiche differenti, “i tetti” e “le fogne” (3) appartengono alla stessa
+classe semantica dei deittici spaziali; i due predicati (2) appaiono come
+parasinonimi riconducibili all’espressione comune /rarefazione/. Solo gli
+“uccelli” (1), attore zoomorfo omologabile al suo spazio “tetti”, non hanno
+un corrispondente nella proposizione (b). L’esplicitazione di questo termine
+assente non crea tuttavia nessuna difficoltà, almeno sul piano intuitivo. Gli
+esperimenti fatti con uditori diversi fanno risaltare la seguente relazione:
+Questa catalisi è di ordine semantico e non grammaticale, come lo era nel
+caso dell’esplicazione di “Parigi” che determinava “tetti” e “fogne”. Essa
+sembra potersi spiegare grazie alla coabitazione dei due lessemi “fogne” e
+“topi” in una stessa configurazione discorsiva, riducibile al ruolo tematico
+di topo; questa coabitazione riguarda l’uso e non la struttura linguistica,
+nella dimensione pertanto probabilistica in cui si costituiscono gli stereotipi.
+3.4. Gli investimenti assiologici
+I due attori così riconosciuti sono esseri zoomorfi dotati di una certa
+forma di vita. In quanto attori, possono essere considerati ruoli tematici,
+ossia come soggetti discorsivi suscettibili di svolgere ciascuno un percorso
+narrativo di cui il testo indica tuttavia soltanto i luoghi di eventuale
+realizzazione. A partire da tali ruoli sono possibili diversi percorsi
+sintagmatici che sviluppano altrettanti programmi narrativi: l’illusione della
+“ricchezza” del testo e della molteplicità delle possibili letture trova così la
+sua ragion d’essere.
+Queste virtualità tuttavia sorgono soltanto se la lettura effettua una pausa,
+se fissa il testo a un momento dato del suo svolgimento. Il progredire
+dinamico del testo scarta con immediatezza, come fossero nati-morti, certi
+percorsi pure probabili e conserva solo quelli che sono necessari alla
+coerenza globale del testo stesso. Noi allora proporremo una sola lettura,
+quella che ci sembra conforme sia all’organizzazione semantica della
+sequenza sia all’isotopia ricorrente nell’insieme del testo.
+L’omologazione di esseri zoomorfi come gli “uccelli” e i “topi” ai loro
+rispettivi spazi ci sembra di poter esser estesa nel modo seguente:
+Il seguito del testo mostrerà senza difficoltà che gli elementi /aria/ e
+/terra/ – nominati nell’idioletto di Maupassant come /Cielo/ e /Mont-
+Valérien/ e disforici per eccellenza – sono rappresentazioni figurative dei
+contenuti /non-vita/ e /morte/. A causa dell’attraversamento lineare che ci
+siamo imposti di mantenere non possiamo anticipare i dati dell’analisi.
+Possiamo però ritenere, a titolo d’ipotesi forte, che i nostri attori siano
+legati, in qualità di esseri “viventi”, a spazi “mortali”:
+Il parallelismo tra la situazione così descritta e lo schema aspettuale
+stabilito per rendere conto dei contenuti investiti nei lessemi “affamato” e
+“rantolante” è sorprendente: ai ruoli tematici inscritti a sinistra
+corrispondono i termini categoriali (rappresentati figurativamente come
+spazi mortali) inscritti a destra. La differenza essenziale tra le due
+descrizioni risiede tuttavia in alcuni fatti. Nel primo caso, la mediazione
+discorsiva che permette il passaggio dai termini contraddittori /vita/ e /non-
+morte/ ai termini /non-vita/ e /morte/ era concepita come un aumento della
+tensione tra l’aspetto durativo e l’aspetto terminativo; nel caso che
+esaminiamo adesso, invece, lo stesso passaggio è realizzato
+discorsivamente sotto forma di una diminuzione della tensione tra i termini
+incoativi (/vita/ e /non-morte/) e i termini durativi (/non-vita/ e /morte/).
+Inoltre, l’aspetto intensivo era espresso, nel primo caso, qualitativamente
+(attraverso la fame e i rumori rauchi), mentre qui l’aspetto “detensivo” (che
+segnala la diminuzione della tensione) è manifestato quantitativamente
+(attraverso la rarefazione della vita, ossia attraverso il passaggio da /grande
+quantità/ a /piccola quantità/). Queste differenze saranno più evidenti se si
+confronta lo schema riprodotto in 2.2 con lo schema seguente:
+Nota: In opposizione all’aspetto intensivo, marcato da un /+/, l’aspetto detensivo è marcato da
+un /–/.
+Tutto questo vuol dire, in modo molto semplice, che, situata in uno
+spazio “mortale” assimilato a uno stato durativo e permanente, la vita,
+qualunque sia la sua forma, non è che l’incoazione della morte. Dato che i
+due spazi mortali sono rappresentati come orizzontali – un sostrato e un
+substrato –, quel po’ di vita che resta ancora a Parigi svanisce
+progressivamente, sull’asse verticale, andando sia verso l’alto sia verso il
+basso.
+Si vede in tal modo che, pur introducendo nuove categorie spaziali, la
+seconda frase della sequenza reitera gli stessi contenuti assiologici:
+/± non-vita/ + /± morte/.
+4. La terza frase
+4.1. La figura spaziale di Parigi
+Non sembra necessario riproporre la dimostrazione del modo in cui
+l’ultima frase della sequenza sia agganciata all’isotopia spaziale dominante.
+Tale è la chiusura dello spazio “Parigi” – effettuata sugli assi orizzontale
+e verticale – che il narratore può permettersi l’implicitazione del sintagma
+circostanziale nel suo insieme, e non più soltanto del determinante “Parigi”
+di questo sintagma. La catalisi rivela appunto la presenza del circostante:
+(/a/ Parigi)
+dove “Parigi” rappresenta il luogo topico della sequenza, mentre “a”
+stabilisce la relazione topologica tra, da una parte, il volume inglobante
+costituito con Parigi e, dall’altra, lo spazio inglobato nel quale viene situato
+il processo enunciato da quest’ultima frase.
+Un luogo interno, un /contenuto/ in rapporto a un /contenente/, costituito
+al momento della produzione delle prime due frasi, viene in tal modo
+creato, portando a termine il tracciato della figura spaziale dell’attore
+Parigi.
+4.2. Verso l’abolizione del senso
+Se si considerano gli attanti linguistici di questa frase, ossia:
+si può notare che entrambi appartengono alla classe morfologica
+tradizionalmente designata dei pronomi indefiniti, e che perciò entrambi
+comportano i semi grammaticali:
+/indefinito/ + /anaforico/.
+Essi tuttavia si oppongono in quanto termini della categoria:
+/umano/ vs /non-umano/,
+e rinviano, nella loro qualità di anaforici, a contenuti anteriormente
+manifestati: al soggetto “si” corrispondono i contenuti investiti nella prima
+frase, le cui manifestazioni lessematiche “affamato” e “rantolante”
+definiscono Parigi come un soggetto /umano/; all’oggetto “qualsiasi cosa”
+corrisponde, nella seconda frase, la presenza di esseri zoomorfi, definibili
+come /non-umani/, che sono a loro volta oggetti di consumo e consumatori
+di qualsiasi cosa.
+Se si tiene conto sia delle determinazioni grammaticali, che definiscono i
+due attanti frastici, sia del loro carattere anaforico, grazie al quale essi
+riprendono e sussumono i contenuti assiologici rivelati dall’analisi
+precedente, è possibile rappresentare la struttura attanziale della frase
+esaminata nel modo seguente:
+Non resta che interrogarci sulla natura del predicato “mangiare” che, in
+quanto funzione, stabilisce la relazione tra attanti e costituisce l’enunciato.
+Trattandosi di un predicato transitivo, si può dire che sotteso alla
+manifestazione della nostra frase, si trova un enunciato canonico (che
+comporta un minimo di investimento semantico a livello della relazione
+funzionale) e questo è un enunciato del fare, che mira a trasformare lo stato
+di cose anteriore alla sua produzione. Questa trasformazione di stato può
+essere descritta come la congiunzione del soggetto con l’oggetto di valore
+rappresentato dal cibo. Ora, se si considerano i contenuti assiologici
+investiti nei due attanti che si trovano congiunti dal processo “mangiare”, si
+nota che essi hanno ricevuto nel corso della nostra analisi una
+rappresentazione semantica identica:
+/± non-vita/ + /± morte/,
+cosa che può essere parafrasata più o meno così: “i moribondi mangiano i
+moribondi.”
+Così, sulla base della concezione generale del sorgere della significazione
+– secondo la quale esso può essere concepito come l’apparizione di
+differenze in seguito a operazioni disgiuntive – siamo in grado di suggerire
+che la congiunzione di identità proposta dall’ultima frase può essere
+interpretata come la forma figurativa dell’abolizione del senso. Si noterà
+che questa sospensione del senso, generalizzata dal carattere /indefinito/ del
+soggetto e dell’oggetto, si trova comunque relativizzata e attenuata dalla
+determinazione approssimativa dei contenuti assiologici. Lo stato di Parigi
+si situa quindi al limite dell’assenza di senso.
+5. Osservazioni finali
+Per riassumere, si possono riprendere i primi risultati ottenuti dall’analisi
+di questa breve sequenza, in forma di constatazioni.
+1. I contenuti investiti nella sequenza si inscrivono nel sistema di
+coordinate spazio-temporali; solo che, mentre la coordinata spaziale è
+utilizzata per promuovere lo sviluppo discorsivo, la coordinata temporale
+procede alla loro denominazione identificandoli con il periodo detto
+“guerra”, autorizzando omologazioni ulteriori nel seguito del discorso.
+2. I contenuti assiologici, formulati a livello profondo, si rivelano
+ricorrenti: da questo punto di vista, la loro messa in discorso non apporta
+informazioni supplementari.
+3. La discorsivizzazione si produce in due maniere distinte: a) con lo
+sviluppo, sotto forma di nuove articolazioni categoriali, del fascio di
+categorie spaziali che costituiscono l’isotopia fondamentale della sequenza;
+b) attraverso la figurativizzazione dei contenuti, ottenuta grazie alla
+mediazione dei ruoli tematici.
+4. In rapporto alla costanza iterativa dei contenuti, le variazioni di
+costruzioni sintattiche di superficie sembrano giocare un ruolo che
+potremmo chiamare stilistico; infatti, le tre frasi esaminate possiedono
+ciascuna una struttura differente: attributiva, intransitiva e transitiva.
+5. Dal punto di vista narrativo, la sequenza si presenta – diciamolo –
+come la definizione della denominazione dell’attore Parigi. Tuttavia, la
+definizione non è statica ma dinamica: le trasformazioni annunciate non si
+concludono. Parigi non è morta, ma è sul punto di morire. Questo carattere
+dinamico è reso dalla disposizione delle strutture aspettuali, situate a un
+livello meno profondo di quelle logico-semantiche, ma omologabili per
+certi versi a esse. La temporalizzazione delle trasformazioni è riconoscibile
+grazie alla duratività del processo, ma anche grazie all’iteratività dei
+contenuti ricorrenti.
+6. Vale la pena, infine, tenere a mente che il racconto comincia e si
+conclude con il comportamento figurativo del consumo alimentare.
+1 L’edizione originale di Maupassant (Seuil, Paris, 1976) propone un complesso diagramma ad
+albero, qui non ripreso, della struttura linguistica delle prime due frasi di Due amici. (N.d.C.)
+INDICE
+Prefazione
+Algirdas J. Greimas, in segno d’amicizia
+Stefano Bartezzaghi
+Due amici
+di Guy de Maupassant
+Racconto, prima edizione: 1883
+MAUPASSANT
+La semiotica del testo in esercizio
+Premessa
+SEQUENZA I
+Parigi
+1. Organizzazione testuale
+1.1.Disgiunzioni temporali e spaziali
+La temporalità
+La spazialità
+1.2.Disgiunzione attoriale
+2. La prima frase
+2.1.I ruoli tematici
+2.2.Le strutture aspettuali

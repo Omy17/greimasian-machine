@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-02-25T14:58:59.141026",
+    "model_provider": "openrouter",
+    "model_name": "anthropic/claude-3.5-sonnet",
+    "text_file": "ricetta_carbonara.txt",
+    "question_id": "advanced_greimas",
+    "question_text": "Analizza il seguente testo utilizzando la semiotica strutturale di Greimas.",
+    "system_prompt": "Sei un lettore attento. Analizza i testi che ti vengono sottoposti descrivendo come sono costruiti.",
+    "temperature": 0.1,
+    "execution_time_seconds": 15.56,
+    "input_length": 939,
+    "response": "Analizzerò il testo della ricetta della Carbonara secondo il modello semiotico di Greimas:\n\n1. Struttura del testo:\n- Il testo è chiaramente diviso in due sezioni principali: \"Ingredienti\" e \"Procedimento\"\n- La prima parte è un elenco nominale\n- La seconda parte è una sequenza numerata di istruzioni\n\n2. Livello narrativo:\n- Soggetto: il cuoco/lettore che esegue la ricetta\n- Oggetto: la preparazione della Carbonara\n- Destinante: la tradizione culinaria italiana\n- Destinatario: i commensali\n- Aiutanti: gli strumenti di cucina (padella, pentola, etc.)\n- Opponenti: possibili errori tecnici (es. uova che si rapprendono)\n\n3. Programma narrativo:\n- Stato iniziale: ingredienti separati\n- Trasformazione: processo di cottura e assemblaggio\n- Stato finale: piatto completo\n\n4. Aspetti modali:\n- Dover fare: seguire precisamente la sequenza\n- Saper fare: competenze culinarie necessarie\n- Poter fare: disponibilità di ingredienti e strumenti\n- Voler fare: desiderio di preparare il piatto\n\n5. Isotopie (temi ricorrenti):\n- Temporale: sequenza cronologica delle azioni\n- Trasformativa: modificazione degli ingredienti\n- Termica: alternanza caldo/freddo\n- Consistenza: cremosità come obiettivo\n\n6. Elementi prescrittivi:\n- Uso dell'infinito nelle istruzioni\n- Precisione nelle quantità\n- Indicazioni temporali e sequenziali\n- Avvertimenti tecnici\n\nQuesta struttura riflette la natura performativa del testo, finalizzata a guidare il lettore verso un risultato specifico attraverso una serie ordinata di operazioni."
+}

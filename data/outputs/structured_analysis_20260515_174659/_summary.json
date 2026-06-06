@@ -1,0 +1,241 @@
+{
+  "timestamp": "20260515_174659",
+  "total_analyses": 36,
+  "models": [
+    "anthropic/claude-3.5-sonnet",
+    "google/gemini-2.5-pro",
+    "openai/gpt-5.1"
+  ],
+  "sequences": [
+    "seq_01",
+    "seq_02",
+    "seq_03",
+    "seq_04",
+    "seq_05",
+    "seq_06",
+    "seq_07",
+    "seq_08",
+    "seq_09",
+    "seq_10",
+    "seq_11",
+    "seq_12"
+  ],
+  "results": [
+    {
+      "sequence": "seq_01",
+      "model": "anthropic/claude-3.5-sonnet",
+      "time": 2.44,
+      "file": "20260515_174659_seq_01_anthropicclaude-3.5-sonnet.json"
+    },
+    {
+      "sequence": "seq_01",
+      "model": "google/gemini-2.5-pro",
+      "time": 46.95,
+      "file": "20260515_174659_seq_01_googlegemini-2.5-pro.json"
+    },
+    {
+      "sequence": "seq_01",
+      "model": "openai/gpt-5.1",
+      "time": 45.62,
+      "file": "20260515_174659_seq_01_openaigpt-5.1.json"
+    },
+    {
+      "sequence": "seq_02",
+      "model": "anthropic/claude-3.5-sonnet",
+      "time": 2.46,
+      "file": "20260515_174659_seq_02_anthropicclaude-3.5-sonnet.json"
+    },
+    {
+      "sequence": "seq_02",
+      "model": "google/gemini-2.5-pro",
+      "time": 68.1,
+      "file": "20260515_174659_seq_02_googlegemini-2.5-pro.json"
+    },
+    {
+      "sequence": "seq_02",
+      "model": "openai/gpt-5.1",
+      "time": 92.74,
+      "file": "20260515_174659_seq_02_openaigpt-5.1.json"
+    },
+    {
+      "sequence": "seq_03",
+      "model": "anthropic/claude-3.5-sonnet",
+      "time": 3.32,
+      "file": "20260515_174659_seq_03_anthropicclaude-3.5-sonnet.json"
+    },
+    {
+      "sequence": "seq_03",
+      "model": "google/gemini-2.5-pro",
+      "time": 60.76,
+      "file": "20260515_174659_seq_03_googlegemini-2.5-pro.json"
+    },
+    {
+      "sequence": "seq_03",
+      "model": "openai/gpt-5.1",
+      "time": 82.16,
+      "file": "20260515_174659_seq_03_openaigpt-5.1.json"
+    },
+    {
+      "sequence": "seq_04",
+      "model": "anthropic/claude-3.5-sonnet",
+      "time": 0.68,
+      "file": "20260515_174659_seq_04_anthropicclaude-3.5-sonnet.json"
+    },
+    {
+      "sequence": "seq_04",
+      "model": "google/gemini-2.5-pro",
+      "time": 39.49,
+      "file": "20260515_174659_seq_04_googlegemini-2.5-pro.json"
+    },
+    {
+      "sequence": "seq_04",
+      "model": "openai/gpt-5.1",
+      "time": 100.11,
+      "file": "20260515_174659_seq_04_openaigpt-5.1.json"
+    },
+    {
+      "sequence": "seq_05",
+      "model": "anthropic/claude-3.5-sonnet",
+      "time": 2.77,
+      "file": "20260515_174659_seq_05_anthropicclaude-3.5-sonnet.json"
+    },
+    {
+      "sequence": "seq_05",
+      "model": "google/gemini-2.5-pro",
+      "time": 40.85,
+      "file": "20260515_174659_seq_05_googlegemini-2.5-pro.json"
+    },
+    {
+      "sequence": "seq_05",
+      "model": "openai/gpt-5.1",
+      "time": 63.82,
+      "file": "20260515_174659_seq_05_openaigpt-5.1.json"
+    },
+    {
+      "sequence": "seq_06",
+      "model": "anthropic/claude-3.5-sonnet",
+      "time": 3.86,
+      "file": "20260515_174659_seq_06_anthropicclaude-3.5-sonnet.json"
+    },
+    {
+      "sequence": "seq_06",
+      "model": "google/gemini-2.5-pro",
+      "time": 47.79,
+      "file": "20260515_174659_seq_06_googlegemini-2.5-pro.json"
+    },
+    {
+      "sequence": "seq_06",
+      "model": "openai/gpt-5.1",
+      "time": 69.11,
+      "file": "20260515_174659_seq_06_openaigpt-5.1.json"
+    },
+    {
+      "sequence": "seq_07",
+      "model": "anthropic/claude-3.5-sonnet",
+      "time": 2.6,
+      "file": "20260515_174659_seq_07_anthropicclaude-3.5-sonnet.json"
+    },
+    {
+      "sequence": "seq_07",
+      "model": "google/gemini-2.5-pro",
+      "time": 53.74,
+      "file": "20260515_174659_seq_07_googlegemini-2.5-pro.json"
+    },
+    {
+      "sequence": "seq_07",
+      "model": "openai/gpt-5.1",
+      "time": 79.69,
+      "file": "20260515_174659_seq_07_openaigpt-5.1.json"
+    },
+    {
+      "sequence": "seq_08",
+      "model": "anthropic/claude-3.5-sonnet",
+      "time": 3.43,
+      "file": "20260515_174659_seq_08_anthropicclaude-3.5-sonnet.json"
+    },
+    {
+      "sequence": "seq_08",
+      "model": "google/gemini-2.5-pro",
+      "time": 46.26,
+      "file": "20260515_174659_seq_08_googlegemini-2.5-pro.json"
+    },
+    {
+      "sequence": "seq_08",
+      "model": "openai/gpt-5.1",
+      "time": 60.16,
+      "file": "20260515_174659_seq_08_openaigpt-5.1.json"
+    },
+    {
+      "sequence": "seq_09",
+      "model": "anthropic/claude-3.5-sonnet",
+      "time": 0.41,
+      "file": "20260515_174659_seq_09_anthropicclaude-3.5-sonnet.json"
+    },
+    {
+      "sequence": "seq_09",
+      "model": "google/gemini-2.5-pro",
+      "time": 43.67,
+      "file": "20260515_174659_seq_09_googlegemini-2.5-pro.json"
+    },
+    {
+      "sequence": "seq_09",
+      "model": "openai/gpt-5.1",
+      "time": 69.19,
+      "file": "20260515_174659_seq_09_openaigpt-5.1.json"
+    },
+    {
+      "sequence": "seq_10",
+      "model": "anthropic/claude-3.5-sonnet",
+      "time": 0.86,
+      "file": "20260515_174659_seq_10_anthropicclaude-3.5-sonnet.json"
+    },
+    {
+      "sequence": "seq_10",
+      "model": "google/gemini-2.5-pro",
+      "time": 49.67,
+      "file": "20260515_174659_seq_10_googlegemini-2.5-pro.json"
+    },
+    {
+      "sequence": "seq_10",
+      "model": "openai/gpt-5.1",
+      "time": 88.22,
+      "file": "20260515_174659_seq_10_openaigpt-5.1.json"
+    },
+    {
+      "sequence": "seq_11",
+      "model": "anthropic/claude-3.5-sonnet",
+      "time": 0.73,
+      "file": "20260515_174659_seq_11_anthropicclaude-3.5-sonnet.json"
+    },
+    {
+      "sequence": "seq_11",
+      "model": "google/gemini-2.5-pro",
+      "time": 47.31,
+      "file": "20260515_174659_seq_11_googlegemini-2.5-pro.json"
+    },
+    {
+      "sequence": "seq_11",
+      "model": "openai/gpt-5.1",
+      "time": 74.13,
+      "file": "20260515_174659_seq_11_openaigpt-5.1.json"
+    },
+    {
+      "sequence": "seq_12",
+      "model": "anthropic/claude-3.5-sonnet",
+      "time": 0.58,
+      "file": "20260515_174659_seq_12_anthropicclaude-3.5-sonnet.json"
+    },
+    {
+      "sequence": "seq_12",
+      "model": "google/gemini-2.5-pro",
+      "time": 40.86,
+      "file": "20260515_174659_seq_12_googlegemini-2.5-pro.json"
+    },
+    {
+      "sequence": "seq_12",
+      "model": "openai/gpt-5.1",
+      "time": 71.97,
+      "file": "20260515_174659_seq_12_openaigpt-5.1.json"
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+SEQUENZA V
+LA PACE
+Si rassicurarono e si misero a pescare.
+Di fronte a loro, l’isola Marante abbandonata li nascondeva all’altra sponda. Il piccolo edificio
+del ristorante era chiuso, pareva in abbandono da anni.
+Il sig. Sauvage prese il primo ghiozzo. Morissot catturò il secondo e a ogni istante alzavano la
+lenza con una bestiola argentata che guizzava all’estremità del filo: una vera pesca miracolosa.
+Con delicatezza introducevano i pesci in una sacca di rete a maglie molto strette, immersa ai
+loro piedi, e una gioia deliziosa li compenetrava, quella gioia che vi prende nel ritrovare un
+piacere prediletto di cui si è stati a lungo deprivati.
+Il buon sole faceva scendere il suo calore fra le loro spalle; non ascoltavano più nulla; non
+pensavano più a nulla; ignoravano il resto del mondo; pescavano.
+1. Problemi di segmentazione
+1. Attenendoci ai criteri spaziali della segmentazione del racconto
+possiamo individuare una macrosequenza – delimitata dall’arrivo e dalla
+partenza di S dallo spazio utopico (“sul bordo dell’acqua”) – che racconta
+1
+gli eventi che accadono in questo luogo. Questa delimitazione puramente
+spaziale è consolidata dalla ricorrenza del fare interpretativo che, all’inizio
+e alla fine della macrosequenza, verte sullo stesso oggetto da esplorare:
+(a) “il piccolo edificio [...] pareva in abbandono”
+(b) “l’edificio che avevano creduto abbandonato.”
+2. All’interno di questa macrosequenza, a seconda della presenza o
+dell’assenza dell’anti-soggetto nel luogo utopico, si può procedere a una
+nuova scomposizione, riconoscendo una nuova ricorrenza:
+(a) “per sentire se qualcuno stesse camminando nei paraggi”
+(b) “sentendo qualcuno camminare dietro di loro.”
+In quanto segnale di segmentazione, questa ricorrenza viene confermata
+dalla presenza del disgiuntivo logico “ma”, che isola definitivamente dal
+corpo della macrosequenza una sequenza autonoma, che chiameremo SQ VII,
+“La cattura”.
+3. Il resto della macrosequenza può essere diviso in due parti, secondo
+l’opposizione /silenzio/ vs /rumore/, fortemente marcata in
+“ma d’un tratto un rumore sordo...”,
+dove il disgiuntivo “ma”, accompagnato dall’avverbio puntuale “d’un
+tratto”, produce una vera e propria frattura del testo. Omologando
+distingueremo quindi SQ V (“La pace”) da SQ VI (“La guerra”), adottando,
+come sempre, denominazioni arbitrarie.
+4. L’organizzazione interna della sequenza così individuata sembra
+riproporre la forma già incontrata in precedenza della separazione tra il fare
+cognitivo e il fare pragmatico che lo segue.
+2. La costruzione dello spazio cognitivo
+Luogo delle prove decisive, lo spazio utopico è stato sino a ora definito
+soltanto in modo oggettivo – come la proiezione delle articolazioni spaziali
+sul testo-enunciato – e negativo – nella misura in cui all’interno dello
+spazio topico si oppone allo spazio paratopico (periferico). A questo spazio
+può sovrapporsi uno spazio cognitivo, spazio interiore che il soggetto
+costruisce per sé stesso e che, proprio per questo, è significante solo per lui
+(in quanto composto delle porzioni di sapere che egli è riuscito ad
+acquisire).
+Tenteremo di esplicitare le procedure di costruzione di tale spazio, che
+domina SQ V e SQ VI, si estende sino alla cattura dei due amici e grosso modo
+consiste nell’idea che essi si fanno della loro solitudine.
+Lo stabilirsi di questo spazio comporta due fasi distinte: la prima è
+caratterizzata dal fare di ordine uditivo, che cerca di indagare sulla presenza
+umana nello spazio utopico considerato superficie inglobante (“nei
+paraggi”); la seconda è di ordine visivo, e si limita a esplorare, sul piano
+dimensionale, lo spazio nemico (“di fronte”). La prima fase è attiva, fatta di
+comportamenti puntuali espressi al passato remoto (“incollò la guancia alla
+terra”); la seconda è passiva, composta di registrazioni di stati espressi
+all’imperfetto (“nascondeva”, “pareva”).
+2.1. La ricerca della solitudine
+1. La prima fase comporta innanzitutto un aspetto informativo (o
+ricettivo): il soggetto cognitivo, rappresentato dall’attore Morissot, esercita
+un certo fare somatico (“incollò la guancia alla terra”), cercando di ottenere
+un’informazione (“per sentire”). L’esito di questo fare è negativo (“non udì
+nulla”). Questa ricerca di informazioni, manifestata in modo condensato,
+contiene gli elementi principali di un programma narrativo canonico:
+a) l’esistenza di un soggetto competente dotato del /volersapere/;
+b) l’esistenza di un fare cognitivo ricettivo (che consiste nell’acquisire il
+sapere e non nel dispensarlo, come sarebbe nel caso di un fare emissivo);
+c) l’esistenza di una conseguenza di questo fare (che qui è negativa,
+caratterizzata dalla non acquisizione del sapere, o meglio dall’acquisizione
+di un sapere sulla non esistenza dell’oggetto di quel sapere).
+2. Il secondo aspetto di questo fare è interpretativo: in forza della
+constatazione del /non-udito/, situato sul piano fenomenico dell’apparire,
+consiste nell’inferire il /non-essere/, ossia la non esistenza noumenica
+dell’oggetto cercato, espressa nell’affermazione
+“erano proprio soli, completamente soli”.
+Il fare interpretativo, come si è già visto, non è un’implicazione logica
+del
+/non-apparire/→/non-essere/,
+poiché non c’è nulla di logicamente necessario in questa inferenza. Si
+stabilisce invece una relazione fiduciaria, di cui è responsabile il solo
+soggetto conoscente.
+3. È evidente dunque che la frase “erano proprio soli”, nella quale viene
+formulata questa constatazione fiduciaria, comporta, passando alla
+manifestazione di superficie, un’inversione; essa, a livello della
+rappresentazione semantica, corrisponde a qualcosa come
+“non c’era nessun altro”
+e, inoltre, è dotata implicitamente della modalità fiduciaria:
+“(Eravamo convinti che) non c’era nessun altro.”
+Ci si accorge che questa formulazione è approssimativa ed esige
+spiegazioni supplementari.
+a) Passando dallo stato informativo allo stato interpretativo la
+manifestazione di superficie sostituisce al soggetto “Morissot” il soggetto
+duale “essi” (implicito): se il fare informativo è l’azione di un solo attore,
+l’interpretazione è assunta dall’attante duale “due amici”. Nello spazio
+vuoto tra i due fare si è istituito un nuovo soggetto che ha per predicato la
+modalità del /credere/, e che si comporta come un vero e proprio soggetto di
+enunciazione, che fa pesare la sua veridizione.
+b) Si è giunti così a riconoscere che – diversamente da ciò che succede
+quando si tratta dello spazio topico detto oggettivo (definito dalla sua
+relazione con il soggetto dell’enunciato) – lo spazio cognitivo può essere
+compreso solo se si postula un soggetto dell’enunciazione delegato che
+enuncia la propria convinzione e stabilisce valori di “personale” verità.
+4. L’enunciato constativo “erano proprio soli” non è un enunciato
+prodotto dal soggetto dell’enunciazione (“Maupassant”) con l’aiuto della
+procedura del débrayage semplice (il quale permette di ottenere enunciati
+con soggetti qualsiasi come, per esempio, “la Terra è rotonda”); esso è
+invece il risultato di operazioni relativamente complesse.
+a) La prima operazione consiste in ciò che si potrebbe chiamare il
+débrayage enunciazionale (in opposizione al débrayage enunciativo di cui
+abbiamo appena parlato): un enunciato è prodotto dalla proiezione, fatta
+dall’enunciatore, fuori di sé e nel discorso enunciato, della struttura stessa
+dell’enunciazione; per esempio:
+“io credo che...”
+È questa struttura, allora, che prende in carico il suo enunciato-oggetto:
+“non c’è nessun altro.”
+b) La seconda operazione consiste nell’embrayage cognitivo: avendo
+riconosciuto, nella costruzione effettuata, la dimensione cognitiva del
+discorso, il soggetto dell’enunciazione sospende la produzione
+dell’enunciato previsto e lo prende in carico.
+La terza tappa, infine, consiste nell’utilizzare il débrayage enunciativo
+implicitante che, sotto forma dell’enunciato constativo “erano proprio soli”,
+riesce a occultare il percorso generativo precedente e a ritirare in modo
+fittizio la delega dell’enunciazione conferita in un primo momento a un
+soggetto qualunque dell’enunciato.
+Non pretendiamo di aver fatto luce del tutto su un meccanismo tanto
+complesso: poiché il testo vi si prestava, abbiamo voluto semplicemente
+mostrare alcune fasi del funzionamento della struttura dell’enunciazione la
+cui conoscenza, a oggi molto rudimentale, è fondamentale per ogni teoria
+del discorso. Avremmo potuto anche accontentarci di avvicinare la
+produzione di questo genere di enunciati pseudoconstativi al funzionamento
+del “discorso indiretto libero”.
+5. Lo stabilirsi di uno spazio cognitivo autonomo – diverso dallo spazio
+dell’enunciatore (per definizione onnisciente) e da quello dell’enunciatario
+(che partecipa al contempo al sapere del soggetto dell’enunciato e a quello
+del soggetto dell’enunciazione, non foss’altro perché quest’ultimo installa
+nel discorso delle marche premonitrici) – ha ripercussioni su un altro livello
+del discorso: nello specifico sulla sua dimensione volitiva. Così,
+l’acquisizione del sapere sulla non esistenza dell’anti-soggetto ha come
+conseguenza la trasformazione dello stato volitivo del soggetto. La frase “si
+rassicurarono” segnala l’abolizione del volere contrario, di quel “timore”
+che nella sequenza precedente costituiva, insieme al “desiderio”, uno degli
+elementi di quell’“interiorità” che abbiamo considerato come termine
+complesso.
+“Liberato dal timore” – definizione dizionariale del soggetto
+“rassicurato” – e messo in condizione di confidare nella sua solitudine, il
+soggetto è così pronto a intraprendere l’esperienza della felicità.
+2.2. L’assenza dell’anti-soggetto
+L’installazione, grazie al soggetto dell’enunciazione, di un soggetto
+cognitivo delegato dotato di competenza enunciativa – anche se implicita –
+risponde, parallelamente, alla domanda “chi parla?” che siamo obbligati a
+porci di continuo durante un’analisi testuale. Il riconoscimento di questa
+installazione facilita comunque la lettura del secondo segmento che verte
+sul fare interpretativo di ordine visivo. È evidente, infatti, che la frase
+“Di fronte a loro, l’isola Marante abbandonata...”
+deve essere letta sottintendendo la veridizione precedentemente stabilita
+“(erano convinti che) l’isola Marante...”
+che esplicita la relazione fiduciaria che si è venuta a creare. Non c’è più
+bisogno di riprendere qui il ragionamento precedente sul valore topologico
+dell’espressione “di fronte” e sulla relazione di confronto virtuale che ne
+viene stabilita sull’asse orizzontale: la posizione di S corrisponde al
+2
+termine prospettivo di questa dimensione e si trova segnalata con “l’isola
+Marante” e “l’edificio del ristorante”. Dal momento che i due oggetti in
+questione sono qualificati rispettivamente come “abbandonata” e “in
+abbandono”, è evidente che a esser cercata è la presenza di S sul piano
+2
+visivo e non la conoscenza di quegli oggetti in quanto tali. E dal momento
+che questa presenza umana viene giudicata inesistente, il sapere noumenico
+di S su S può essere indicato nel modo seguente:
+1 2
+sapere [/–e + –a/ S ].
+1
+Tuttavia, S non si contenta del riconoscimento dello statuto veridittivo di
+1
+S , ma cerca al contempo di valutare la propria posizione rispetto a un
+1
+possibile fare interpretativo di S . Constata così che l’isola Marante “li
+1
+nascondeva” (al nemico, probabilmente situato sull’“altra sponda”). Oltre al
+sapere su S , S possiede, grazie a questa operazione, un sapere
+1 1
+complementare sul sapere supposto di S relativo allo statuto esistenziale di
+1
+S : si tratta di un metasapere. Per rispetto della simmetria, indichiamo
+1
+questo sapere noumenico di S nel modo seguente:
+1
+sapere [/e + –a/ S ].
+1
+Quest’ultima esplorazione cognitiva porta insomma a stabilire l’esistenza
+segreta di S e la non esistenza di S .
+1 2
+3. La performanza dell’eroe
+3.1. Analisi testuale e narrativa
+1. Installati grazie al fare cognitivo in una solitudine rassicurante,
+rannicchiati nel loro segreto, i due amici possono adesso dedicarsi al fare
+pragmatico, scopo della loro ricerca: la pesca.
+Infatti, l’organizzazione superficiale della sottosequenza che stiamo
+esaminando si presenta come la descrizione della pesca. La sottosequenza
+comincia con:
+“(essi) si misero a pescare”
+e termina con:
+“(essi) pescavano.”
+2. Sul piano della manifestazione temporale, l’aspetto incoativo del
+comportamento appena segnalato si sviluppa in una permanenza iterativa
+alla quale viene dedicato l’intero paragrafo: due passati remoti (“prese” e
+“catturò”) attribuiti a ciascuno dei due attori – per ricordarci ancora che
+sono in realtà un solo attante – sono seguiti da un imperfetto (“alzavano la
+lenza”), sinonimo dei due verbi precedenti, che segnala l’aspetto iterativo
+del fare e al contempo regge una frase che è l’espansione figurativa delle
+prime notazioni (“prendere, catturare un ghiozzo”). Questa iteratività del
+fare (sottolineata dall’espressione “a ogni istante”) è, come se non bastasse,
+surdeterminata dall’aspetto intensivo: “una vera pesca miracolosa”. Il tutto
+trasforma un fare ricorrente in uno stato permanente: “pescavano” non è
+più un’attività ma un modo di vivere.
+3. Tuttavia, se sotto questa copertura temporale del racconto cerchiamo di
+riconoscere gli elementi dell’organizzazione narrativa, constatiamo un certo
+numero di fenomeni curiosi. Sulla base dei modelli di prevedibilità che ci
+offrono precedenti analisi narrative, il racconto si svolge sino a ora come un
+programma narrativo eseguito, che comporta una ricerca e punta verso uno
+spazio utopico dove svolgere la prova decisiva. Ora, se il fare pragmatico
+che stiamo esaminando mette in evidenza un oggetto di valore presente
+nelle diverse forme figurative del “pesce” e si esercita come la
+congiunzione del soggetto S con l’oggetto di valore O, questo fare non può
+1
+essere considerato come una prova, non foss’altro perché la prova
+presuppone l’esistenza di un anti-soggetto S . La congiunzione con
+2
+l’oggetto di valore non è quindi la conseguenza di una prova ma di un dono,
+laddove il soggetto che effettua il dono non può essere un S ma un
+2
+destinante. Ora, questo destinante lo conosciamo già, lo abbiamo incontrato
+nella SQ II: si tratta della figura attoriale dell’Acqua che abbiamo definito
+come non-anti-destinante – che proponiamo adesso di notare come –De ,
+2
+riservando il simbolo De al destinante iniziale (il Sole).
+1
+4. Il testo conferma d’altronde la nostra interpretazione secondo la quale
+l’acquisizione dei pesci è un dono del destinante –De : il paragrafo
+1
+esaminato termina con la constatazione – il cui soggetto non è l’enunciatore
+ma il soggetto dell’enunciazione delegato (i due amici) – che si tratta di
+“una vera pesca miracolosa”. Ora, il miracolo, secondo il Petit Robert, è un
+“fatto straordinario nel quale si crede di riconoscere un benevolo intervento
+divino”. Questa definizione, come si vede, è conforme alla nostra analisi:
+essa non soltanto prevede lo stabilirsi della relazione fiduciaria (“si crede”)
+dipendente da un fare interpretativo (“riconoscere”), ma postula altresì il
+dono (“intervento”) del destinante (“divino”) situato sulla deissi positiva
+(“benevolo”).
+Nota: In questa occasione potremmo formulare una regola pratica per la lettura di Maupassant:
+ogni volta che s’incontra nel testo un luogo comune, il lettore è invitato a considerarlo come un
+fulcro del racconto e a cercare in esso un “senso profondo”.
+5. Il riconoscimento del dono ci permette quindi di leggere più facilmente
+il seguito del testo: i pesci, una volta catturati, vengono introdotti in una rete
+e rimessi in acqua. L’acquisizione dei pesci è ben lungi dall’essere
+definitiva: così come la figlia del re, che l’eroe proppiano riesce a salvare
+togliendola al traditore, non diventa proprietà dell’eroe ma è restituita al
+padre di lei, allo stesso modo il pesce, oggetto di valore, non è congiunto
+con S ma è restituito a –De . Questa operazione di disgiunzione attraverso
+1 1
+cui il soggetto si separa, sul piano della realizzazione, dall’oggetto di
+valore, conservandolo tuttavia sul piano dell’attualizzazione, corrisponde
+esattamente alla definizione che altrove abbiamo dato di questo tipo di
+comunicazione assiologica che va sotto il nome di rinuncia.
+6. Il fare che costituisce la performanza decisiva di S non è una prova ma
+1
+un dono; dono seguito da un contro-dono: forma di comunicazione
+partecipativa tra il soggetto e il suo destinante.
+3.2. Analisi semantica
+Una bestiola argentata
+Curiosamente, si stabilisce una relazione paradigmatica tra SQ V e SQ VI
+(denominate rispettivamente “La pace” e “La guerra”) o, in modo più
+preciso, tra il fare dei due pescatori e l’azione del Mont-Valérien. La
+somiglianza, a prima vista superficiale, si ritrova nelle descrizioni, dove
+emerge l’iteratività. Due parasinonimi
+“a ogni istante” vs “a ogni momento”
+si collegano ai gesti dei pescatori e del Mont-Valérien che getta “il suo
+alito di morte”: si tratta, in entrambi i casi, di eventi puntuali costituiti in
+serie ordinali che iniziano con un’enumerazione (il primo, il secondo ecc.).
+Possiamo aggiungere che le due operazioni parallele si situano sull’asse
+verticale e, soprattutto, che le serie ordinali tendono verso l’infinito. Infatti,
+“una vera pesca miracolosa” vs “una montagna di fumo”
+costituiscono entrambe delle totalizzazioni: la prima dei pesci e la
+seconda dei “getti di fumo” sputati dal Mont-Valérien.
+2. Il fatto che questa descrizione dell’attività del Mont-Valérien
+accompagni quella della morte dei due amici proietta una certa luce sulla
+griglia delle somiglianze che abbiamo appena proposto, permettendo di
+cogliere meglio le differenze. Ricordiamo il quadrato semiotico sul quale
+abbiamo situato i destinanti riconosciuti nell’analisi di SQ II:
+Avendo già riconosciuto nella pesca un dono di –De , vediamo che le
+2
+cannonate, così come sono descritte dal narratore, si presentano
+parallelamente come il “dono” di De . D’altra parte, essendo De investito
+2 2
+dal contenuto /morte/, i “vapori lattiginosi”, sua metonimia figurativa,
+supportano anch’essi il contenuto /morte/, allo stesso modo in cui la
+metonimia “bestiola argentata” (dono di –De ) è portatrice del contenuto
+2
+/non-morte/. Nonostante siano estratti una prima volta dall’acqua, i pesci
+non sono morti: nel seguito del testo saranno indicati per altre due volte
+come “pesci che si agitano ancora” e come “ancora vivi”; la loro morte
+succederà di poco a quella dei due amici. Sul piano figurativo
+quest’opposizione semantica si trova ulteriormente consolidata da quella
+che intercorre fra i due modi in cui i rispettivi oggetti di valore sono
+qualificati:
+La gioia
+1. Il paragrafo successivo è uno dei nuclei del racconto e richiede una
+certa delicatezza d’interpretazione. A prima vista, le due frasi coordinate
+che lo compongono presentano un certo parallelismo semantico. Così,
+l’“introduzione” dei pesci nell’acqua può essere accostata alla
+“compenetrazione” della gioia (all’interno dei due amici). Nei due casi,
+infatti, il fare esercitato conduce a enunciati di stato che denotano la
+congiunzione di un soggetto con un oggetto di valore:
+introduzione → (Acqua ∩ pesci), ossia (–De ∩ pesci)
+2
+compenetrazione → (Due amici ∩ gioia), ossia (S ∩ gioia)
+1
+Questi enunciati di stato presuppongono, come si sa, un enunciato
+d’azione di cui sono l’esito. Nel primo caso, il soggetto dell’azione è
+esplicito (i due amici); l’enunciato completo si può dunque scrivere come:
+F fare [S →(–De ∩ O: pesci)].
+1 1
+Nel secondo caso, è come se “gioia” fosse nello stesso tempo l’oggetto di
+valore con il quale il soggetto si trova congiunto e il destinante-soggetto
+dell’azione che opera questa congiunzione; possiamo formulare questa
+situazione nel modo seguente:
+F fare [–De : gioia→(S ∩ O: gioia)].
+1 1
+2. Lo statuto di questo enunciato completo porrebbe un serio problema se
+non avessimo già riconosciuto un tipo particolare di comunicazione degli
+oggetti di valore (detta comunicazione partecipativa) attraverso la quale un
+soggetto, pur trasferendo un valore, non se ne separa. Potremmo fornire
+come esempio di questo tipo di comunicazione la regina d’Inghilterra che,
+pur delegando tutti i poteri ai rappresentanti del popolo, per la teoria del
+diritto costituzionale resta comunque il monarca onnipotente. Niente perciò
+impedisce che il destinante, definito come “gioia deliziosa”, dispensi la
+gioia intorno a lui “penetrando” nel cuore dei due uomini.
+3. Siamo quindi obbligati a riconoscere che “gioia” è una denominazione
+noologica di –De , omologabile con la sua denominazione cosmologica
+1
+(l’Acqua), e che entrambe le denominazioni ricoprono una sola definizione
+/non-morte/ situata sul piano della rappresentazione semantica del testo.
+Questo ci permette di riconoscere in SQ VI l’equivalente opposto di “gioia”.
+L’azione del Mont-Valérien è descritta nel modo seguente:
+“aprendo in cuori di mogli, in cuori di figlie, in cuori di madri, [...] sofferenze che non
+avrebbero avuto fine.”
+“Aprire sofferenze infinite nel cuore umano” ci sembra una presentazione
+figurativa evidente del termine contraddittorio di quello manifestato con la
+“penetrazione della gioia”; conserveremo arbitrariamente, senza analizzarli
+adesso, i lessemi “gioia” e “sofferenza”, per rappresentare i contenuti dei
+due destinanti contraddittori, descrivendoli come:
+4. Il seguito della frase mostra il fatto che la “gioia” non può essere
+confusa con il “piacere” o con uno stato euforico qualsiasi: in una sorta di
+scorciatoia, ossia sotto forma di microracconto, vi si trova raccontata tutta
+la storia del “piacere”.
+La “gioia” appare, leggiamo, “nel ritrovare un piacere prediletto di cui si
+è stati a lungo deprivati”. Questa frase può essere scomposta
+sommariamente nel modo seguente:
+a) “piacere prediletto” (nel passato) = s ∩ O (valore realizzato)
+b) “di cui si è stati deprivati” = s ∪ O (valore virtualizzato)
+c) “a lungo” = intensità del /volere/
+d) “ritrovare un piacere prediletto” = s ∩ O (valore realizzato).
+Così, la “gioia” non si definisce narrativamente come la congiunzione del
+soggetto con l’oggetto di valore “piacere”; essa è un valore in sé, qualcosa
+che interviene a cose fatte; è qualcosa che si sovrappone al “piacere”: il
+ritrovamento del piacere è la sua condizione necessaria, poiché implica, non
+soltanto la riproduzione del “piacere”, ma anche un sapere del soggetto sul
+piacere, trasformando questo stesso piacere – almeno in parte – in uno stato
+cognitivo.
+5. Ci si avvicina così, a poco a poco, a una migliore comprensione della
+“gioia”. Una prima volta, la “gioia” che compenetra è caratterizzata come
+“deliziosa” (i dizionari traducono ingenuamente: “che rapisce, che
+trasporta”); cosa che, per noi, significa narrativamente uno stato di
+trascendenza che consegue dalla comunicazione con il destinante, cioè
+dalla partecipazione del soggetto all’essere del destinante. Cosa notevole:
+l’unica altra volta che il lessema “delizioso” si trova nel testo è fatto
+pronunciare dall’ufficiale prussiano – il quale si trova, come in questo caso,
+in relazione con i pesci, attendendo dunque di “essere rapito” dal loro
+consumo, ossia dalla distruzione e dalla morte.
+La seconda volta, la “gioia” non si contenta di compenetrare il soggetto
+riempiendo la sua interiorità. Essa “prende” il soggetto, sommergendolo del
+tutto: il soggetto cessa di essere tale per trasformarsi in oggetto congiunto
+con il destinante; soggetto di questa “presa”, esso esiste, figurativamente,
+come attore ipotattico (dal punto di vista sintattico) e iponimico (dal punto
+di vista semantico), ossia in quanto oggetto “gioia”.
+6. Se volessimo procedere a un’analisi comparata, sembrerebbe quasi di
+trovarsi di fronte al testo di un mistico: cosa che, a suo modo, Maupassant
+è. Niente di strano, dunque, che, per rendere conto di questo stato
+trascendente, l’enunciatore rinunci, per una volta, alla famosa oggettività
+della descrizione e introduca nel testo-enunciato la struttura
+dell’enunciazione, che ritorna in tal modo a suo carico:
+“quella gioia che vi prende nel ritrovare...”
+Malgrado il procedimento, già notato, con cui Maupassant si copre
+pudicamente con un luogo comune (in questo caso, una costruzione
+sintattica familiare) ogni volta che c’è qualcosa d’importante da dire, si
+tratta qui di una vera e propria trasgressione delle regole della sua scrittura.
+La procedura utilizzata consiste nel prendere direttamente a testimone, con
+l’aiuto del “vi”, il lettore, conferendogli in modo implicito la capacità di
+provare egli stesso, con la stessa intensità, la “gioia” attribuita al soggetto
+dell’enunciato. Un débrayage di questo tipo nasconde un aspetto del fare
+persuasivo che cerca di stabilire la complicità dell’enunciatore e
+dell’enunciatario. Ma la complicità è possibile solo in due: la proiezione del
+“voi” nel testo presuppone l’esistenza di un “io” enunciatore altrettanto
+competente. Il débrayage è allora seguito da un embrayage, che consiste
+nella ripresa, a carico dell’enunciatore, della significazione che questi ha
+appena prodotto. La terza fase, infine, comporta un nuovo débrayage
+enunciativo, che proietta come soggetto dell’enunciato un “si” che,
+includendo l’“io” e il “voi”, designa l’insieme degli umani, che Maupassant
+dota con generosità della competenza di essere il destinatario della “gioia”.
+Il calore
+L’ultimo paragrafo segnala l’apparizione, per altro attesa, del secondo
+destinante di S , il Sole. Infatti, tale apparizione è prevedibile secondo il
+1
+principio dell’orientamento degli operatori logico-semantici situati sul
+quadrato semiotico:
+in cui l’asserzione del termine –S presuppone l’esistenza e l’apparizione
+2
+del termine S ; questa è eseguita, poiché solo la riunione dei termini
+1
+/non morte/ + /vita/
+può essere considerata come l’espressione della pienezza dell’esistenza.
+Non dovremo più intervenire sull’interpretazione del Sole come
+destinante vitale del soggetto: il suo ruolo è apparso in modo inequivocabile
+nell’analisi di SQ II, dove abbiamo accostato due frasi, una situata a livello di
+progetto (SQ II), l’altra situata a livello della realizzazione (SQ V):
+(1) “il sole [...] riversava sulle schiene [...] il calore buono della nuova stagione”
+(2) “il buon sole faceva scendere il suo calore fra le loro spalle.”
+La corrispondenza termine a termine delle due frasi è evidente e il solo
+elemento nuovo che appare nella frase (2) è il possessivo “suo”: non si
+tratta quindi più del “calore buono della nuova stagione”, ma del calore
+come attributo essenziale del destinante, che esso condivide con il
+destinatario. La comunicazione partecipativa viene dunque di nuovo
+stabilita, questa volta sul piano della partecipazione dell’uomo alla vita
+cosmica con la quale condivide, nel suo stesso corpo, il calore.
+Le condizioni per una buona pesca
+Ci resta ancora da esaminare la definizione della “pesca” – o piuttosto
+delle condizioni di una “buona pesca” – implicate in questo paragrafo;
+condizioni che somigliano stranamente (si tratta di intertestualità?) alla
+descrizione classica data da Rousseau di quello “stato d’animo” che gli
+aveva permesso di “percepire con piacere la propria esistenza”. Queste
+condizioni sono tre, tutte negative:
+(1) “non ascoltavano più nulla”
+(2) “non pensavano più a nulla”
+(3) “ignoravano il resto del mondo.”
+Le prime due proposizioni possono essere riunite: si presentano entrambe
+come negazioni dell’attività del soggetto. Esse però si oppongono tra loro
+riguardo all’oggetto di questa attività: la prima nega il fare esterocettivo,
+mentre la seconda nega il fare interocettivo, ed entrambe cercano di
+escludere ogni comunicazione con tutto ciò che non è l’essere stesso del
+soggetto. Tale doppia negazione del fare cognitivo, tale assenza di azione
+produce uno stato di non-sapere sul “resto del mondo”. Se il “resto del
+mondo” può essere denominato /inglobante/ e il soggetto che l’esclude
+/inglobato/, si vede che i contenuti che essi sussumono si dividono in:
+Dal canto loro tali contenuti possono essere oggetti d’azione cognitiva e
+produrre un sapere (o un non-sapere) del soggetto. Nel primo caso il sapere
+verrà detto sapere transitivo e nel secondo sapere riflessivo. Possiamo
+dunque proporre un’interpretazione semantica dell’ultima frase della
+sequenza
+“pescavano”
+come il risultato delle trasformazioni narrative situate sul piano
+cognitivo, consistenti in:
+(a) la negazione del sapere transitivo e
+(b) l’asserzione del sapere riflessivo
+(c) che verte sui contenuti propriocettivi del soggetto
+Una buona “pesca” si presenta così come l’equivalente, sul piano
+figurativo, della “gioia”, che è gioia e coscienza della gioia nello stesso
+tempo; la ricerca intrapresa dai due amici conduce alla conoscenza di quel
+che è l’esistenza: una partecipazione alla vita universale.
+1. Segmentazione provvisoria
+2. Lo spazio familiare
+2.1.Il lasciapassare
+2.2.L’organizzazione spaziale del racconto
+L’attraversamento
+Lo spazio della fiaba
+Débrayage ed embrayage spaziali
+Lo spazio enunciato
+3. Lo spazio topico
+3.1.Nuova segmentazione
+3.2.Fermata interpretativa
+L’esplorazione dello spazio topico
+Il fare interpretativo
+VARIAZIONI DI ISOTOPIA
+LA RELAZIONE FIDUCIARIA
+ATTUALIZZAZIONE DELL’ANTI-ATTANTE
+L’anti-destinante sociale
+La prova qualificante
+L’INQUIETUDINE
+L’IRONIA
+L’ESITAZIONE
+3.3.Lo spostamento persuasivo
+Il programma pragmatico
+Il programma cognitivo
+SEQUENZA V
+La pace
+1. Problemi di segmentazione
+2. La costruzione dello spazio cognitivo
+2.1.La ricerca della solitudine
+2.2.L’assenza dell’anti-soggetto
+3. La performanza dell’eroe
+3.1.Analisi testuale e narrativa
+3.2.Analisi semantica
+Una bestiola argentata

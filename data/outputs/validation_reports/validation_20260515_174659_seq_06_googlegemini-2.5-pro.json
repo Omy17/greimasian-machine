@@ -1,0 +1,18 @@
+{
+  "punteggio_aderenza_metodologica": 8,
+  "giustificazione_aderenza": "Il testo da valutare utilizza correttamente molti concetti e terminologie di Greimas, come 'anti-destinante', 'fare mortale', e 'proto-destinante sociale'. Tuttavia, manca di alcune specificità metodologiche presenti nel testo di riferimento, come l'analisi dettagliata delle strutture figurative e delle modalità di débrayage e embrayage.",
+  "punteggio_correttezza_concettuale": 9,
+  "giustificazione_correttezza": "Le conclusioni del testo da valutare sono coerenti con quelle del testo di riferimento, in particolare riguardo alla rappresentazione della guerra come un 'fare mortale' e l'interpretazione della libertà come un oggetto di valore inaccessibile.",
+  "punteggio_copertura": 7,
+  "giustificazione_copertura": "Il testo da valutare copre molti dei punti chiave del testo di riferimento, ma manca di alcune analisi dettagliate, come la segmentazione precisa delle sottosequenze e l'esplorazione delle relazioni tra universi sociolettali e idiolettali.",
+  "punteggio_originalita": 6,
+  "giustificazione_originalita": "Il testo da valutare è una rielaborazione intelligente del testo di riferimento, ma in alcuni punti si avvicina alla parafrasi, specialmente nella descrizione del Mont-Valérien e nella discussione sulla natura e cultura.",
+  "giudizio_complessivo": "Il testo da valutare mostra una buona comprensione dei concetti greimasiani e riesce a rielaborare in modo coerente molti dei punti chiave del testo di riferimento. Tuttavia, manca di alcune specificità metodologiche e di dettagli analitici presenti nel testo di Greimas. La rielaborazione è generalmente intelligente, ma in alcuni punti si avvicina alla parafrasi.",
+  "punteggio_finale": 8,
+  "_meta": {
+    "source_file": "20260515_174659_seq_06_googlegemini-2.5-pro.json",
+    "sequence_id": "seq_06",
+    "model_evaluated": "google/gemini-2.5-pro",
+    "judge_model": "openai/gpt-4o"
+  }
+}

@@ -1,0 +1,886 @@
+SEQUENZA IX
+IL RIFIUTO
+“Ma dato che siete usciti dagli avamposti, di sicuro avrete una parola d’ordine per rientrare.
+Datemi la parola d’ordine e vi faccio grazia.”
+I due amici, lividi, fianco a fianco, con le mani agitate da un leggero tremito nervoso, tacevano.
+L’ufficiale riprese: “Nessuno lo saprà mai, rientrerete in santa pace. Il segreto scomparirà con
+voi. Se rifiutate, è la morte, e subito. Cosa scegliete?”
+I due rimanevano immobili senza aprir bocca.
+Il prussiano, sempre calmo, riprese tendendo la mano verso il fiume: “Pensate, tra cinque
+minuti sarete in fondo a quest’acqua. Tra cinque minuti! Avrete pure una famiglia!”
+Il Mont-Valérien continuava a tuonare.
+I due pescatori restavano in piedi e silenziosi. (Il tedesco impartì alcuni ordini nella sua lingua.)
+1. Organizzazione testuale
+1.1. Delimitazione della sequenza
+Se ci si attiene ai criteri formali di segmentazione, la sequenza da
+prendere ora in esame risulta difficile da delimitare, benché la sua
+organizzazione interna si basi su una struttura solida. La frontiera che la
+separa dalla precedente è riconoscibile grazie alla presenza del disgiuntivo
+logico “ma”: tuttavia questo “ma” si situa all’interno del discorso di
+secondo grado, di cui abbiamo già analizzato la prima parte. Neanche la
+fine della sequenza è segnalata; anzi, l’ultima frase è situata graficamente
+all’interno di un paragrafo i cui elementi essenziali riguardano già la
+sequenza successiva. A determinare la frontiera di SQ IX sono, in negativo, i
+marcatori di SQ X, presenti sotto forma di ricorrenza:
+“Il tedesco impartì alcuni ordini...”, e
+“Il tedesco impartì altri ordini.”
+1.2. Articolazione interna
+L’articolazione interna di SQ IX è trasparente: graficamente si trova
+scandita in sei paragrafi (ai quali se ne deve aggiungere uno interpolato,
+concernente le manifestazioni del Mont-Valérien). I paragrafi si alternano a
+seconda dei soggetti frastici posti all’inizio di ciascuno di essi e si
+distribuiscono quindi in una serie di 3 + 3:
+(1) Il prussiano... (SQ VII) (2) I due amici...
+(3) L’ufficiale... (4) Essi...
+(5) Il prussiano... (6) I due pescatori ...
+La sequenza adotta quindi, in apparenza, la forma del dialogo; con la
+differenza che uno degli interlocutori (S ) per quanto sia situato sull’asse
+1
+della comunicazione manifesta questo comportamento solo in negativo:
+“tacere” è infatti l’equivalente di “non dire” e deve essere considerato come
+una forma del fare verbale.
+Dal punto di vista narrativo, il dialogo può essere considerato come uno
+scontro verbale, dal momento che ciascuno degli interlocutori ha un
+comportamento diretto a un fine e possiede un proprio PN. Trattandosi di
+una struttura di interrelazioni polemiche, i due PN si trovano correlati e
+intrecciati l’uno all’altro. Anche se, ai fini dell’analisi, ci proponiamo di
+disgiungerli ed esaminarli separatamente, gli intrecci non mancheranno di
+manifestarsi: uno dei compiti dell’analisi sarà proprio la determinazione del
+tipo di correlazioni che si stabiliscono tra i due programmi.
+2. Il programma narrativo dell’anti-soggetto
+2.1. La competenza narrativa
+Il PN esplicito
+La presenza della disgiunzione “ma”, situata all’interno del discorso di
+secondo grado tenuto dall’ufficiale, è destinata a segnalare il cambiamento
+topico dei suoi propositi. Infatti se la sequenza precedente è dedicata
+all’esposizione di un PN canonico generale, il cui destinante immediato è la
+Guerra, il primo segmento della nuova sequenza presenta un PN particolare,
+la cui responsabilità incombe su S (che media e specifica le intenzioni del
+2
+suo destinante).
+Questo nuovo PN può essere definito dall’oggetto di valore “parola
+d’ordine”, alla cui acquisizione l’ufficiale tende (“Datemi la parola
+d’ordine”). Tutta SQ IX e parte di SQ X saranno dedicate alla realizzazione di
+questo PN.
+Il PN implicito
+Senza interrogarsi sulla natura semantica di questo o di quell’oggetto di
+valore, si può dire che un oggetto qualsiasi può essere istituito come oggetto
+del volere, per almeno due ragioni:
+a) può essere desiderabile per sé stesso e divenire l’oggetto del volere in
+un PN autonomo;
+b) il suo possesso può essere considerato come auspicabile o necessario
+in vista della realizzazione di un altro PN connesso.
+Si possono così distinguere, per esempio:
+a) l’amore del denaro in quanto tale (per esempio, nell’Avaro di Molière);
+b) il bisogno del denaro per acquistare qualche cosa.
+In questo secondo caso, il denaro non è un valore assiologico, ma un
+valore d’uso, e la sua acquisizione può costituire un sottoprogramma
+narrativo che si integra, come sintagma prevedibile, nel PN principale. Un
+particolare genere di letteratura orale utilizza la concatenazione indefinita di
+questi sottoprogrammi che vanno dall’acquisizione dell’ago a quella del bue
+e viceversa.
+Ritornando al nostro testo, è evidente che la conoscenza della “parola
+d’ordine” non può essere considerata per l’anti-soggetto come un valore in
+sé. Né l’enunciatario né il soggetto in possesso della “parola d’ordine” sono
+così stupidi da crederlo. Ne risulta che la “parola d’ordine” è solo un valore
+d’uso di cui l’anti-soggetto vuol servirsi per attuare un PN più vasto; questo
+PN implicito, sul quale il testo rimane muto, non è altro che il progetto di S
+2
+di penetrare all’interno delle linee nemiche, se non dentro Parigi stessa.
+In questa prospettiva più generale, il sottoprogramma che ha per oggetto
+il conseguimento del “lasciapassare” occupa, a prima vista, una posizione
+prevedibile nel racconto canonico e corrisponde all’acquisizione
+dell’aiutante, conseguenza della prova qualificante: per perseguire il suo PN
+principale, l’anti-soggetto deve essere innanzitutto qualificato.
+Ora, per S , che non ottiene la parola d’ordine, questa prova è un
+2
+fallimento che comporta senza scampo l’interruzione di tutto il programma.
+Una volta che ciò è accaduto, e data la struttura polemica della narrazione
+che implica lo svolgimento parallelo dei due PN (quello di S e quello di S ),
+2 1
+si ha il diritto di dire – indipendentemente da qualsiasi considerazione sui
+contenuti investiti – che il fallimento di S significa allo stesso tempo la
+2
+vittoria di S .
+1
+La costruzione del PN
+La costruzione di questo tipo di PN complessi (per PN complesso
+intendiamo un PN che integra uno o più sotto-PN) esige tuttavia un sapere e
+un saper-fare: presuppone una certa conoscenza generale che verte
+sull’organizzazione degli eventi, ossia un sapere sui modi di esistenza dei
+PN, e un saper-fare che verte sulla costruzione di nuovi oggetti narrativi (in
+altre parole, una competenza narrativa). La competenza narrativa non è
+altro, secondo noi, che il simulacro che rende conto del funzionamento
+dell’“intelligenza sintagmatica”, quale si manifesta nel discorso o quale può
+essere installata, con il suo statuto di presupposizione logica, nella struttura
+dell’enunciazione.
+Due tipi di sapere devono essere distinti per comprendere meglio questo
+meccanismo.
+a) Da una parte, un sapere narrativo. Così, il ragionamento del prussiano
+(“Ma dato che siete usciti dagli avamposti, di sicuro avrete una parola
+d’ordine per rientrare”) si basa su un sapere, non puramente semantico
+(secondo il quale “uscire” vs “rientrare”), ma essenzialmente narrativo,
+poiché riguarda l’organizzazione generale degli spostamenti (/partenza/ →
+/ritorno/).
+b) Da un’altra parte, un sapere tematico. Il costruttore di un programma
+particolare deve possedere un dizionario tematico relativo alla sfera di
+attività presa in considerazione (che comporta in particolare lessemi come
+“avamposto”, “parola d’ordine” ecc.).
+Questi due tipi di sapere costituiscono la sua memoria, sorta di codice
+compartimentato da cui il programmatore può attingere a proprio
+piacimento. Nel nostro caso specifico, la memoria permette a S la
+2
+ricostruzione del PN di S . Si tratta di una forma specifica di fare
+1
+interpretativo grazie al quale, a partire da alcuni dettagli osservabili che
+vengono confrontati con il sapere generale (sia narrativo sia tematico),
+viene ricostruito un PN coerente (cfr. un genere particolare di romanzi
+polizieschi). Al contrario di ciò che succede in SQ VIII, dove si offre un
+campione di interpretazione deduttiva, il fare cognitivo implicato nel
+segmento testuale che esaminiamo ora può essere specificato come
+interpretazione induttiva (che comporta, è vero, l’alternarsi con elementi
+deduttivi provenienti dalla memoria).
+In unione a questo saper-essere, narrativo e tematico, la costruzione dei
+PN esige un saper-fare, altrettanto importante, nel quale si devono
+distinguere due aspetti.
+a) Da una parte, un saper-fare narrativo, che consiste nell’uso della
+memoria narrativa per la costruzione di “progetti”, ossia di nuovi
+programmi virtuali. Una tale programmazione è di natura
+presupposizionale: si tratta, partendo da uno “scopo” riconosciuto (un
+oggetto di valore situato sull’asse del volere), di risalire – ponendo una a
+una relazioni di presupposizione logica tra gli enunciati narrativi forniti
+dalla “memoria” – via via sino alla “fonte” del programma, ossia fino alla
+posizione iniziale e attuale del soggetto. In questo modo, attraverso una
+concatenazione sintagmatica continua – e inserendo in essa un numero
+indefinito di sottoprogrammi che mirano all’acquisizione di valori d’uso –
+si può colmare la distanza che separa il soggetto dall’oggetto del suo volere.
+In altre parole, se la realizzazione di un PN si presenta come una serie di
+enunciati narrativi orientata dal soggetto verso l’oggetto, l’elaborazione di
+questo PN prende la direzione opposta e parte dall’oggetto di valore per
+andare verso il soggetto.
+b) D’altro canto, un saper-fare tematico deve completare la competenza
+narrativa di natura logico-grammaticale. Il sapere tematico non è infatti di
+grande aiuto se non è utilizzato come un thesaurus i cui elementi possono
+entrare in combinazioni sintagmatiche capaci di originare altrettanti
+percorsi tematici possibili. L’arte militare, in causa nel nostro racconto, è
+comparabile all’arte del calzolaio; entrambe non sono – o non sono sempre
+– messe in opera ricorrenti di percorsi tematici stereotipati, dato che il
+saper-fare che implicano è generatore di “variazioni sullo stesso tema”,
+cause di riproduzione, ma anche di inventiva.
+In più il caso particolare che esaminiamo si presenta come un esempio di
+adattamento di questa creatività narrativa alle “circostanze”, ossia come
+inscrizione della costruzione di un nuovo PN nel quadro generale delle
+attività (e interattività) umane rette da PN particolari che si incontrano, si
+scontrano e si provocano. Infatti la ricostruzione della serie evenemenziale
+effettuata da S (che si basa sul PN di S ) agisce come uno “stimolante” e dà
+2 1
+luogo a quello che chiamiamo il ragionamento analogico: mantenendo
+intatto il PN di S (i cui tempi forti sono “uscire da Parigi” e “rientrare a
+1
+Parigi”), l’interprete (S ) costruisce il suo nuovo PN attraverso la semplice
+2
+sostituzione di soggetti nel programma equivalente (S al posto di S ). Il
+2 1
+ragionamento analogico di cui si tratta contribuisce all’elaborazione del
+nuovo programma in due modi diversi: sfruttando lo schema narrativo
+attualizzato, ma offrendo anche il quadro nel quale può inscriversi,
+attualizzandosi, l’oggetto di valore (penetrare dietro le linee nemiche) che
+era fin qui solo virtuale.
+È facile accorgersi del contributo che l’introduzione della componente
+tematica (o, meglio, della competenza tematica che riguarda l’attività
+militare) dà all’elaborazione del PN. Non solo il valore ultimo a cui si tende
+(entrare a Parigi) pertiene a questo campo semantico; ma l’inclusione del
+sottoprogramma che ha per oggetto l’acquisizione del valore d’uso (la
+“parola d’ordine”) si basa sulla conoscenza delle modalità d’uso di questo
+genere di valori.
+D’altra parte, il sottoprogramma attraverso cui si deve ottenere la parola
+d’ordine pone da sé le sue proprie esigenze: per ottenere un oggetto di
+valore (non volendo ricorrere all’uso della forza bruta, della tortura per
+esempio) si deve poter proporre un altro valore al suo posto, organizzando
+una struttura di scambio. Questo valore di scambio sarà la “grazia” offerta
+dall’ufficiale. Ora, per poter proporre la grazia, è necessario innanzitutto far
+sentire colpevole l’eventuale beneficiario, mettendolo nella posizione del
+“traditore” che ha meritato la morte. Tutto ciò comporta a sua volta
+l’attualizzazione del PN canonico “spionaggio”, programma la cui
+esposizione occupa, come abbiamo visto, tutta SQ VIII: ecco apparire, dopo
+una concatenazione retta da una serie di presupposizioni, la ragion d’essere
+narrativa per la presentazione dell’ideologia guerresca.
+Queste riflessioni sul funzionamento dell’intelligenza sintagmatica non
+sono ovviamente sufficienti per permettere la formulazione di una teoria
+della competenza sia narrativa sia discorsiva. Perciò ci accontentiamo di
+riassumere brevemente le tappe principali che costituiscono altrettanti
+gradini fondamentali della concatenazione logica presupposta dalla
+costruzione di un PN particolare.
+1. L’interpretazione del PN di S che fa emergere l’organizzazione degli
+1
+spostamenti del soggetto: /partenza/ → /ritorno/.
+2. Il ragionamento analogico che permette l’attualizzazione dell’oggetto
+di valore (entrare a Parigi) e la sostituzione dei soggetti.
+3. L’integrazione, in questo PN complesso, di un sottoprogramma
+destinato a ottenere un valore d’uso (la “parola d’ordine”).
+4. L’elaborazione di questo sottoprogramma sotto forma di scambio e la
+ricerca di un valore di scambio equivalente o superiore.
+5. La costruzione del PN canonico (“spionaggio”) che permette di
+attualizzare il valore di scambio “grazia”.
+6. L’esplicitazione dell’ideologia del potere suscettibile di fondare e
+giustificare il PN canonico.
+I limiti che ci impone l’analisi di un racconto particolare non permettono
+qui di tentare di costruire una tabella comparativa a due parametri, per
+rendere conto delle considerevoli distorsioni che si possono riconoscere tra
+la concatenazione logica che presuppone la costruzione di un programma
+narrativo da una parte e dall’altra, lo svolgimento effettivo del discorso
+narrativo. L’immaginazione del lettore potrà facilmente colmare questa
+lacuna. Vogliamo tuttavia mettere in evidenza sia il divario che li separa sia
+l’enorme compito che attende i semiologi che si propongono di esplicitare e
+di ricostruire l’insieme dei percorsi soggiacenti alla produzione del
+discorso.
+2.2. La performanza narrativa
+La proposta di scambio
+La realizzazione del PN complesso elaborato da S è condizionata
+2
+dall’esecuzione del sottoprogramma che ha per oggetto l’acquisizione del
+valore d’uso “parola d’ordine”. Questo sottoprogramma che si può scrivere
+F trasf [S →(S ∩ O: parola d’ordine)]
+1 2
+viene sviluppato a sua volta sotto forma di una figura discorsiva chiamata
+scambio. Da parte di S il PN che regge e organizza il resto della sequenza si
+2
+presenta quindi come una proposta di scambio. La struttura di scambio può
+essere enunciata formulando i suoi due termini come
+in cui si può notare il fenomeno di permutazione sintagmatica: di norma
+infatti l’offerta di un dono si ritiene preceda la richiesta di un contro-dono.
+La formulazione discorsiva sembra d’altronde essere destinata a
+sottolineare il carattere contrattuale della proposta, basato sul principio do
+ut des:
+a) essendo la “parola d’ordine” un oggetto di sapere comunicabile,
+l’ufficiale si aspetta un fare verbale. L’espressione “datemi” contribuisce a
+reificare questo oggetto del sapere;
+b) allo stesso modo, la “grazia” proposta in cambio è una “rinuncia alla
+vendetta” e si presenta come una separazione volontaria, da parte di S , da
+2
+un oggetto di valore.
+Tuttavia, il carattere paritario dello scambio proposto si trova allo stesso
+tempo negato dal fatto che c’è un asse di potere soggiacente, il quale
+distingue le due parti contraenti secondo la categoria /dominante/ vs
+/dominato/:
+a) benché attenuata dall’offerta che seguirà, la richiesta è formulata
+dall’ufficiale con imperativi (“datemi”);
+b) la “grazia” che il prussiano si propone di accordare a sua volta può
+essere esercitata solo dall’istanza del potere.
+La proposta di S conserva di conseguenza un carattere ambiguo: offerta
+2
+di scambio, essa è allo stesso tempo un’ingiunzione. Una persuasione
+ingannevole e maldestra, che non potrà essere interpretata da S che come
+1
+una manifestazione del potere.
+Il resto del PN di S , contenuto nella sequenza, si presenta:
+2
+a) sul piano discorsivo, come l’espansione dell’offerta “vi faccio grazia”;
+b) sul piano narrativo, come l’esercizio da parte di S del suo fare
+2
+persuasivo.
+Il fare persuasivo
+Il fare persuasivo può essere considerato, in generale, come una delle
+forme del fare cognitivo, cioè un fare che, all’opposto del fare pragmatico
+(che manipola gli oggetti di valore), si esercita sul sapere relativo a questi
+oggetti. Situato nella dimensione cognitiva, il fare persuasivo può
+comportare una o più performanze che mirano a stipulare un contratto
+fiduciario, il quale comporta, come contropartita, l’adesione
+dell’interlocutore. Quando l’oggetto del fare persuasivo è la veridizione – il
+dir-vero (falso, menzognero ecc.) dell’enunciatore – il contro-oggetto, il cui
+conseguimento è scontato, consiste nella “fiducia”, nel “credito” o proprio
+nel “credere-vero” che l’enunciatario accorda allo statuto del discorso
+enunciato. Si tratta di una forma particolare del contratto fiduciario che
+designiamo come contratto enunciativo o contratto di veridizione: esso
+verte sul discorso-enunciato in quanto oggetto di sapere, valorizzato dalla
+sua modalizzazione.
+Nel caso che esaminiamo ora, il contesto nel quale si esercita il fare
+persuasivo è un po’ diverso. Cercando di persuadere S , S mira in realtà a
+1 2
+ottenere da lui un oggetto di valore. A questo scopo, propone all’inizio una
+struttura di scambio che riguarda la dimensione pragmatica del suo fare: per
+ottenere qualche cosa, si deve offrire una contropartita. Ma questa
+operazione pragmatica s’inscrive immediatamente nella dimensione
+cognitiva: per ottenere un oggetto di valore, è opportuno presentare il
+contro-valore allettante, esercitare, in altre parole, un fare persuasivo che ha
+per scopo la valorizzazione dell’oggetto in questione. Perché questo fare sia
+coronato dal successo, è tuttavia necessario che vi sia la piena adesione
+dell’altra parte contraente: non è sufficiente che l’interlocutore accetti che
+l’oggetto offerto possiede lo statuto di valore, occorre altresì che in qualche
+modo dia credito alle parole che vertono sul valore di questo valore,
+assumendole lui stesso. Di conseguenza il fare persuasivo mira anche in
+questo caso alla stipulazione del contratto fiduciario. La differenza tra i due
+tipi di contratto risiede in gran parte nel fatto che il primo serve a
+consolidare e a garantire il discorso enunciato come tale, mentre il secondo
+sanziona solo un programma narrativo inscritto in questo discorso: il primo
+contratto fiduciario è un contratto enunciazionale e il secondo un contratto
+enunciativo (la cui conseguenza sarebbe, nel nostro caso, la conclusione
+dello scambio sul piano pragmatico).
+I PN d’uso
+Tutto si svolge come se il fare persuasivo – che cerca di valorizzare
+l’oggetto di scambio offerto – proponesse, in realtà, di interpretarlo e di
+valutarlo in termini di valore d’uso eventuale; lo integra così in uno o più PN
+virtuali complessi nei quali il valore acquisito potrebbe essere utilizzato, a
+titolo di aiuto o di mediazione, per l’acquisizione di nuovi valori.
+Generalizzando, si potrebbe dire che uno dei modi d’esercizio del fare
+persuasivo consiste nel confezionare e nel proiettare verso l’istanza di
+ricezione dei PN d’uso.
+Nella misura in cui rientra nel più generale atteggiamento scientifico, e
+non nella “filosofia strutturale”, sua estrapolazione maldestra ed effimera,
+l’approccio strutturalista esige che la posizione del termine /persuadere/
+faccia necessariamente emergere il termine contraddittorio /dissuadere/.
+D’altra parte, poiché lo schema della comunicazione è bipolare, ci si aspetta
+che ai termini inscritti nell’istanza di emissione corrispondano termini
+appropriati e omologabili inscritti nell’istanza di ricezione. Se si ammette
+che la persuasione e/o la dissuasione possono essere accettate o rifiutate, si
+può tentare di rappresentare questa rete relazionale nella forma di un
+quadrato semiotico:
+Se il dispositivo proposto è corretto, esso permette di formulare un certo
+numero di osservazioni di carattere generale.
+Ci si rende conto, innanzitutto, che il fare persuasivo è solo una forma in
+espansione di un /far-volere/ fondamentale, che il soggetto coinvolto nella
+struttura della comunicazione esercita (proprio come il fare dissuasivo
+riguarda un /far-non-volere/).
+Poi si vede che con qualche ritocco questo dispositivo si può applicare a
+tutti i livelli narrativi in cui una struttura contrattuale è messa in opera: alla
+stipulazione del contratto enunciativo, alla struttura di scambio, ma per
+esempio anche alle relazioni tra destinante e destinatario che mirano a
+instituire un /voler-fare/ con l’aiuto di un /far-volere/.
+Il dilemma
+Se si guarda da quest’angolazione alla proposta di scambio fatta
+dall’ufficiale prussiano si noterà che il primo paragrafo (riguardante
+appunto la proposta) comporta l’esposizione dei termini dello scambio,
+mentre i due paragrafi successivi sono dedicati alla testualizzazione del suo
+fare persuasivo. Infatti, uno dei termini dello scambio, la “parola d’ordine”,
+una volta enunciato, viene occultato per il resto della sequenza: è del tutto
+assente il fare dissuasivo che seguendo il nostro modello avrebbe potuto
+consistere nello svalorizzare il possesso della parola d’ordine. Il fare
+persuasivo esplicita, al contrario, due possibilità prevedibili e consiste:
+a) nel secondo paragrafo, si tratta di persuadere ad accettare, suggerendo
+il PN d’uso del valore /vita/ che viene offerto;
+b) nel terzo paragrafo, si tratta di dissuadere dal rifiutare (negazione del
+/non-volere/ attraverso la spiegazione del programma d’uso che risulterebbe
+dal rifiuto del valore proposto; infatti, la sospensione della “grazia”
+ristabilirebbe il PN canonico che prevede in questa posizione la “punizione
+del traditore” e l’introduzione del valore /morte/).
+Si vede apparire di nuovo l’ambiguità essenziale del discorso di S .
+2
+Anziché presentare le due forme di persuasione come modi di soppesare pro
+e contro, S le formula come tentazioni e minacce; inoltre le polarizza di
+2
+modo che i valori offerti dai due programmi di persuasione si articolino
+come contraddittori, da omologare così:
+La libertà di scegliere si trasforma così in obbligo di scegliere e la
+struttura di scambio in dilemma. Infatti, per ciascuno dei partecipanti lo
+scambio è una sostituzione volontaria di oggetti di valore quali:
+dare la parola d’ordine → ottenere la grazia
+(ricevere) la parola ← (accordare) la grazia
+d’ordine
+ma ora si trova sdoppiato da uno schema che nega i due termini dello
+scambio:
+non dare la parola d’ordine → non ottenere la grazia
+(= essere punito con la morte)
+La possibilità dell’accettazione o del rifiuto dello scambio si trasforma in
+questo modo in un’intimazione a scegliere.
+Questa presentazione intuitiva delle cose richiede di essere un poco
+approfondita.
+La scelta davanti alla quale è posto il soggetto nel caso di una proposta di
+scambio, ma anche in presenza di un dilemma, si interpreta, in primo luogo,
+come una decisione, che è un esercizio di /poter-fare/ situato nella
+dimensione cognitiva.
+Questo /poter-fare/ si riduce nel caso che stiamo esaminando a
+un’alternativa: un poter-accettare o un poter-rifiutare. Che si tratti di una
+proposta di scambio o di un dilemma, il destinatario dispone ugualmente di
+questa “facoltà di scegliere”, che è una forma di fare modalizzato. La
+differenza tra la scelta propriamente detta (com’è quella che si esercita nella
+situazione di uno scambio) e il dilemma si situa a un livello
+gerarchicamente superiore, caratterizzato dalla surmodalizzazione
+ipertattica: mentre la scelta libera si definisce come potere di scegliere o di
+non scegliere, il dilemma invece è un non-poter-non-scegliere (o obbligo di
+scegliere). Le rispettive posizioni delle due strutture modali del poter-fare
+cognitivo possono essere indicate sul quadrato semiotico:
+In seguito al fare persuasivo di S la libera scelta (illusione data nella
+2
+proposta di scambio) si è trasformata in un dilemma che comporta l’obbligo
+di scegliere: è una volta in più una manifestazione del potere di S e
+2
+permette di assimilare lo scambio proposto a una forma di contratto
+ingiuntivo.
+Verso la testualizzazione
+Questa trasformazione del contratto di scambio in contratto ingiuntivo
+diviene particolarmente netta quando si esamina l’espressione figurativa
+che, nel discorso manifestato, si presta alla modalizzazione
+dell’intimazione. Se si ammette che la temporalizzazione è la forma
+figurativa attraverso cui si esprime l’imposizione, al destinatario del
+discorso (S ), di questo “obbligo impellente”, vediamo, nell’accorciarsi
+1
+progressivo del lasso di tempo accordato alla decisione da prendere, una
+specie di “messa in durata” dell’obbligo di scelta.
+Così il primo segmento, dedicato all’esposizione dei termini di scambio,
+non impone limiti temporali all’adozione della proposta. Da allora le
+notazioni temporali si organizzano nel modo seguente:
+Seg2: “subito”
+Seg3: “tra cinque minuti”
+Seg1 di SQ X: “un minuto, non due secondi di più”
+Si vede che, se Seg2 pone l’urgenza della scelta, questa resta imprecisa
+per quel che riguarda la durata; il passaggio dalla breve durata /indefinita/
+alla stessa durata /definita/, ottenuta dalla quantificazione del tempo,
+equivale a un restringimento (Seg3). Tuttavia, solo nella sequenza
+successiva l’intervento dell’ufficiale si riduce al solo “dono” di un minuto.
+Il carattere preciso della quantificazione del messaggio (“neanche due
+secondi di più”) annulla definitivamente la possibilità di una libera scelta e
+lo mostra come pura intimazione.
+Lo stesso principio di gradualità domina d’altronde l’insieme del testo
+della sequenza. Così Seg2 e Seg3 possono essere considerati,
+rispettivamente, formulazioni discorsive dei due PN d’uso: il programma
+“tentazione” e il programma “minaccia”. La forma discorsiva dei due
+segmenti resta quella di un’alternativa, di cui uno dei termini è manifestato
+in espansione e l’altro in condensazione.
+Le “minacce di morte” sono così espresse due volte al /presente/, in Seg2
+e al /futuro/ in Seg3. Il programma attualizzato di “morte” è scomposto in
+una “morte” propriamente detta e in un “dopo-morte” (in acqua). Si
+riconosce facilmente, a questo punto, il fenomeno della proiezione del
+racconto sull’asse del paradigma:
+Su un fondo comune di ricorrenza strutturale si trova:
+a) sul piano narrativo, il passaggio dall’attualizzazione alla
+realizzazione;
+b) sul piano discorsivo, l’espansione di un segmento in sequenza.
+3. Il programma narrativo del soggetto
+3.1. L’interpretazione dei valori offerti
+Incompatibilità assiologiche
+Il PN di S che occupa la sequenza e che consiste nell’esercizio del fare
+2
+persuasivo si correla, come dicevamo, con il PN di S , che si sviluppa
+1
+logicamente come programma del fare interpretativo. La difficoltà
+dell’analisi di questo PN risiede nel fatto che il fare interpretativo non è
+manifestato in alcun modo nel testo, ma è reso dal silenzio dei due amici.
+Quindi, l’interpretazione che possiamo dare di questo fare interpretativo
+non può che riposare sulla conoscenza dei risultati ai quali giunge (il rifiuto
+dello scambio) da una parte e dall’altra su ciò che sappiamo di S in quanto
+1
+enunciatario: tanto sulla posizione attanziale che occupa nel racconto
+quanto sugli investimenti semantici di cui si fa carico. In altre parole, il
+nostro fare interpretativo si basa sulla nostra conoscenza del contesto
+discorsivo.
+Se cerchiamo di metterci al posto di S e di leggere con attenzione gli
+1
+eventuali PN d’uso che S espone per i suoi intenti non potremo fare a meno
+2
+di notare la totale incompatibilità che caratterizza le due rispettive “visioni
+del mondo”. Tutto si svolge come se il PN d’uso “allettante” presentato da S
+2
+risultasse “ripugnante” nella lettura di S e, dunque, come se il PN d’uso che
+1
+cerca di scoraggiare il rifiuto dell’offerta incitasse, piuttosto, a rifiutarla. In
+altre parole, e riprendendo il quadrato semiotico già utilizzato:
+la lettura delle proposizioni di S consiste nell’interpretare:
+2
+1) /persuadere ad accettare/→ come→/dissuadere dall’accettare/
+2) /dissuadere dal rifiutare/→ come→/persuadere a rifiutare/
+La persuasione è letta come dissuasione e viceversa: gli argomenti
+radunati per facilitare l’accettazione sono altrettante ragioni di rifiuto.
+Il soggetto secondo la menzogna
+Così, con il PN d’uso “tentazione”, la “grazia” che viene offerta può
+essere interpretata come una forma di libertà, ossia come un’eventuale
+trasformazione (sul piano pragmatico) dell’oggetto (prigionieri) in soggetto
+(uomini liberi). In ogni caso lo statuto veridittivo previsto per questo
+soggetto impone immediatamente dei limiti all’esercizio della libertà
+promessa:
+“Nessuno lo saprà mai”
+“Il segreto scomparirà con voi”
+prospettando di fatto ai due amici una vita doppia, pubblica e segreta. Sul
+piano dell’apparire, potranno assumere il ruolo di uomini liberi, sul piano
+dell’essere, saranno tutt’altro: il loro ruolo tematico sarà quello di
+beneficiari della grazia del prussiano, di traditori graziati, di semplici
+esecutori del PN di S . Al di sotto dell’apparire di soggetti /non-dominati/ si
+2
+nasconderà il loro essere /dominati/.
+L’incoscienza dell’ufficiale, incapace di vedere le cose in modo diverso
+che non alla luce della propria ideologia, va oltre, producendo nuove frasi
+ambigue:
+“Rientrerete in santa pace”
+Dal suo punto di vista la frase significa la garanzia di un ritorno
+tranquillo dei due amici all’esercizio della loro nuova libertà; ma la frase si
+presta ugualmente a un’altra interpretazione: “rientrerete senza essere
+disturbati” (sottinteso: “dai francesi”), interpretazione che automaticamente
+schiera i due amici dalla parte dell’anti-destinante e li rende colpevoli come
+eventuali “traditori”.
+Lo stesso vale per l’ultima frase del prussiano:
+“Avrete pure una famiglia!”
+suscettibile anch’essa di una doppia lettura:
+a) a prima vista, cerca di attualizzare i valori disgiunti, di renderli
+desiderabili e di presentare la “grazia” offerta come qualcosa di attraente;
+b) ma, inscritta nel contesto più ampio, una tale formulazione può solo
+consolidare l’opzione del rifiuto di questa “grazia”.
+Un’ultima ambiguità proviene dall’interpretazione del /segreto/ e della
+/menzogna/: infatti, una volta tematizzati i due piani dell’/essere/ e
+dell’/apparire/, deciderà solo la sanzione del soggetto cognitivo.
+a) se lo statuto veridittivo è quello del segreto (e + –a), S sarà “traditore”
+1
+ma non apparirà tale;
+b) oppure, se lo statuto è quello della menzogna (–e + a), S apparirà
+1
+“uomo libero” ma senza esserlo.
+Si vede bene che, quando l’ufficiale parla del “segreto”, le sue parole
+possono essere interpretate come “menzogna”, visto che la libertà offerta si
+presenta come una vita secondo la menzogna.
+Il soggetto secondo il segreto
+Lo stesso si può dire del PN d’uso “minaccia”, in cui il malinteso
+fondamentale sussiste tra gli interlocutori. Se la minaccia di morte che S
+2
+pone come termine dell’alternativa offerta alla scelta è reale, il PN d’uso che
+espone per mostrare in che modo S potrà utilizzare il valore “morte” così
+1
+offerto, comporta, anch’esso, una doppia lettura.
+“Pensate che tra cinque minuti sarete in fondo a quest’acqua”
+a) è evidentemente, per l’ufficiale, il colmo dell’abominio, che si
+presume abbia l’effetto dissuasivo decisivo;
+b) ma, per i due amici, questo accenno all’acqua non può che produrre
+l’effetto contrario; l’acqua è uno dei destinanti di S (il non-anti-destinante);
+1
+in quanto tale, essa ha fatto loro conoscere, sotto forma di dono, la gioia di
+vivere; nella deissi positiva del loro universo assiologico, la posizione
+dell’Acqua, come si ricorderà, è omologata a quella di /non-morte/. Così,
+ciò che è inteso da S come minaccia di /morte/ appare per S come un
+2 1
+invito alla /non-morte/, e la dissuasione a rifiutare l’offerta si presenta come
+una persuasione a rifiutarla.
+La conoscenza della vera natura dell’Acqua è evidentemente il segreto di
+S , e l’offerta di S può essere letta come una non-morte secondo il segreto.
+1 2
+Ora, se si tiene conto che la “grazia” proposta è in realtà una
+sottomissione a S e al suo PN, ossia all’anti-soggetto che rappresenta l’anti-
+2
+destinante omologato per assiologia a /morte/, si vede che la scelta offerta si
+presenta:
+a) per S , come la scelta tra vita (la “grazia”) e morte;
+2
+b) per S come la scelta tra /morte/ e /non-morte/.
+1
+Questi sono gli investimenti assiologici tra i quali i due amici devono
+scegliere. Quanto all’eventualità della loro emergenza come soggetti, la
+scelta è quella del loro voler-essere:
+a) soggetti secondo la menzogna,
+b) soggetti secondo il segreto.
+3.2. L’interpretazione del contro-valore richiesto
+Avevamo già notato che, benché la struttura dello scambio esiga la
+giustapposizione e la valutazione comparativa dei suoi due termini, S –
+2
+nella sua attività di persuasione che verte su un solo termine, la “grazia” –
+lascia occultato il secondo termine, la “parola d’ordine”, menzionato solo
+all’inizio e alla fine del fare persuasivo. È il caso di credere, invece, che
+questo termine sia costantemente presente nel fare interpretativo di S : il
+1
+silenzio dei due amici non è altro che il rifiuto di “donare” la parola
+d’ordine.
+Prima che appaia come un eventuale oggetto di scambio, il
+“lasciapassare” è per S un aiutante che gli permette di realizzare il PN
+1
+iniziale (il ritorno a Parigi). Dopo la sua cattura, esso è svalorizzato e cessa
+di essere attuale.
+La situazione cambia completamente quando, inscritta nel PN di S come
+2
+valore d’uso, la “parola d’ordine” diviene un oggetto di desiderio per S
+2
+(quando S informa S ): il /sapere/ acquisito sul valore che la parola
+2 1
+d’ordine ha per l’anti-soggetto cambia il suo statuto agli occhi del soggetto.
+Questa constatazione ha un certo interesse teorico: avevamo ammesso
+finora che un oggetto era un oggetto di valore solo se era situato sull’asse
+del volere che lo collegava al soggetto e se, di conseguenza, era disgiunto
+dal soggetto. La congiunzione del soggetto e dell’oggetto costituisce invece
+la realizzazione del valore e segnala il compimento del programma stabilito.
+Siamo obbligati adesso a prendere in considerazione una nuova
+eventualità, quella della rivalorizzazione dell’oggetto, in congiunzione con
+il soggetto, grazie alla modalità del sapere. Come quando si è pronti a fare
+l’impossibile per trattenere la donna amata, giusto nel momento in cui si
+apprende che essa si prepara a lasciarvi, il sapere può provocare un nuovo
+volere e generare, di conseguenza, un nuovo PN.
+Questo PN – programma di non-separazione con l’oggetto di valore – è un
+anti-programma che fa sorgere il sapere transitivo sul PN dell’anti-soggetto.
+Occorre distinguere due casi che, sebbene si basino sull’acquisizione del
+sapere che trasforma la situazione (il riconoscimento secondo Aristotele),
+presentano due forme di volere differenti: nel caso della donna amata, si
+tratta della rivitalizzazione di uno stesso volere; nel caso della parola
+d’ordine fa la sua apparizione un volere contrario. Non si tratta qui di
+volere conservare per sé la parola d’ordine – che non ha più alcun valore –
+ma d’impedire al nemico di prenderne possesso. I due voleri si distinguono
+grazie all’oggetto preso in considerazione, ossia al PN che reggono:
+(a) primo caso: (“donna amata”) = volere (S ∪ O)
+1
+(b) secondo caso: (“parola d’ordine”) = volere (S ∩ O)
+2
+Nel secondo caso, la struttura dell’oggetto di valore e del PN che regge fa
+immediatamente pensare alla nuisance value, il “valore di disturbo” di cui
+era accusata la politica del generale de Gaulle nei confronti degli Stati
+Uniti.
+Ma proprio come il “lasciapassare” è per S solo un aiutante ipotattico
+2
+utile in vista della realizzazione di un PN complesso più vasto (infiltrarsi
+dietro le linee nemiche), anche per S lo stesso oggetto si presenta come un
+1
+valore d’uso che s’inscrive in un PN generale: un mezzo per negare il potere
+/dominatore/ di S e per affermare il suo statuto di /non-dominato/, di uomo
+2
+libero.
+3.3. Il programma narrativo della liberazione
+Il PN complesso di S
+1
+La ricostruzione ipotetica del fare interpretativo di S non rappresenta il
+1
+“progredire del pensiero” di S nel senso del percorso storico effettivamente
+1
+realizzato. Tuttavia, mette in evidenza il suo carattere negatorio, tratto
+generale di questo fare. Infatti, in un primo momento il fare persuasivo di S
+2
+viene negato e letto come un fare dissuasivo; e in un secondo momento il
+programma d’uso “lasciapassare” è negato dal suo stesso programma di
+“disturbo”.
+L’esame della proposta di scambio fatta da S ci ha d’altronde mostrato
+2
+l’ambiguità di questa offerta che, presentata come una scelta, una volta
+interpretata si rivela un dilemma, un obbligo a scegliere che mette il
+destinatario S nella posizione modale di /non-poter-non-fare/. Così, se il
+1
+fare interpretativo può sfociare nell’azione – azione situata nella
+dimensione cognitiva che esclude il fare somatico a causa del passaggio del
+soggetto allo stato di oggetto (prigioniero) – il fare di S può solo
+1
+manifestarsi come la negazione del /non-poter-non-fare/. La
+rappresentazione di questa operazione sul quadrato semiotico
+mostra che la negazione di questo termine ha per risultato l’emergere del
+suo termine contraddittorio, del /poter-non-fare/. Infatti, conoscere il
+secondo termine dello scambio (la “parola d’ordine”) e acquisire il sapere
+sul PN d’uso di S offrono a S l’occasione per stabilire la nuova posizione
+2 1
+modale di /poter-non-fare/. Il fare interpretativo di S viene accompagnato
+1
+da una dinamica modale che può essere omologata così:
+Se cerchiamo di leggere l’interpretazione appena proposta, ci rendiamo
+presto conto che, nello scontro tra S e S , la vera e propria posta in gioco
+1 2
+non consiste nel dare o non dare la parola d’ordine, ma nel misurarsi sul
+livello dei poteri posseduti dai due soggetti: l’affermazione da parte di S
+1
+del suo potere di /non-fare/ è allo stesso tempo una sospensione del /poter-
+fare/ di S . In questo senso, il PN di non-disgiunzione dal lasciapassare è un
+2
+PN d’uso che si integra in un PN ipertattico.
+Ma c’è dell’altro. Gli enunciati modali di potere (/non-poter-non-fare/ e
+/poter-non-fare/) che stiamo esaminando sono, a ben vedere, ipotattici
+rispetto alla /negazione/ e all’/asserzione/ che reggono; sono infatti
+enunciati-oggetto sui quali si esercita il fare trasformatore del soggetto.
+Così, se invece di trattarli come predicati modali, adottiamo una
+formulazione differente, considerandoli come valori modali, possiamo
+riscrivere l’operazione di negazione di un termine e di asserzione del suo
+contraddittorio come un programma situato al livello della sintassi
+narrativa:
+F trasf S → [S ∪ O (: non-poter-non-fare) ∩ O (: poter-non-fare)].
+1 1 1 2
+Il che vuol dire che il soggetto trasformatore mira a disgiungersi dal
+valore modale /non-poter-non-fare/ e a congiungersi con un altro valore
+modale, contraddittorio rispetto al primo: il /poter-non-fare/.
+Così formulato, il PN complesso di S , sebbene ricopra la totalità del
+1
+racconto, appare come il programma di voler-potere (essere libero), la cui
+eventualità era sorta, in SQ VI, durante il dibattito dei due amici – conclusosi
+con la constatazione “mai si sarebbe stati liberi” (che abbiamo già
+interpretato come l’attualizzazione assiologica del /volere-potere/) –,
+programma che si attualizza adesso ideologicamente e la cui realizzazione è
+prossima.
+L’intervento del Mont-Valérien
+La ricomparsa sotto forma di paragrafo interpolato
+“Il Mont-Valérien continuava a tuonare”
+di questo dio della guerra, è comprensibile – è una manifestazione
+particolare della rete relazionale paradigmatica che ricopre l’insieme del
+discorso narrativo – ma non per questo manca d’interesse. Sul piano
+discorsivo si tratta del procedimento di anaforizzazione per mezzo del quale
+la frase – inserita in SQ IX – gioca il ruolo di anaforizzante, accennando e
+rimandando al vasto segmento di SQ V, dove si descrive in dettaglio il fare
+mortale del Mont-Valérien.
+L’anafora qui utilizzata presenta caratteristiche particolari. Il suo ruolo
+consiste nel collegare e integrare il piano figurativo del discorso (che nella
+prima parte del racconto serve a esplicitare l’universo assiologico di S ) con
+1
+il piano cognitivo sul quale si svolge la nostra sequenza; consiste inoltre nel
+ricoprire dell’ombra dell’anti-destinante universale rappresentato dal Mont-
+Valérien la figura del suo delegato S . L’anafora così costruita collega le due
+2
+parti del racconto (/R / e /R /) e garantisce la permanenza dell’isotopia
+1 2
+fondamentale, dunque l’unità della narrazione.
+È altrettanto importante constatare che la ricomparsa del Mont-Valérien
+in questa seconda parte del racconto non è semplice ma sdoppiata. Come in
+SQ VI – dove due segmenti autonomi erano dedicati alla presentazione
+dell’anti-destinante secondo l’essere e secondo il fare – così al richiamo del
+fare del Mont-Valérien, introdotto in SQ IX, farà seguito in SQ XI
+l’invocazione del suo essere. L’attualizzazione dell’imago mortis universale
+figurativizzata dal Mont-Valérien rende in questo modo esemplare la morte
+dei due pescatori. Una volta chiarito il ruolo dell’anaforizzazione, possiamo
+ancora chiederci per quale motivo il paragrafo anaforizzante venga inserito
+proprio a questo punto e non altrove. Ci sembra possibile dare una risposta
+a questa domanda. Guardando lo svolgimento della sequenza, ci si rende
+conto che il Mont-Valérien:
+a) da una parte, appare immediatamente dopo che l’ufficiale fa menzione
+del termine “acqua”; i due termini appaiono perciò in posizione antitetica e
+la presenza del Mont-Valérien valorizza di rimando il primo termine che,
+dall’“acqua” di S , diviene l’acqua di S , costituendo così la coppia di
+2 1
+contraddittori assiologici dell’universo semantico di S e manifestando il
+1
+vero e proprio scopo della scelta;
+b) dall’altra, nel momento in cui il gioco persuasivo di S è terminato e la
+2
+verità delle relazioni /dominante/ vs /dominato/ è divenuta evidente, la
+proposta di scambio si trasforma in scontro dei poteri dei due soggetti; il
+Mont-Valérien, incarnazione del /poter-fare/ assoluto, viene posto per essere
+negato dai due pescatori “in piedi”, in quanto male universale e non tanto
+come concorso di circostanze sfortunate.
+L’organizzazione del silenzio
+Nella fase più delicata dell’interpretazione della sequenza, si tratta di
+cercare di spiegare la dinamica del fare cognitivo di S . Se siamo riusciti in
+1
+qualche modo a ricostruire il fare interpretativo di S , non dobbiamo
+1
+dimenticare che esso deve essere a sua volta correlato al fare decisionale, il
+quale corrisponde, sulla dimensione cognitiva, alla componente
+performativa delle strutture narrative, ossia alla parte della realizzazione del
+PN.
+Nell’arco di questa sequenza, S realizza infatti il suo PN e si realizza in
+1
+quanto soggetto. La nostra ipotesi, insomma, è la seguente: invece di essere
+solo una sorta di soggetto camusiano del rifiuto – modalizzato dal /poter-
+non-fare/ – e un eroe in rivolta, S non si accontenta di questa posizione
+1
+iniziale, ma avvia il suo PN per pervenire a uno stato di soggetto secondo il
+/poter-essere/.
+Il fare cognitivo di S trova la sua manifestazione sul piano verbale e
+1
+consiste, come abbiamo visto, nel “tacere”, ossia nell’esercitare il fare
+verbale negativo e negatorio. Questo fare, a sua volta, viene inscritto nel
+quadro discorsivo del dialogo e, se nella pratica l’ufficiale prussiano è il
+solo a parlare, il suo discorso è ritagliato in segmenti interrotti da pause
+segnalate da marche dell’enunciatore:
+“L’ufficiale riprese:”
+“Il prussiano [...] riprese”
+“L’ufficiale riprese:”
+pause che costituiscono altrettanti luoghi di repliche sospese.
+In quanto simulacro dell’enunciazione installata nell’enunciato, il dialogo
+si trova quindi fissato. La forma dialogata comporta però
+convenzionalmente due elementi:
+a) l’elemento delimitante (cfr. “riprese”) che riguarda l’ordine
+dell’enunciato, grazie al quale l’enunciatore organizza direttamente il
+dialogo simulato;
+b) l’elemento delimitato che simula l’enunciazione in quanto discorso dei
+due attanti enunciativi.
+Si vede che, per quanto concerne S , l’elemento delimitato è pieno mentre
+2
+l’elemento delimitante rimane vuoto e ridondante (“riprese” è ripetuto tre
+volte); nel caso di S , invece, l’elemento delimitato è vuoto e l’enunciazione
+1
+ricade sull’elemento delimitante, operando in questo modo una sostituzione
+delle funzioni delimitante e delimitata. Si può quindi cercare di leggere gli
+elementi della delimitazione come elementi che “passano per” repliche
+delimitate.
+Se raggruppiamo le unità discorsive di delimitazione, vi ritroviamo
+agevolmente un’iterazione di disposizioni binarie: ogni unità delimitante
+comporta notazioni, situate ora sul piano verbale ora sul piano somatico,
+relative allo statuto di S in quanto partecipante al dialogo:
+1
+Piano somatico Piano verbale
+(1) “lividi” + “tremito” “tacere”
+(2) “immobili” “senza aprire bocca”
+(3) “restare in piedi” “silenziosi”.
+Nota: Come si vede la notazione somatica precede ogni volta la notazione del fare verbale.
+Lo statuto modale di S lo vede come soggetto nella dimensione
+1
+cognitiva, oggetto o non-soggetto (perché ridotto allo stato di /dominato/)
+nella dimensione pragmatica: è dunque possibile ammettere che i due piani
+che abbiamo appena riconosciuto (verbale e somatico) possano essere
+correlati alle due dimensioni (cognitiva e pragmatica), in quanto espressioni
+figurative di queste ultime:
+Se così è, diventa possibile considerare i due piani, nelle loro interazioni
+e nel loro svolgimento, come manifestazioni della progressiva realizzazione
+del PN, e interpretarli come luoghi di trasformazioni modali che presentano
+lo statuto di S come soggetto cognitivo e come non-soggetto pragmatico.
+1
+Esaminiamo quindi in modo pressoché intuitivo le tappe successive di
+questa manifestazione bipolare.
+1. Se accostiamo il comportamento verbale “tacere” all’atto somatico
+“essere lividi”, “avere le mani agitate da un tremito”, è possibile
+interpretarli come rappresentazioni del soggetto attivo e del soggetto
+passivo (ossia “agito”, che subisce l’azione di un altro) ovvero come
+rappresentazioni di un fare opposto alle rappresentazioni di uno stato.
+2. Se passiamo adesso alla seconda coppia oppositiva, notiamo
+innanzitutto un cambiamento ragguardevole sul piano dell’articolazione
+sintagmatica del PN: al soggetto che subisce un’azione contraria succede il
+soggetto “immobile” che, di conseguenza, domina il tremito. Notiamo
+inoltre che si è prodotta una specie di permutazione tra l’espressione
+verbale e quella somatica: mentre il fare verbale prende l’aspetto somatico
+di “non aprire bocca”, un linguaggio corporeo sembra sostituirsi al fare
+verbale come “atto del significare”. È come se l’“immobilità” imponesse il
+“non aprire bocca”, considerandolo uno dei suoi ipotattici.
+3. Il terzo segmento manifesta il piano verbale sotto forma di un
+“rimanere silenziosi”, ossia non più come un fare ma come uno stato
+definitivamente acquisito. La posizione “in piedi”, invece, se la si confronta
+all’“immobilità” del secondo segmento, prende l’aspetto di un fare
+somatico significante, di un “far fronte” di S davanti al Mont-Valérien.
+1
+Intendiamoci bene: né l’“immobilità” né la posizione eretta sono atti
+corporei “naturali” – è evidente, per esempio, che durante il confronto i due
+amici rimangono in piedi – ma sono espressioni figurative scelte
+dall’enunciatore per significare qualcos’altro (oltre l’immobilità del corpo o
+il fatto di tenersi in piedi).
+Il percorso narrativo viene così completato: partendo dall’“atto di
+silenzio”, manifestazione del /poter-non-fare/ che corrisponde
+all’atteggiamento dell’uomo in rivolta di Camus, siamo arrivati
+all’atteggiamento del soggetto “in piedi”, al cospetto della morte e nell’atto
+di negarla. Un “morire in piedi”, che alle persone della mia generazione
+ricorda stranamente la parola d’ordine pacifista del periodo fra le due
+guerre: “Meglio vivere in ginocchio che morire in piedi.”
+A questa lettura preliminare del PN di S potrebbe seguire una
+1
+formulazione più rigorosa. Si potrebbe rappresentare lo svolgimento del PN
+sul piano somatico come la discorsivizzazione di una serie di operazioni
+effettuate sul quadrato:
+proponendo di considerare i tre termini strutturali
+/dominato/ ⇒ /non-dominato/ ⇒ /dominante/
+come corrispondenti ai tre stadi-segmenti che abbiamo appena esaminato.
+1. Il piano somatico non fa che manifestare lo status del soggetto che
+sulla dimensione pragmatica è descritto come “soggetto nello stato di
+oggetto”: tale status può essere omologato al termine /dominato/ del nostro
+quadrato. Ma a questo stato segue, nello stesso segmento, un fare cognitivo
+(manifestato da “tacere”), la cui attività si esercita in due direzioni
+differenti: è, da una parte, l’esercizio del /poter-non-fare/ opposto all’anti-
+soggetto, ma è anche, dall’altra parte, un fare negatorio che opera sul suo
+stesso PN, fondato sulla modalità del potere negatorio recentemente
+acquisito. Il /poter-non-fare/ è infatti solo una sottoarticolazione della
+modalità del /potere/ e suscettibile, come tale, di funzionare come operatore
+di trasformazione.
+2. Di conseguenza, è facile seguire l’esecuzione del programma: la
+negazione dello stato /dominato/ fa automaticamente sorgere il suo
+contraddittorio, lo stato /non-dominato/, espresso dall’“immobilità” che
+annulla il “tremito”.
+3. Ma l’“immobilità” non è solo la constatazione della cessazione del
+“tremito”; è anche l’“atto di significare” e l’asserzione dello stato di /non-
+dominato/: la permutazione del piano verbale e somatico, che abbiamo
+rilevato a questo punto, si spiega come la ripresa (per conto del somatico)
+della funzione d’operatore munito del potere di autoaffermazione; ed è
+questa affermazione dello stato di /non dominato/ (espresso dallo stato
+verbale, divenuto somatico, di “non aprire bocca”) che fa apparire il termine
+presupposto /dominante/. Gli effetti della permutazione /verbale/
+/somatico/ si fanno sentire anche qui: l’espressione “rimanere silenziosi” ha
+la funzione di significare lo stato, mentre l’espressione “in piedi” funziona
+come operatore del potere negatorio della /morte/ (Mont-Valérien).
+Il punto delicato della dimostrazione sembra essere la permutazione tra il
+verbale e il somatico che si effettua durante la seconda tappa del percorso
+narrativo. Nella misura in cui questi due piani sono omologabili con la
+dimensione cognitiva e pragmatica su cui si trova simultaneamente posto il
+soggetto, la ragion d’essere di questa permutazione potrebbe risiedere nella
+necessità di far assumere dal soggetto pragmatico il potere di affrontare e di
+negare la morte: la modalizzazione del soggetto cognitivo è insufficiente
+durante il passaggio che, nella sequenza successiva, si effettuerà dalla
+dimensione cognitiva alla dimensione pragmatica della narratività. I due
+amici, infatti, saranno indotti ad affrontare la dolce “morte corporale” di
+Francesco d’Assisi.

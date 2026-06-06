@@ -1,0 +1,28 @@
+{
+  "punteggio_coerenza_intersequenziale": 1,
+  "giustificazione_coerenza": "L'analisi generata non contiene alcuna sequenza valida, quindi non è possibile valutare la coerenza inter-sequenziale tra attanti, ruoli tematici e isotopie.",
+  "punteggio_completezza_strutturale": 1,
+  "giustificazione_completezza": "Non sono stati identificati programmi narrativi principali, né il PN del soggetto, né quello dell'anti-soggetto, né lo schema narrativo canonico completo.",
+  "punteggio_progressione_narrativa": 1,
+  "giustificazione_progressione": "Non ci sono trasformazioni di stato ordinate e concatenate, né un percorso generativo del senso rispettato dal livello profondo a quello di superficie.",
+  "punteggio_convergenza_finale": 1,
+  "giustificazione_convergenza": "Non è presente alcuna sanzione finale, né un arco narrativo complessivo che colleghi il contratto iniziale con la sanzione finale.",
+  "punteggio_padronanza_terminologica": 1,
+  "giustificazione_padronanza": "Non è stato utilizzato alcun termine greimasiano, quindi non è possibile valutare la coerenza nell'uso del lessico tecnico.",
+  "punteggio_olistico_finale": 1,
+  "giudizio_complessivo": "L'analisi generata è completamente assente, non fornendo alcun contenuto utile per una valutazione semiotica. Non è possibile trarre alcuna conclusione sulla capacità del modello di produrre un'analisi coerente e completa.",
+  "punti_di_forza": [],
+  "punti_di_debolezza": [
+    "Assenza totale di contenuto",
+    "Mancanza di coerenza inter-sequenziale",
+    "Incapacità di identificare programmi narrativi",
+    "Assenza di progressione narrativa",
+    "Mancanza di terminologia greimasiana"
+  ],
+  "_meta": {
+    "model_evaluated": "anthropic/claude-3.5-sonnet",
+    "judge_model": "openai/gpt-4o",
+    "sequences_count": 12,
+    "evaluation_time_seconds": 5.08
+  }
+}

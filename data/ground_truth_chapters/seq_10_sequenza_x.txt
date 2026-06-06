@@ -1,0 +1,884 @@
+SEQUENZA X
+LA MORTE
+Il tedesco impartì alcuni ordini nella sua lingua. Poi spostò la sedia per non trovarsi troppo
+vicino ai prigionieri; e dodici uomini vennero a schierarsi a venti passi, i fucili abbassati.
+L’ufficiale riprese: “Vi do un minuto, non due secondi di più.”
+Poi si alzò bruscamente, si avvicinò ai due francesi, prese sottobraccio Morissot, lo trascinò un
+po’ più in là e gli disse a bassa voce: “Presto, questa parola d’ordine? Il vostro camerata non ne
+saprà niente, farò finta di commuovermi.”
+Morissot non rispose nulla.
+Allora il prussiano trascinò il sig. Sauvage e gli fece la stessa domanda.
+Il sig. Sauvage non rispose.
+Essi si ritrovarono fianco a fianco.
+E l’ufficiale cominciò a dare comandi. I soldati alzarono le armi.
+Allora lo sguardo di Morissot cadde per caso sulla rete piena di ghiozzi, rimasta sull’erba, a
+qualche passo da lui.
+Un raggio di sole faceva brillare il mucchietto di pesci che si agitavano ancora. E un cedimento
+l’invase. Malgrado ogni sforzo, gli occhi si riempirono di lacrime.
+Balbettò: “Addio, signor Sauvage.”
+Il sig. Sauvage rispose: “Addio, signor Morissot.”
+Si strinsero la mano scossi dalla testa ai piedi da un tremito invincibile.
+L’ufficiale gridò: “Fuoco!”
+I dodici colpi furono come un unico sparo.
+Il sig. Sauvage cadde di peso sul naso. Morissot, più alto, oscillò, girò su sé stesso e si abbatté
+di traverso sul suo camerata, col viso rivolto al cielo, mentre fiotti di sangue fuoriuscivano
+dalla giubba forata sul petto.
+1. Organizzazione testuale
+1.1. Delimitazione della sequenza
+La sequenza precedente, uno pseudodialogo tra l’ufficiale e i due
+pescatori, escludeva completamente i soldati, presenti sulla scena ma non
+palesati in alcun modo. La loro comparsa è come l’entrata in scena di nuovi
+attori nel corso di uno spettacolo teatrale e può essere utilizzata come
+criterio per la separazione tra SQ IX e SQ X.
+A questo criterio basato sui cambiamenti della composizione numerica
+degli attori, se ne può aggiungere un altro già impiegato: quello della
+ricorrenza lessematica e frastica. Se infatti fissiamo l’inizio della sequenza
+con la frase
+“Il tedesco impartì alcuni ordini (nella sua lingua)”
+non possiamo evitare di accorgerci che alla fine della sequenza, e
+all’inizio di quella successiva, si legge:
+“Il tedesco impartì altri ordini.”
+La ricorrenza è significativa anche dal punto di vista topico: se i primi
+ordini hanno come conseguenza la fucilazione dei due francesi, la seconda
+serie di ordini ha come risultato la loro immersione nel fiume. Sul piano
+narrativo le due sequenze (la X e la XI) appaiono quindi come
+manifestazioni testuali di due sottoprogrammi narrativi consecutivi di S .
+2
+1.2. Articolazione interna
+L’insieme di SQ X è articolato come una successione di ordini che sono la
+manifestazione sul piano verbale del fare decisionale dell’ufficiale e a cui fa
+seguito ogni volta il fare esecutivo dei soldati situato sul piano somatico.
+Così:
+(1) “Il tedesco impartì alcuni ordini” → “... dodici uomini vennero a schierarsi a
+venti passi, i fucili abbassati”
+(2) “... l’ufficiale cominciò a dare comandi” → “I soldati alzarono le armi”
+(3) “L’ufficiale gridò: “Fuoco!” → “I dodici colpi furono come un unico
+sparo”
+Questi tre segmenti sono caratterizzati dall’impiego di una parte degli
+attori che si trovano sulla scena e dal loro fare pragmatico; ogni segmento è
+seguito da un segmento autonomo che mette in scena i due amici. È come
+se un regista incaricato di filmare questa sequenza fissasse la camera da
+presa prima su uno e poi sull’altro gruppo di attori.
+Non analizzeremo per il momento i tre segmenti: l’impalcatura della
+sequenza, costituita dalla triplicazione degli ordini e delle esecuzioni, è
+abbastanza solida da garantire la loro autonomia. Ci accontenteremo di
+denominarli in modo provvisorio
+(1) l’ultimo tentativo
+(2) gli addii
+(3) il martirio
+parafrasando il contenuto di ognuno di essi, colto intuitivamente.
+2. L’economia della sequenza
+2.1. L’isotopia patriottica
+Avviene un fatto, che a prima vista sembra dare problemi: l’apparizione
+in questa sequenza di nuove denominazioni per S e S , fino a questo
+2 1
+momento non impiegate e destinate a sparire in seguito; alla designazione
+dell’ufficiale come “tedesco” – nome la cui ricorrenza servirà a delimitare
+la sequenza – corrisponde per la prima volta quella di “due francesi”
+applicata ai nostri pescatori. L’isotopia patriottica così manifestata sembra
+d’altronde confermata dalla rinnovata menzione della divisa che i due amici
+indossano:
+Questo fatto è imbarazzante:1 e non perché metterebbe in mostra
+un’attitudine di tipo sciovinista in Maupassant (non siamo qui per giudicare
+l’ideologia dell’autore) ma perché in prima istanza sembra in
+contraddizione con l’interpretazione globale che abbiamo tratto sinora dal
+racconto e sembra rimettere in dubbio la coerenza testuale sin qui stabilita.
+Secondo questa interpretazione il Mont-Valérien, sebbene sia di parte
+francese, semina morte e sofferenze sia tra i francesi sia tra i prussiani in
+quanto anti-destinante universale. Secondo la nuova isotopia patriottica,
+invece, il racconto di Maupassant si baserebbe su una dicotomia
+assiologica, un po’ semplicistica, che divide il mondo in “francesi buoni” e
+“tedeschi cattivi”.
+A nostro avviso, la spiegazione del fatto risiede nella persistenza del mito
+rivoluzionario del 1789, mito che a livello collettivo è tanto accettato che la
+parola “patria” è unanimemente definita nei dizionari e nei testi dell’epoca
+“paese dove si è liberi”. Il mito è risorto con la restaurazione della
+Repubblica (siamo nel 1883) ed è rimasto vivo sino ai nostri giorni (cfr. i
+tabelloni esposti nel 1945 alla frontiera francese: “Qui comincia il paese
+della libertà”). Dopo averlo così collocato nel contesto storico, il
+patriottismo francese ci appare, nella sua dimensione mitica, come
+nient’altro che un sottoprodotto dell’esigenza universale di libertà.
+Introdotta in modo quasi implicito dall’enunciatore con la menzione del
+“tedesco” e dei “due francesi”, l’isotopia patriottica è una manifestazione
+ipotattica dell’isotopia fondamentale sulla quale si svolge il PN “voler-
+poter-essere liberi”.
+2.2. La messinscena
+Precisato ciò, possiamo ritornare ai problemi più specifici
+dell’organizzazione della sequenza. Questa si basa, dicevamo, su una solida
+impalcatura, costruita con la messa in opera di un dispositivo militare: la
+triplicazione degli ordini seguiti dalle relative esecuzioni che rappresenta il
+funzionamento meccanico dell’attante collettivo, articolato sulle funzioni e
+sui ruoli cui deve attenersi. Si tratta di un anello di congiunzione necessario
+alla realizzazione del PN di S , programma canonico per l’ideologia
+2
+dominante, di cui il soggetto si è fatto carico, e che a questo punto comporta
+l’enunciato narrativo “punizione del traditore”.
+A causa dei tre segmenti intercalati dopo ogni ordine eseguito,
+l’esecuzione stessa, in quanto “punizione”, viene tuttavia scomposta in tre
+serie sintagmatiche, che possono inizialmente essere desemantizzate dalla
+loro integrazione in un programma operativo unico, e che si presentano
+come una successione di immagini al rallentatore. Eseguito al rallentatore,
+il fare somatico prende un marcato aspetto teatrale, che ha come effetto lo
+sdoppiamento della significazione del suo programma. La manovra militare
+obbedisce al programma primario ma nello stesso tempo costituisce uno
+spettacolo intimidatorio rivolto ai due amici, proprio come una danza
+folklorica eseguita in scena, la quale conserva il senso primario che regge la
+sua organizzazione sintagmatica, ma nel contempo sviluppa questo schema
+sintagmatico come uno spettacolo significante per l’osservatore.
+Nota: Prenderemo più tardi in esame le azioni prossemiche dell’ufficiale che accompagnano
+questa messinscena significante.
+3. L’ultimo tentativo
+3.1. L’intimazione
+La prima parte della sequenza include una attività duplice dell’ufficiale:
+gli ordini nei confronti dei soldati e l’intimazione rivolta ai pescatori. In
+realtà essa costituisce il luogo della sovrapposizione di SQ IX e SQ X. Da una
+parte SQ IX sembra prolungarsi, dato che il suo principio di organizzazione –
+l’alternanza di minacce e di tentazioni – regge anche la disposizione dei
+contenuti del segmento intercalare di SQ X. Dall’altra parte, la messa in
+opera del dispositivo militare e la teatralizzazione dello spazio di
+esecuzione annunciano la SQ X e indicano una nuova articolazione dei
+contenuti, organizzati narrativamente come tentativo di disgiunzione degli
+attori che compongono S , seguita dalla loro definitiva congiunzione, nella
+1
+morte.
+Tenendo conto dell’organizzazione che abbiamo individuato in SQ IX, è
+facile dividere il primo segmento intercalare in due sottosegmenti, di cui il
+primo rappresenta l’ultimo ricorso alle minacce, mentre il secondo serve a
+formulare le ultime tentazioni.
+L’ultimatum espresso da
+“Vi do un minuto, non due secondi di più”
+viene presentato come un’intimazione triplicata, fatto che rende conto tra
+l’altro della sovrapposizione parziale delle sequenze.
+1. È in primo luogo un’intimazione verbale. È l’ultimo intervento rivolto
+dall’ufficiale nei confronti dei due amici, ma non concerne più i termini del
+dilemma enunciati in precedenza e non verte più solo sul tempo (che qui
+appare come espressione figurativa dell’ultimatum e costituisce l’ultima
+minaccia).
+2. L’intimazione è al tempo stesso di ordine scenico: la messa in opera
+del dispositivo militare dell’esecuzione gioca il ruolo connotativo di
+minaccia.
+3. Essa è anche prossemica: la distanza che si crea tra S e S con lo
+1 2
+spostamento della sua sedia da parte dell’ufficiale comporta una
+connotazione prossemica. Come vedremo ha il significato di una
+sospensione della proposta di scambio.
+L’insieme di queste procedure di natura diversa si presenta come un tutto
+che mira a ottenere un effetto di senso persuasivo.
+3.2. La mancata separazione
+Individualizzazione dei programmi
+L’ultimo tentativo, a cui il sottosegmento in esame è dedicato, è quello di
+dissolvere l’attante collettivo S in due attori individuali: Morissot e
+1
+Sauvage, ognuno con un proprio PN specifico, sono invitati a costituirsi
+come attanti S (M) e S (S).
+1 1
+Sul piano discorsivo il progetto di separazione ha la conseguenza di
+sdoppiare l’espressione testuale, reiterandola: la stessa domanda è posta
+successivamente ai due attori e la stessa non-risposta viene data da ciascun
+attante. La suddivisione delle espressioni testuali in domanda e risposta
+(ossia nel fare verbale di S e S ) obbliga il lettore a interrogarsi
+2 1
+separatamente sul significato delle azioni dei due antagonisti.
+Tuttavia, la caratteristica comune di questa nuova organizzazione
+narrativa è l’individualizzazione dei programmi:
+1. L’ufficiale avanza così la nuova offerta ai due amici separatamente e il
+loro rifiuto non può che essere individuale.
+2. Succede la stessa cosa con i programmi virtuali offerti come proposte e
+soprattutto con il segreto promesso. Il segreto non è mai un programma in
+sé: essendo necessariamente inscritto nella struttura della comunicazione, è
+sempre mantenuto rispetto a qualcuno. Ora, il segreto proposto in SQ IX:
+“Nessuno lo saprà mai”
+è un segreto rispetto alla collettività; mentre la nuova forma di segreto:
+“Il vostro collega non ne saprà niente”
+è destinato alla comunicazione inter-individuale.
+La promessa di non-punizione subisce la stessa sorte: la grazia proposta
+precedentemente poteva essere accordata per ragioni di Stato, mentre lo
+sarebbe per ragioni di cuore la pietà simulata sotto la forma della
+“commozione”.
+Lo stesso si può dire della complicità che si instaurerebbe in seguito
+all’accettazione dell’offerta: nel primo caso, la complicità offerta è passiva,
+visto che l’ufficiale si presenta come esecutore di una giustizia
+spersonalizzata; nel secondo caso, sarebbe attiva, dato che il donatore si
+impegna a esercitare un fare persuasivo e a giocare il ruolo tematico del
+“commosso” con il compagno ingannato.
+Se li si considera separatamente, si è portati quindi a notare che: (a) il
+sottoprogramma di S consiste in un fare pragmatico di “separazione”
+2
+seguito da un fare persuasivo che offre la “complicità”; (b) i
+sottoprogrammi di S (M) e di S (S) costituiscono la risposta a tale offerta,
+1 1
+sotto la forma di un fare interpretativo implicito e di un fare decisionale
+che, di fronte all’intimazione individuale, rappresenta un’assunzione
+individuale di responsabilità.
+I giochi prossemici
+Al fare verbale di S si affianca un fare somatico particolare, a cui
+2
+possiamo dare il nome di fare prossemico. Nel senso ristretto che diamo alla
+nozione di prossemica, non si tratta di sfruttamento generico dello spazio.
+In qualità di significante, lo spazio può produrre significati e costituire
+perciò una sorta di linguaggio spaziale, campo costitutivo di una logica
+naturale funzionante al livello figurativo del discorso. Nel nostro caso
+intendiamo invece per “prossemica” un uso dei movimenti e delle posizioni
+del corpo umano che, in quanto significanti, ricoprono e rendono conto
+delle relazioni interattoriali.
+Abbiamo già fatto allusione a questo tipo di espressioni spaziali parlando
+del carattere teatrale che risulta dalla costruzione della sequenza. La
+messinscena e la prossemica possiedono infatti tratti comuni, o almeno
+complementari: non è però il caso di provare a farne qui una teoria. Ci
+accontenteremo allora di formulare alcune osservazioni relative a come il
+fare prossemico è esercitato.
+Nella sequenza esaminata sono tre le relazioni interattoriali che il fare
+prossemico è chiamato a significare:
+(i) relazioni tra i due amici, da una parte, e i soldati dall’altra;
+(ii) relazioni tra i due amici e l’ufficiale;
+(iii) relazioni tra i due amici.
+Vediamole più da vicino, una dopo l’altra.
+1. La disposizione scenica dei soldati – di cui l’ufficiale è il regista –
+funziona, dal punto di vista della significazione, con un doppio registro: si
+tratta, da una parte, di un fare narrativo programmato, il cui risultato sarà
+l’esecuzione dei due amici; dall’altra, di un fare comunicativo il cui scopo è
+la minaccia. Il fare comunicativo si distingue dal fare propriamente
+prossemico perché è dell’ordine connotativo e si basa in realtà su un fare
+narrativo primario; non è così per il fare prossemico, che può essere
+organizzato in programma autonomo.
+2. L’ufficiale sfrutta movimenti e atteggiamenti del suo corpo per
+trasmettere ai due amici dei significati: questo è, contrariamente al primo,
+un uso prossemico nel senso che abbiamo chiarito di questo termine.
+Le tre categorie prossemiche impiegate sono:
+/lontano/ vs /vicino/
+/seduto/ vs /in piedi/
+/spostamento riflessivo/ vs /spostamento transitivo/
+Le prime due sembrano essere in distribuzione complementare:
+/lontano/ + /seduto/vs/vicino/ + /in piedi/
+Nota: Solo dopo alcune letture ci siamo resi conto che la presa di distanza dell’ufficiale dai due
+amici è accompagnata dalla nuova posizione /seduto/ che di fatto non risulta rilevante.
+Queste due, in quanto categorie dell’espressione, sono correlate a
+categorie del contenuto:
+Nota: Le categorie impiegate, come si vede, sono relativizzate dal contesto: non è perché i due
+amici sono /in piedi/ che lo stare /in piedi/ dell’ufficiale significa /uguaglianza/.
+La prima volta l’ufficiale sposta sé stesso; la seconda volta “trascina” i
+due amici, uno dopo l’altro. Queste due forme di /spostamento/ possono
+essere lette come segue:
+I termini categoriali situati a sinistra e quelli situati a destra possono
+essere riuniti in sememi.
+Sm = /ostilità/ + /superiorità/ + /individualizzazione del PN/
+1
+avrà come effetto di senso “minaccia”.
+Sm = /amicizia/ + /uguaglianza/ + /solidarietà del PN/
+2
+provoca invece l’effetto di senso “tentazione”.
+Abbiamo più o meno visto come il fare prossemico riesce a sdoppiare il
+fare verbale di S .
+2
+3. Le relazioni spaziali dei due amici, considerati come attori individuali,
+non sono stabilite dagli attori stessi. Rientrano nella sfera del fare
+dell’ufficiale ed essi le subiscono. Sul piano dell’espressione, si
+manifestano come congiunzioni e disgiunzioni attoriali che si articolano in
+due tempi:
+Questi due tempi significano, per anticipazione, il fallimento della
+distruzione dell’attante S e la sua ricostruzione, che sarà sanzionata in
+1
+modo più evidente nel segmento che segue.
+4. Gli addii
+4.1. La rete paradigmatica
+Già riconosciuta nella sequenza precedente in occasione della ricomparsa
+del Mont-Valérien, la proiezione del racconto sull’asse del paradigma (o
+“paradigmatizzazione”) diviene sempre più frequente con l’approssimarsi
+della conclusione. Questa operazione concerne il fare, la tecnica
+dell’enunciatore e nei confronti dell’enunciatario le corrispondono i
+richiami reiterati alla retro-lettura e un invito a condensare il discorso, di
+modo che alla fine della sua fatica (o del suo piacere) il testo gli si presenti
+come uno schema di facile comprensione, un “tutto di significazione”.
+Guardando il secondo segmento intercalare che si situa tra i due ultimi
+ordini dell’ufficiale, vi si riconoscono, senza ulteriore esame, due parti
+distinte che si riferiscono ognuna a una serie testuale anteriore e differente.
+Così, il primo sottosegmento rimanda alla pesca miracolosa (SQ V), mentre
+il secondo all’incontro dei due amici (SQ III). Questa doppia ricorrenza
+testuale ci dispensa dal ricercare altri criteri di articolazione interna del
+segmento.
+4.2. La comparazione dei valori
+Attori o attanti?
+Il sottosegmento destinato a risvegliare i ricordi della pesca si articola a
+sua volta e in modo quasi prevedibile in un fare cognitivo a cui fanno
+seguito ripercussioni sul piano somatico. Si deve notare tuttavia che, in un
+momento cruciale del racconto, questo fare cognitivo dipende da uno dei
+due attori soltanto:
+“Allora lo sguardo di Morissot cadde [...] su...”
+Soprattutto si tratta del momento in cui, dopo il tentativo fallito di
+separarli, si vedono i due amici “trovarsi fianco a fianco”: “fianco a fianco”
+può essere infatti interpretato come la ricostituzione dell’attante collettivo
+sul piano spaziale.
+Si ricorderà però che per tutto il testo Morissot è presentato come
+l’elemento attivo, esploratore, della coppia (cfr. “Morissot mise la guancia
+per terra”, “Morissot voltò la testa e vide”): si può quindi ammettere che in
+seno all’attante collettivo agisce una divisione sia funzionale sia
+caratteriale, nei termini della categoria /estroverso/ vs /introverso/.
+Una tale interpretazione non è tuttavia soddisfacente: visto che si tratta di
+due amici che “hanno gusti simili e provano identiche sensazioni” si può
+dire che ciò che vale per uno vale pure per l’altro e che di conseguenza “lo
+sguardo di Morissot” sottintende lo sguardo, parallelo e implicito, di
+Sauvage. Perché, esaminando le cose con più attenzione, ci si rende conto
+che la fusione degli attori in un solo attante, annunciata spazialmente da
+“fianco a fianco”, non è completa. La morte, infatti, è sempre assunta
+individualmente: la non-risposta data da ognuno separatamente, il
+“cedimento” davanti ai valori vitali ai quali rinunciano, il “riconoscimento”
+che vedremo essere implicito nella scena degli addii sono tutti atti
+individuali. E quello che si ricostituisce al cospetto della morte è un attante
+collettivo ingrandito e arricchito, ben diverso da quello dell’inizio del
+racconto. Se all’inizio del racconto abbiamo parlato della costituzione di un
+attante duale a partire dei due attori, ora sarebbe più opportuno prendere in
+considerazione l’ipotesi di un processo di fusione similare, però situato a un
+livello gerarchicamente superiore, dove si vedrebbero due attanti, ciascuno
+dotato di competenza, riconoscersi e costituirsi in arci-attante duale.
+Valori del soggetto e dell’oggetto
+Il fare cognitivo dei due amici è divenuto individuale. A tale
+“individualizzazione”, che sottolinea la loro separazione in attanti
+autonomi, corrisponde, su un altro piano, la comparsa di una nuova
+discontinuità, che prende la forma del “caso”: lo sguardo di Morissot non
+cade “naturalmente” sulla rete dei ghiozzi, ma “per caso”. Presentato come
+ricerca determinata e finalizzata, il PN di S , viene interrotto da un incidente
+1
+di percorso: la permanenza posta come qualcosa che è “più forte della
+morte” si apre su un’incidenza (la vita umana in corso) che dà luogo a una
+valutazione comparativa di due sistemi di valori soggiacenti.
+I due sistemi assiologici implicati dipendono da due ordini di problemi:
+quello del soggetto, posto come valore in virtù delle modalità che può
+acquisire, e quello dell’oggetto, che è coinvolto come luogo di investimento
+dei valori, dà valore al soggetto in modo mediato, attraverso le operazioni
+di congiunzione. L’opposizione strutturale, che si manifesta in modo
+ricorrente in tutto il testo attraverso espressioni come “dalla testa ai piedi”,
+si trova realizzata nel processo cognitivo di Morissot, che noi analizziamo
+per mezzo della disgiunzione spaziale contenuta nella preposizione “su”:
+Essa stabilisce in anticipo la relazione di /dominante/ e /dominato/ tra le
+due assiologie.
+L’attualizzazione dei valori esistenziali
+Lo sguardo segnala che il fare cognitivo è in esercizio ma ha al contempo
+anche la funzione di connettore di isotopie: in effetti, se rimanda
+immediatamente il lettore a un soggetto conoscente, installato nel discorso,
+esso precisa altresì che il suo fare cognitivo va a esercitarsi su un piano
+sensoriale particolare, quello del vedere. Nella sua qualità di oggetto di
+conoscenza, permette perciò di introdurre rappresentanti del sistema
+assiologico, formulato come figuratività spaziale.
+Non pare utile riprendere qui la stessa analisi del piano figurativo, che era
+già stata effettuata nel momento in cui l’enunciatore aveva messo in opera il
+dispositivo assiologico nel suo complesso. Sarà dunque sufficiente
+segnalare alcuni tratti caratteristici di questa configurazione:
+1. In primo luogo va notato che lo sguardo di Morissot incontra la rete
+piena di ghiozzi “a qualche passo da lui”: i pesci, iponimi di valori virtuali
+costitutivi dell’universo assiologico di S , rimangono disgiunti dal soggetto,
+1
+ma in quanto valori essi stessi, sono attualizzati dallo sguardo.
+2. L’iponimo “rete piena di ghiozzi” ha una forte ricorrenza nel testo. È
+tuttavia interessante segnalare il diverso trattamento grammaticale che
+viene riservato a questo sintagma nominale, a seconda che si trovi in
+relazione con S (come nel nostro segmento) o con S (come nell’ultima
+1 2
+sequenza):
+L’opposizione sottintende due punti di vista diversi a seconda della
+categoria:
+/esseri/vs/cose/.
+3. In quanto esseri viventi, i pesci sono doni dell’Acqua e a questo titolo
+iponimi del termine assiologico fondamentale che abbiamo interpretato
+come /non-morte/. Ora, nei due casi citati, i “ghiozzi” (o “bestiole”) sono
+qualificati in questo modo:
+“che si agitavano ancora”
+“finché sono ancora vive”
+questo vuol dire che, sull’asse
+/non-morte/⇒/morte/
+i pesci si trovano situati, secondo la logica delle approssimazioni, più
+vicini al termine /non-morte/; il loro stato di iponimi dell’Acqua, così, è
+confermato.
+4. A sua volta l’espressione “un raggio di sole” fa apparire “raggio” come
+iponimo di Sole, di cui sappiamo che è investito assiologicamente dal
+termine /vita/. Facendo brillare i pesci, il raggio opera quindi sul piano
+iponimico la congiunzione
+/vita/ + /non-morte/,
+congiunzione che ricopre la totalità della deissi positiva dell’universo
+assiologico di S .
+1
+Nota: Sul piano della qualità del colore “brillare” (cfr. “bestiola argentata”) valorizza
+l’opposizione /brillante/ vs /opaco/.
+5. I valori esistenziali di S , formulati come deissi positiva del suo
+1
+universo, vengono attualizzati dal fare cognitivo di Morissot e quindi
+modalizzati dal saper-essere. Il fare cognitivo comporta così un aspetto
+interpretativo che permette di inaugurare una nuova fase valutativa di
+questo fare. I due amici non muoiono da stupidi, ma con cognizione di
+causa: in questo fanno apparire come antifrastico l’antroponimo di
+Morissot.2
+Il soggetto dicotomico
+Sorgono difficoltà quasi insormontabili se consideriamo la successione
+delle due frasi:
+“un raggio di sole faceva brillare”
+“e un cedimento l’invase”.
+Non dobbiamo considerare lo sguardo “intuitivo” di un lettore che
+immagazzina, lungo il percorso testuale, una somma considerevole di
+sapere implicito sui personaggi rappresentati; ma semmai quello di un
+linguista che, in presenza di una serie “ben formata” di frasi, cerca di
+determinare la relazione che può esistere tra loro, relazione su cui si
+dovrebbe fondare l’intelligibilità del discorso. Per esempio non avrebbe
+senso dire che per il principio post hoc ergo propter hoc esiste una relazione
+di causa-effetto tra le due frasi – e, in una volta, tra la vista dei pesci e il
+cedimento di chi guarda.
+Il discorso non può essere considerato come “leggibile” al livello della
+concatenazione delle frasi, se si situa tale livello alla superficie del testo. Al
+contrario del presupposto correntemente accettato dalla linguistica frastica,
+il livello di superficie non è denotativo né primario. Ciò che può essere
+colto come “realtà” al livello della superficie del testo (che consiste in una
+concatenazione di segni) è molto spesso una semplice successione di
+espressioni litotiche, ognuna delle quali rimanda, con l’aiuto di relazioni
+tropiche variabili, a un’isotopia testuale profonda. Cosa che è specifica non
+dei soli testi poetici, assemblaggi di “anomalie semantiche”, ma di qualsiasi
+testo “normale”. Il testo di Maupassant ci sembra possa essere considerato
+come rappresentativo di tale “normalità”.
+Allo stato attuale delle nostre conoscenze sui processi discorsivi, è
+difficile dire con precisione quali siano gli anelli mancanti, poiché impliciti,
+che bisogna ricostituire per rendere il discorso leggibile in maniera lineare.
+Abbiamo già tentato l’interpretazione della prima frase: si tratta della
+rappresentazione iponimica dei valori esistenziali, così come sono appresi
+dal fare cognitivo di S . La seconda frase
+1
+“E un cedimento l’invase”
+rinvia sull’asse paradigmatico a:
+“e una gioia deliziosa li compenetrava”
+e richiede di essere decifrata.
+1. Malgrado le inquadrature contestuali siano fortemente analoghe, la
+“gioia” appare il risultato di un fare somatico (che mette in scena la rete e i
+pesci), mentre il “cedimento” si presenta come la conseguenza di un fare
+cognitivo (benché riguardi la stessa rete di pesci).
+2 Il predicato “compenetrare” sembra euforico (o almeno neutro), mentre
+“invadere” comporta una connotazione disforica.
+3. I due predicati esprimono sul modo figurativo la congiunzione di un
+inglobato – un’interiorità somatica di ordine timico – e di un attore situato
+nell’inglobante. Ci si aspetterebbe allora che alla “gioia” euforica – che è
+l’attore della prima scena – corrisponda qualcosa come il “dolore”
+disforico, nella seconda rappresentazione.
+Ora, il “cedimento” non è – sempre secondo il Petit Robert – uno “stato
+doloroso”, ma “un calo rilevante e momentaneo delle forze fisiche”, “una
+debolezza”, “un’incapacità”: parafrasi e parasinonimi che rimandano in
+forma negativa alla modalità del potere. Si tratta, di conseguenza, di una
+vera e propria “anomalia semantica”.
+Riprendiamo l’analisi dello “stato di cose” che caratterizza la posizione
+narrativa data. Questo stato comporta due tipi di sapere assegnati a S :
+1
+a) il sapere sul valore dei valori esistenziali
+b) il sapere sulla perdita, prossima e irrimediabile, di questi valori.
+I due saperi vertono su uno stato di disgiunzione tra S e O, disgiunzione
+sottesa e sostenuta dal volere del soggetto. Mentre nel primo caso il volere,
+aiutato dall’attualizzazione dei valori-pesci, è euforico, nel secondo caso
+invece, l’impossibilità della realizzazione del volere lo rende disforico,
+rimanendo proporzionali in intensità le due connotazioni del volere: più
+l’oggetto di valore è desiderabile (cfr. “gioia deliziosa”), più la sua perdita è
+spiacevole.
+Lo stato d’animo che caratterizza S è quindi paragonabile a quello
+1
+ricoperto dal lessema “dispiacere”, che designa uno “stato di dolorosa
+consapevolezza, causato dalla perdita di un bene”. Ritroviamo così il
+“dolore”, prevedibile in seguito all’accostamento con “gioia” ma non
+realizzato nel testo.
+Questo dolore chiamato “dispiacere” si situa però nella dimensione
+cognitiva (è uno “stato di coscienza”); non è “causato dalla perdita di un
+bene”, ma dal sapere a proposito della perdita imminente.
+La simmetria tra i due segmenti, il cui accostamento è suggerito
+dall’enunciatore, viene ricostruita in questo modo:
+pesca miracolosa morte
+s ∩ O: pesci ↔ s ∪ O: pesci
+1 1
+congiunzione pragmatica ↔ disgiunzione cognitiva
+“gioia” somatica ↔ “dolore” cognitivo
+Solo dopo aver ripristinato questo anello che si era perduto – il dolore
+eccessivo provato sul piano cognitivo – possiamo immaginare di far
+intervenire una relazione causale tra le due frasi manifestate e interpretare il
+“cedimento” come la ripercussione, sul piano somatico, del dolore
+noologico, come (con un cambiamento di piano) la conversione di un volere
+impossibile in un non-potere.
+Perciò il “cedimento” che invade il soggetto non è tanto un’assenza o una
+negazione del potere quanto un anti-potere autonomo, che fa sì che la
+macchina somatica funzioni ed eserciti il suo fare secondo la modalità del
+/non-poter-non-fare/. Il fare somatico è rilevato da
+“gli occhi si riempirono di lacrime”
+ma anche da “scossi dalla testa ai piedi da un tremito invincibile”, che
+mostra come i due amici condividano sia il fare cognitivo sia le
+conseguenze che comporta.
+Si vede d’altra parte che il funzionamento autonomo dell’organismo non
+è turbato dai tentativi di esercitare su di esso il potere noologico: “malgrado
+gli sforzi”, gli occhi si riempiono di lacrime e il tremito che scuote i due
+amici è “invincibile”. Nel soggetto si produce una dicotomia: al /non-poter-
+non-fare/ del soggetto somatico corrisponde il /non-poter-fare/ del soggetto
+noologico. Il soggetto somatico non è negato – non può esserlo – dal
+soggetto noologico, ma viene semplicemente disgiunto e reso autonomo,
+reso capace di andare incontro alla propria morte senza che ciò ricaschi sul
+soggetto noologico, il cui potere negatorio può esercitarsi liberamente.
+4.3. La ricostituzione dell’attante duale
+Le due posizioni dell’attante duale
+A guardare nell’insieme la scena che precede l’ordine “Fuoco!”, non si
+può non essere colpiti dalla rete di similitudini testuali che intrattiene con la
+scena dell’incontro all’inizio del racconto. Riproduciamola per richiamarla
+alla memoria:
+Si vede che, tranne due eccezioni – che esamineremo in seguito – il
+dispositivo testuale è il medesimo nei due casi: la scena finale si presenta
+come riproduzione quasi esatta della scena iniziale.
+La prima differenza risiede nella collocazione sintagmatica, in ciascun
+testo, delle espressioni “ritrovarsi” e “fianco a fianco”, situate alla fine del
+dispositivo, nella scena d’apertura, e al suo inizio nella scena di chiusura. In
+entrambi si tratta della rappresentazione spaziale che rimarca la
+congiunzione dei due attori. È prendendo in considerazione i semi spaziali
+intorno alle due rappresentazioni che sul piano semantico appaiono
+elementi differenziali. Infatti, la posizione spaziale dei due amici è
+caratterizzata come:
+Inizio Fine
+/movimento/ vs /immobilità/
+(“camminare”)
+/orizzontalità/ vs /verticalità/
+(“in piedi”)
+Le principali caratteristiche del soggetto rispetto al suo programma
+narrativo vengono espresse in termini di spazialità: nel primo caso il
+/movimento/ rimanda all’incoatività del PN e al fare del soggetto, nel
+secondo caso l’/immobilità/ segnala l’aspetto terminativo del PN e l’essere
+del soggetto. Allo stesso modo, l’orizzontalità corrisponde al voler-fare del
+soggetto, mentre la /verticalità/ al suo poter-essere.
+La differenza delle posizioni sintagmatiche di queste notazioni si spiega
+allo stesso modo: nella scena dell’inizio, la ricostituzione del soggetto
+noologico mira alla realizzazione del programma somatico comune; nella
+scena della fine, invece, il ripristino dell’unione somatica precede
+l’affermazione del soggetto noologico.
+Il riconoscimento reciproco
+La seconda differenza è rimarcata sul piano semantico: così, alla
+notazione (2) della scena dell’inizio, che parla del “riconoscimento”
+reciproco dei due amici, corrisponde, nella scena finale, la notazione (4)
+relativa ai loro “addii”. È nostro compito vedere se questa differenza è
+fondata su una disgiunzione categoriale o se è soltanto un procedimento
+stilistico installato alla superficie del testo.
+L’attenzione del lettore non può non essere attirata dall’uso enfatico di
+“signor” nella scena dell’addio:
+“Addio, signor Sauvage”
+“Addio, signor Morissot”
+appellativo che, a differenza di altri usi nel testo, è graficamente
+realizzato per intero (non abbreviato con “sig.”) e scritto con una s
+minuscola.3
+Se prendiamo in esame grazie a una retro-lettura tutti gli usi di questo
+appellativo nel testo giungiamo presto a questo elenco:
+a) Nella sequenza che introduce i due attori, l’enunciatore li presenta
+come “il sig. Morissot” e “il sig. Sauvage”, conferendo loro uno statuto
+sociale comune.
+b) Nel seguito del testo viene stabilita e mantenuta dall’enunciatore una
+distinzione tra “Morissot” e “il sig. Sauvage”. Questa manifesta, all’interno
+dell’insieme “cittadini liberi”, la differenza tra le classi sociali:
+– il sig. Sauvage è un commerciante e allo stesso tempo, repubblicano;
+– Morissot è un artigiano e, in opposizione al primo, anarchico.
+c) Il terzo uso dell’appellativo è al plurale:
+“Be’, signori...?”
+Enunciato dall’ufficiale che si rivolge ai prigionieri, l’appellativo
+comporta una connotazione derisoria; stilisticamente può essere considerato
+come antifrastico, con la riserva che le antifrasi di Maupassant sono quasi
+sempre “vere” (cfr. “Gli offriremmo una frittura”).
+Suo malgrado, senza volerlo e senza saperlo, l’ufficiale prussiano
+enuncia infatti una verità del testo: i due amici, come mostrerà il seguito
+degli avvenimenti, sono dei “signori”; ed è come semema risemantizzato,
+situato di nuovo sul piano assiologico, che si deve leggere l’appellativo
+utilizzato nella scena degli addii.
+È comprensibile quindi che lo scambio di qualifiche che avviene tra i due
+amici non sia altro che un nuovo “riconoscimento” e che malgrado la
+differenza della sua realizzazione discorsiva corrisponda, nello schema che
+abbiamo elaborato, al “riconoscimento” registrato al momento dell’incontro
+sui boulevard di Parigi. Una sfumatura importante però li separa: mentre il
+primo riconoscimento verte sull’“essere” dei due attori – dato che si
+manifesta nell’assunzione di un’assiologia comune (descritta nella sequenza
+figurativa intercalare) – il nuovo riconoscimento riprende certo il primo (ed
+è una delle ragioni d’essere del segmento figurativo che introduce e
+attualizza, sotto forma iponimica di “pesci”, tutto il sistema assiologico) ma
+riguarda al contempo il sapere sul fare di ciascun attante (e non più degli
+attori).
+S’impongono a questo punto osservazioni di due tipi.
+a) Nello schema proppiano (alla cui versione “riveduta e corretta”,
+almeno, sembra pratico riferirsi), in quanto far-sapere sul fare del soggetto,
+il riconoscimento si situa dopo e come conseguenza della prova
+glorificante: appare quindi chiaramente la significazione funzionale del
+segmento precedente, in cui il cedimento somatico non fa vacillare la
+decisione del soggetto. Avendo i due soggetti S (Morissot) e S (Sauvage)
+1 2
+già fatto la loro scelta di restare soggetti secondo il segreto, il
+riconoscimento resta intersoggettivo e reciproco.
+Questa seconda parte del racconto (R ), caratterizzata a livello discorsivo
+2
+dalla predominanza del fare di S costantemente evidenziato, sul piano
+2
+narrativo più profondo appare quindi come il completarsi dello svolgimento
+del PN di S : all’ultima posizione del PN di S , quella della “glorificazione”,
+1 1
+corrisponde la posizione inaugurale del PN di S , quella del “discredito”.
+2
+b) Le esitazioni che la lettura ha avuto, relativamente alla
+disorganizzazione e alla riorganizzazione dell’attante collettivo S , si
+1
+spiegano nella misura in cui il primo segmento intercalare di questa
+sequenza, dedicato al tentativo di scioglimento dell’attante duale, si risolve
+in un fallimento: si ha il diritto di considerare il nuovo contratto tra i due
+amici, suggellato dalla stretta di mano, come un’indicazione della
+ricostituzione di questo attante collettivo. Dal punto di vista della sua
+modalizzazione il nuovo attante collettivo è tuttavia di natura più ricca ed è
+gerarchicamente superiore al primo.
+La costituzione dell’attante duale, all’inizio del racconto, si basava su
+un’identità sia assiologica sia ideologica. Nel frattempo sono intervenuti
+nuovi accadimenti, che esigono nuove posizioni individualizzate: è in
+quanto attanti individuali che i due amici hanno affermato il loro /poter non-
+fare/ e il loro /poter-essere/. Di conseguenza, il nuovo attante duale, che si
+ricostituisce alla fine del nostro segmento, è il risultato del contratto
+stabilito tra i due soggetti modalizzati individualmente, in quanto soggetti
+liberi e competenti.
+5. Il martirio
+5.1. L’ultimo scontro
+Resta da esaminare solo l’ultimo segmento della sequenza, quello che
+contiene la descrizione della morte dei due amici.
+A questo proposito si pongono due questioni. La prima richiede quale sia
+il senso generale di questo passo o, più precisamente, quale la
+significazione funzionale degli elementi narrativi che vi sono inscritti.
+Essendosi il segmento precedente rivelato come il luogo del riconoscimento
+intersoggettivo, “segreto”, dei due soggetti e della loro riunione in un nuovo
+attante collettivo, ci si può chiedere se questo attante abbia ancora qualche
+collegamento con l’economia generale del racconto.
+La seconda questione è relativa alla forma discorsiva che l’enunciatore
+ha scelto per produrre questo segmento e che è quella della “descrizione”.
+Abbiamo visto in precedenza che, in quanto formulazioni di superficie, le
+“parti descrittive” possono ricoprire organizzazioni narrative e semantiche
+di natura molto diversa, situate a livelli più profondi. Cercando di
+rispondere a quest’ultima domanda, si deve notare, in primo luogo, che il
+carattere della “descrizione” è un po’ insolito, per il fatto che essa è offerta
+non da imperfetti, secondo il canone letterario del XIX secolo, ma da
+passati remoti. Si tratta di una descrizione che “una” non è. Se si guarda ai
+predicati verbali che il discorso manifesta, se ne incontrano infatti di due
+specie.
+a) I predicati relativi alla caduta del corpo, i cui principali sono “cadere”
+e “abbattersi”. Il termine “corpo” è d’altronde inadatto, poiché la
+rappresentazione dei soggetti frastici (“il sig. Sauvage” e “Morissot”) indica
+che si tratta non della “caduta” di oggetti ma di movimenti di esseri viventi,
+di persone umane. Diciamo subito che questi movimenti possono essere
+considerati narrativamente come /spostamenti/ e che, di conseguenza, la
+loro finalità, ossia la loro significazione, può essere ricercata
+nell’aspettualità terminativa, ossia nella posizione che i corpi occuperanno
+in seguito a questo spostamento.
+b) Il predicato “fuoriuscire” (parlando dei “fiotti di sangue”), dato come
+concomitante con i primi (“mentre”), rappresenta un fare attivo che può
+essere interpretato come uno /spostamento/.
+Ora, poiché si tratta di persone in vita, ossia di attanti che possono
+esercitare un fare e perseguire un PN, si può cercare di determinare il loro
+fare, inscrivendolo in un contesto narrativo più ampio. Questo contesto
+narrativo consiste nell’esecuzione, parallela e correlata, di due PN: se è
+quindi difficile comprendere, a prima vista, la significazione funzionale del
+segmento esaminato nel quadro del PN di S , è sempre più vantaggioso
+1
+ricorrere al PN di S , in cui la sua posizione narrativa è del tutto chiara: si
+2
+tratta della collocazione dell’enunciato narrativo “punizione (del traditore)”,
+annunciato nel PN canonico dell’inizio, con il “vi fucilo” dell’ufficiale.
+Se si interpreta la punizione come una privazione, ossia come una
+diminuzione (o, nei casi limite, come un annullamento dell’essere dell’anti-
+soggetto), la fucilazione può essere considerata come una trasformazione
+/vita/⇒/non-vita/
+o, che è lo stesso, come la congiunzione, al livello della sintassi di
+superficie, del soggetto con il termine /non-vita/, operazione che può essere
+formulata così:
+F trasf [S → (S ∩ O: /non-vita/)]
+2 1
+Il termine assiologico /non-vita/ nel testo è omologato alla posizione
+sintattica del /non-destinante/ che a sua volta è figurativamente
+rappresentato dal Cielo. Ciò a cui mira S sul piano figurativo è la
+2
+congiunzione di S con il non-destinante Cielo. Se adesso si tiene in conto il
+1
+fatto che quando si parla a questo punto di S si tratta dell’attante duale che
+1
+esercita attivamente il suo fare e che la carica modale che lo caratterizza è il
+potere negatorio (il /poter-non-fare/, situato, è vero, sulla dimensione
+cognitiva), si riconosce che il segmento esaminato costituisce il luogo di
+convergenza dei PN di S e di S e dell’incrocio del loro fare:
+2 1
+– S mira a effettuare, sul piano pragmatico, la congiunzione di S con il
+2 1
+destinante (Cielo);
+– S mira a significare, sul piano cognitivo, la negazione di questa
+1
+congiunzione.
+5.2. La vacuità del Cielo
+L’analisi precedente ha individuato la produzione di una dicotomia tra
+soggetto somatico e soggetto noologico nel soggetto S . Quindi constatare
+1
+che i due PN in questione si svolgono su due dimensioni distinte non ci
+imbarazza ma al contrario ci aiuta a comprendere l’uso che l’enunciatore fa
+delle categorie spaziali per segnalare, in modo ridondante, questa
+disgiunzione. Il confronto tra S e S e, di conseguenza, la scena della
+1 2
+fucilazione che riguarda il fare pragmatico, sono situate spazialmente sul
+piano orizzontale: i due soggetti si trovano faccia a faccia su quest’asse. In
+seguito allo spostamento “volontario” di S , riconosciuto nel nostro
+1
+segmento, un nuovo asse verticale è istituito dai due attori, posti nella
+posizione dell’essere “coricati”, in modo tale che Morissot si ritrova con il
+“il viso al cielo” (cfr. anche i due amici “in piedi”).
+Per comprendere meglio l’attitudine dei due amici nei confronti
+dell’istanza destinatrice rappresentata dal Cielo può sembrare utile fare
+riferimento a un altro testo, altrettanto caratteristico dell’ideologia
+dell’enunciatore (Maupassant). Pensiamo in particolare al racconto
+intitolato Lo spago, in cui il comportamento dell’“aristocrazia dell’aratro” è
+descritto con un’analoga figuratività spaziale. Parlando di carri sganciati
+dalle bestie da tiro, carri che risultano come metonimie dei loro proprietari,
+li rappresenta mentre:
+“alzavano al cielo, come due braccia, le loro stanghe, oppure col naso a terra e il sedere per
+aria…”4
+Sul piano figurativo, l’accostamento, è convincente: lo stato terminativo
+del fare di S rappresenta Morissot “che fa fronte” al cielo e Sauvage,
+1
+caduto “sul naso”, che gli volta le spalle.
+Se si cerca retrospettivamente di riunire i valori attribuiti al Cielo nel
+testo, ci si rende conto che, messa da parte la sua manifestazione sotto
+forma di “brezza” in cui assume il ruolo di ingannatore, tutte le sue
+rappresentazioni lo fanno considerare come un luogo vuoto, come un
+contenente che può essere riempito da qualcos’altro – che sia la luce o il
+sangue solare – ma che non possiede alcuna proprietà intrinseca. Questa
+vacuità del Cielo, sorta di non-luogo, peraltro corrisponde perfettamente
+alla definizione del non-destinante.
+Si comprende quindi la concomitante apparizione “dei fiotti di sangue”
+che fuoriuscivano dal petto: essendo l’iponimo del Sole, il sangue segnala la
+rinascita del termine /vita/, che risulta dalla denegazione del termine non-
+vita. Tale denegazione come abbiamo visto si effettua sul piano figurativo
+attraverso la messa in opera del dispositivo somatico, il quale significa sia
+lo scontro con il non-destinante sia il rifiuto dei valori che rappresenta.
+Lo sfruttamento del piano figurativo e, in particolare, delle figure
+somatiche per far loro significare le attività del soggetto noologico è uno
+dei tratti che caratterizzano il “simbolismo” del XIX secolo.
+5.3. La parabola cristiana
+È impossibile ovviamente parlare del Cielo senza evocarne le
+rappresentazioni cristiane, che costituiscono uno sfondo di credenze
+collettive, un campo sia assiologico sia ideologico sociolettale, rispetto a
+cui si definiscono e si determinano le rappresentazioni idiolettali
+dell’enunciatore Maupassant. A prima vista, è come se l’immaginario
+cristiano del Cielo fosse posto implicitamente solo per essere negato,
+opponendo alla pienezza e alla ricchezza degli investimenti semantici del
+Cielo cristiano una vacuità e una totale assenza di senso.
+Questo giudizio sommario, sebbene in sostanza corretto, merita tuttavia
+di essere attenuato se non rivisto. Infatti, guardando più da vicino questo
+passo descrittivo, e applicandosi non tanto al fare degli attori quanto al loro
+risultato, ossia alla figura spaziale che si costituisce in seguito a questo fare,
+si noteranno alcuni dettagli. Essendo Sauvage di piccola taglia e
+abbattendosi Morissot, che è alto, “di traverso sul suo camerata”, essi
+finiscono per formare la figura della croce. Inoltre, il corpo di Morissot è in
+posizione prospettica e porta come firma i “fiotti di sangue” che gli
+fuoriescono dal petto e quindi, in modo un po’ strano, ricorda la figura di
+Gesù crocifisso. Tutta la differenza risiede nel fatto che questo martirio
+umano si rivolge a un Cielo che lo nega.
+Se la nostra analisi è corretta, avremmo a che fare con un procedimento
+abbastanza curioso che consiste nell’utilizzare rappresentazioni sociolettali
+cristiane per la produzione di un mito anti- e para-cristiano.
+Si pone in questo caso un problema teorico. Proponendo una nuova
+interpretazione del segmento, postuliamo l’esistenza di una nuova isotopia
+figurativa di lettura, soggiacente alla prima, anch’essa figurativa. Non
+corrispondendo per il momento ad altro che alle dimensioni di un segmento,
+la nuova isotopia sembra possibile ma non necessaria: diverrà accettabile
+solo se, da una parte, una nuova lettura permetterà il suo ampliamento fino
+a comprendere tutto il testo e se, dall’altra, metterà in evidenza l’esistenza
+di elementi semantici o narrativi in contraddizione con la prima isotopia
+figurativa.
+Come procedere allora a questo ampliamento d’isotopia a partire dallo
+spazio testuale dove si è riconosciuto, nell’immagine della croce, un
+eventuale connettore di isotopie? Alcuni suggerimenti empirici qui
+dovranno rimpiazzare una strategia più elaborata.
+1. Ciò che circonda in modo immediato l’immagine che ha la funzione di
+connettore può consolidare l’accostamento: il cedere dei due amici
+all’avvicinarsi della morte evoca lo sconforto di Gesù sulla croce, la
+comparsa di “una montagna di fumo”, portata dal Mont-Valérien dopo la
+morte, fa pensare alla grande oscurità che ricopre il mondo alla morte di
+Gesù.
+2. Queste non sono però altro che possibili analogie. Più importante
+sembra il silenzio che caratterizza il comportamento del soggetto nella
+seconda parte del racconto (R ), al quale corrisponde il silenzio altrettanto
+2
+significativo di Gesù durante il processo. Se si pensa in questa prospettiva
+ai comportamenti dell’anti-soggetto – il fare tentatore (da una parte), le
+ragioni “superiori” di condanna invocate sia dall’ufficiale sia da Ponzio
+Pilato (dall’altra) – sembra che l’economia generale di R autorizzi questa
+2
+nuova lettura soggiacente. Perché non si tratta più di accostamenti situati
+sul solo livello figurativo: la configurazione riposa di più sull’identità
+modale dei soggetti competenti messi a confronto, soggetti caratterizzati dal
+/poter-non-fare/ e dal /poter-essere/.
+3. Una volta stabilita la possibilità di una similitudine attanziale, si può
+rileggere la prima parte del testo (R ) domandandosi se l’isotopia figurativa
+1
+generale scelta da Maupassant (che fa assumere ai suoi attori il ruolo di
+pescatori) non rimandi alla prima comunità di discepoli di Gesù fatta,
+anch’essa, di pescatori; nonché domandandosi se l’importanza ridondante
+della figura dei pesci non sia da comparare con uno dei simboli
+fondamentali della Chiesa primitiva.
+4. Una volta stabiliti questi collegamenti, si può dare libero corso alla
+nuova lettura e riconoscere un po’ ovunque nuove polisemie, seguendo
+l’ispirazione e l’umore del lettore: perché, infatti, non paragonare il
+seppellimento di Gesù all’immersione dei due amici, le scosse sismiche alla
+reazione aggressiva dell’acqua durante l’immersione dei corpi? Perché non
+commisurare la potenza simbolica delle “pietre” incontrate in un racconto e
+nell’altro?
+Ciò che viene qui reso esplicito è la competenza ricettiva del lettore che,
+con l’aiuto di operazioni semiotiche che caratterizzano il suo fare
+interpretativo, è capace di generare nuove isotopie figurative a partire da
+una nuova isotopia posta esplicitamente dall’enunciatore. Sbaglieremmo
+però a immaginare che tutto possa essere ridotto a una competenza
+soggettiva del lettore e servire a confermare la teoria di un’“infinità di
+letture possibili”. Al contrario, non è un problema riconoscere
+all’enunciatore la sua competenza nel produrre testi pluri-isotopici. In
+questa prospettiva il discorso parabolico è l’istituzionalizzazione di tale
+competenza: “parlare per parabole” non è altro che tradurre
+successivamente un’isotopia figurativa in un’altra. Il discorso “mitico”, così
+come appare nell’ambito della letteratura francese con il Mosè di Vigny,5 si
+basa sullo stesso principio di produzione di un’isotopia figurativa, parallela
+ma non esplicitata, in cui un certo numero di connettori manifestati
+autorizza il fare interpretativo del lettore, relativamente libero, per non dire
+“creatore”. È a questa tradizione “mitica”, e solidamente fondata, del XIX
+secolo che a quanto sembra occorre far risalire la scrittura “simbolista” di
+Maupassant.
+1 Come ci ha fatto osservare un giovane studioso tedesco assistendo alla presentazione orale di
+alcuni elementi di quest’analisi. (N.d.A.)
+2 Greimas aveva già notato la presenza di sot, stupido, nel cognome di Morissot. Quando dice che i
+due “ne meurent pas bêtement” intende sia che non muoiono da stupidi (come si è tradotto) sia che
+non muoiono come “bestie” (bête), ma con cognizione di causa (quindi, umanamente). Il doppio
+senso di “bêtement” non è traducibile in italiano. (N.d.C.)
+3 Nel testo originale compare naturalmente “Monsieur” abbreviato in “M.”. Nell’edizione italiana
+ci si è permessi di non appesantire il testo mettendo in maiuscolo, come in italiano non usa affatto,
+l’iniziale dell’abbreviazione “sig.”. (N.d.C.)
+4 Greimas analizza il racconto di Maupassant La Ficelle (Lo spago) in “Description et narrativité
+dans La ficelle de Guy de Maupassant”, cit. (N.d.C.)
+5 Poesia di Alfred de Vigny (1797-1863), raccolta in Poèmes antiques et modernes (1826).
+(N.d.C.)
+Il PN esplicito
+Il PN implicito
+La costruzione del PN
+2.2.La performanza narrativa
+La proposta di scambio
+Il fare persuasivo
+I PN d’uso
+Il dilemma
+Verso la testualizzazione
+3. Il programma narrativo del soggetto
+3.1.L’interpretazione dei valori offerti
+Incompatibilità assiologiche
+Il soggetto secondo la menzogna
+Il soggetto secondo il segreto
+3.2.L’interpretazione del contro-valore richiesto
+3.3.Il programma narrativo della liberazione
+Il PN complesso di S
+1
+L’intervento del Mont-Valérien
+L’organizzazione del silenzio
+SEQUENZA X
+La morte
+1. Organizzazione testuale
+1.1.Delimitazione della sequenza
+1.2.Articolazione interna
+2. L’economia della sequenza
+2.1.L’isotopia patriottica
+2.2.La messinscena
+3. L’ultimo tentativo
+3.1.L’intimazione
+3.2.La mancata separazione
+Individualizzazione dei programmi
+I giochi prossemici
+4. Gli addii
+4.1.La rete paradigmatica

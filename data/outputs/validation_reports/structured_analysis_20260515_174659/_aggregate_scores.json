@@ -1,0 +1,330 @@
+{
+  "total_validations": 36,
+  "judge_model": "google/gemini-2.5-pro",
+  "scores": [
+    {
+      "sequence_id": "seq_01",
+      "model": "anthropic/claude-sonnet-4.6",
+      "punteggio_finale": 7.5,
+      "aderenza": 6,
+      "correttezza": 8,
+      "copertura": 7,
+      "originalita": 9
+    },
+    {
+      "sequence_id": "seq_01",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 4,
+      "aderenza": 3,
+      "correttezza": 4,
+      "copertura": 4,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_01",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 7,
+      "aderenza": 6,
+      "correttezza": 8,
+      "copertura": 4,
+      "originalita": 9
+    },
+    {
+      "sequence_id": "seq_02",
+      "model": "anthropic/claude-sonnet-4.6",
+      "punteggio_finale": 7,
+      "aderenza": 6,
+      "correttezza": 8,
+      "copertura": 6,
+      "originalita": 9
+    },
+    {
+      "sequence_id": "seq_02",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 7,
+      "aderenza": 6,
+      "correttezza": 9,
+      "copertura": 5,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_02",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 7,
+      "aderenza": 5,
+      "correttezza": 9,
+      "copertura": 6,
+      "originalita": 9
+    },
+    {
+      "sequence_id": "seq_03",
+      "model": "anthropic/claude-sonnet-4.6",
+      "punteggio_finale": 8,
+      "aderenza": 8,
+      "correttezza": 9,
+      "copertura": 6,
+      "originalita": 9
+    },
+    {
+      "sequence_id": "seq_03",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 4,
+      "aderenza": 5,
+      "correttezza": 4,
+      "copertura": 3,
+      "originalita": 4
+    },
+    {
+      "sequence_id": "seq_03",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 7,
+      "aderenza": 6,
+      "correttezza": 9,
+      "copertura": 7,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_04",
+      "model": "anthropic/claude-sonnet-4.6",
+      "punteggio_finale": 4,
+      "aderenza": 3,
+      "correttezza": 2,
+      "copertura": 2,
+      "originalita": 7
+    },
+    {
+      "sequence_id": "seq_04",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 4,
+      "aderenza": 5,
+      "correttezza": 3,
+      "copertura": 2,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_04",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 5,
+      "aderenza": 4,
+      "correttezza": 6,
+      "copertura": 3,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_05",
+      "model": "anthropic/claude-sonnet-4.6",
+      "punteggio_finale": 5,
+      "aderenza": 4,
+      "correttezza": 5,
+      "copertura": 3,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_05",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 4,
+      "aderenza": 4,
+      "correttezza": 3,
+      "copertura": 2,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_05",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 4,
+      "aderenza": 2,
+      "correttezza": 4,
+      "copertura": 3,
+      "originalita": 9
+    },
+    {
+      "sequence_id": "seq_06",
+      "model": "anthropic/claude-sonnet-4.6",
+      "punteggio_finale": 7,
+      "aderenza": 7,
+      "correttezza": 9,
+      "copertura": 6,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_06",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 5,
+      "aderenza": 7,
+      "correttezza": 4,
+      "copertura": 3,
+      "originalita": 6
+    },
+    {
+      "sequence_id": "seq_06",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 6,
+      "aderenza": 7,
+      "correttezza": 8,
+      "copertura": 5,
+      "originalita": 6
+    },
+    {
+      "sequence_id": "seq_07",
+      "model": "anthropic/claude-sonnet-4.6",
+      "punteggio_finale": 4,
+      "aderenza": 6,
+      "correttezza": 2,
+      "copertura": 3,
+      "originalita": 7
+    },
+    {
+      "sequence_id": "seq_07",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 2,
+      "aderenza": 4,
+      "correttezza": 1,
+      "copertura": 1,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_07",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 4,
+      "aderenza": 3,
+      "correttezza": 4,
+      "copertura": 2,
+      "originalita": 9
+    },
+    {
+      "sequence_id": "seq_08",
+      "model": "anthropic/claude-sonnet-4.6",
+      "punteggio_finale": 1,
+      "aderenza": 1,
+      "correttezza": 1,
+      "copertura": 1,
+      "originalita": 2
+    },
+    {
+      "sequence_id": "seq_08",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 2,
+      "aderenza": 2,
+      "correttezza": 1,
+      "copertura": 1,
+      "originalita": 9
+    },
+    {
+      "sequence_id": "seq_08",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 2,
+      "aderenza": 2,
+      "correttezza": 1,
+      "copertura": 1,
+      "originalita": 9
+    },
+    {
+      "sequence_id": "seq_09",
+      "model": "anthropic/claude-sonnet-4.6",
+      "punteggio_finale": 4,
+      "aderenza": 3,
+      "correttezza": 6,
+      "copertura": 2,
+      "originalita": 9
+    },
+    {
+      "sequence_id": "seq_09",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 4,
+      "aderenza": 3,
+      "correttezza": 6,
+      "copertura": 2,
+      "originalita": 7
+    },
+    {
+      "sequence_id": "seq_09",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 6,
+      "aderenza": 5,
+      "correttezza": 8,
+      "copertura": 4,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_10",
+      "model": "anthropic/claude-sonnet-4.6",
+      "punteggio_finale": 6,
+      "aderenza": 4,
+      "correttezza": 7,
+      "copertura": 5,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_10",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 6,
+      "aderenza": 5,
+      "correttezza": 7,
+      "copertura": 4,
+      "originalita": 7
+    },
+    {
+      "sequence_id": "seq_10",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 6,
+      "aderenza": 6,
+      "correttezza": 7,
+      "copertura": 5,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_11",
+      "model": "anthropic/claude-sonnet-4.6",
+      "punteggio_finale": 5,
+      "aderenza": 4,
+      "correttezza": 5,
+      "copertura": 4,
+      "originalita": 7
+    },
+    {
+      "sequence_id": "seq_11",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 4,
+      "aderenza": 6,
+      "correttezza": 3,
+      "copertura": 4,
+      "originalita": 7
+    },
+    {
+      "sequence_id": "seq_11",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 5,
+      "aderenza": 4,
+      "correttezza": 3,
+      "copertura": 4,
+      "originalita": 8
+    },
+    {
+      "sequence_id": "seq_12",
+      "model": "anthropic/claude-sonnet-4.6",
+      "punteggio_finale": 8,
+      "aderenza": 8,
+      "correttezza": 8,
+      "copertura": 6,
+      "originalita": 9
+    },
+    {
+      "sequence_id": "seq_12",
+      "model": "google/gemini-2.5-pro",
+      "punteggio_finale": 5,
+      "aderenza": 6,
+      "correttezza": 5,
+      "copertura": 4,
+      "originalita": 7
+    },
+    {
+      "sequence_id": "seq_12",
+      "model": "openai/gpt-5.1",
+      "punteggio_finale": 5,
+      "aderenza": 4,
+      "correttezza": 5,
+      "copertura": 4,
+      "originalita": 8
+    }
+  ]
+}

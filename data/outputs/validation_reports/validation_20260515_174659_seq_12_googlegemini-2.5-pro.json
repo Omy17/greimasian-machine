@@ -1,0 +1,18 @@
+{
+  "punteggio_aderenza_metodologica": 8,
+  "giustificazione_aderenza": "Il testo da valutare utilizza correttamente molti concetti e termini di Greimas, come 'programma narrativo', 'soggetto', 'oggetto di valore', 'fare cognitivo' e 'fare pragmatico'. Tuttavia, manca di alcune sfumature metodologiche presenti nel testo di riferimento, come l'analisi dettagliata dei marcatori aspettuali e la distinzione tra spazi utopici e paratopici.",
+  "punteggio_correttezza_concettuale": 7,
+  "giustificazione_correttezza": "Le conclusioni del testo da valutare sono generalmente coerenti con quelle del testo di riferimento, ma mancano alcune delle complessità concettuali di Greimas, come l'analisi della veridizione e la sovrapposizione di isotopie.",
+  "punteggio_copertura": 6,
+  "giustificazione_copertura": "Il testo da valutare copre molti punti chiave, come la chiusura del racconto e il consumo dei pesci, ma omette alcune argomentazioni principali, come l'analisi dettagliata della struttura di scambio e la funzione del 'dono' nel contesto narrativo.",
+  "punteggio_originalita": 5,
+  "giustificazione_originalita": "Il testo da valutare è una rielaborazione intelligente del testo di riferimento, ma tende a parafrasare piuttosto che a offrire un'interpretazione originale. Alcuni passaggi sembrano una semplificazione delle idee di Greimas piuttosto che un'analisi innovativa.",
+  "giudizio_complessivo": "Il testo da valutare dimostra una buona comprensione dei concetti di Greimas e applica correttamente molti termini e strutture semiotiche. Tuttavia, manca di alcune delle complessità e delle sfumature presenti nel testo di riferimento. La copertura dei punti chiave è adeguata, ma non esaustiva, e l'originalità è limitata da una tendenza alla parafrasi. Nel complesso, il testo è un'analisi competente ma non del tutto completa o innovativa.",
+  "punteggio_finale": 7,
+  "_meta": {
+    "source_file": "20260515_174659_seq_12_googlegemini-2.5-pro.json",
+    "sequence_id": "seq_12",
+    "model_evaluated": "google/gemini-2.5-pro",
+    "judge_model": "openai/gpt-4o"
+  }
+}

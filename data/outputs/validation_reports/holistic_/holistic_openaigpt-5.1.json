@@ -1,0 +1,30 @@
+{
+  "punteggio_coerenza_intersequenziale": 7,
+  "giustificazione_coerenza": "L'analisi generata mantiene una certa coerenza nei nomi degli attanti e nei ruoli tematici principali, come Morissot e Sauvage, e l'isotopia della guerra e dell'amicizia è presente. Tuttavia, ci sono alcune discrepanze nei dettagli delle sequenze, come l'interpretazione delle azioni e delle motivazioni dei personaggi, che possono creare confusione nel lettore.",
+  "punteggio_completezza_strutturale": 6,
+  "giustificazione_completezza": "Il modello ha identificato i programmi narrativi principali, come il desiderio di pesca e l'incontro con i prussiani, ma manca di una chiara distinzione tra i PN del soggetto e dell'anti-soggetto. Inoltre, lo schema narrativo canonico non è sempre completo, con alcune sequenze che non seguono chiaramente la struttura di manipolazione, competenza, performance e sanzione.",
+  "punteggio_progressione_narrativa": 7,
+  "giustificazione_progressione": "Le trasformazioni di stato sono generalmente ordinate e concatenate, con una progressione chiara dal desiderio di pesca alla cattura e alla fucilazione. Tuttavia, alcune transizioni tra le sequenze sono meno fluide, e il percorso generativo del senso non è sempre rispettato, con alcune sequenze che sembrano isolate o non completamente integrate nel flusso narrativo.",
+  "punteggio_convergenza_finale": 6,
+  "giustificazione_convergenza": "La sanzione finale è coerente con il contratto iniziale in termini di tema generale (la guerra e l'amicizia), ma manca di una chiara connessione tra le prime e le ultime sequenze. L'arco narrativo complessivo è presente, ma non completamente sviluppato o chiaramente articolato.",
+  "punteggio_padronanza_terminologica": 8,
+  "giustificazione_padronanza": "Il modello utilizza la terminologia greimasiana in modo generalmente corretto, con termini come 'attante', 'programma narrativo', e 'isotopia' usati in modo appropriato. Tuttavia, ci sono alcune imprecisioni nell'applicazione di concetti più complessi, come la distinzione tra livelli semantici e discorsivi.",
+  "punteggio_olistico_finale": 7,
+  "giudizio_complessivo": "L'analisi generata dal modello LLM mostra una comprensione generale dei principi della semiotica strutturale di Greimas, con una coerenza tematica e terminologica accettabile. Tuttavia, presenta alcune lacune nella completezza strutturale e nella progressione narrativa, con alcune sequenze che non si integrano perfettamente nel flusso complessivo. L'arco narrativo è presente ma non completamente sviluppato, e alcune transizioni tra le sequenze potrebbero essere migliorate per una maggiore coerenza globale.",
+  "punti_di_forza": [
+    "Coerenza tematica generale",
+    "Uso corretto della terminologia greimasiana",
+    "Identificazione dei programmi narrativi principali"
+  ],
+  "punti_di_debolezza": [
+    "Mancanza di distinzione chiara tra PN del soggetto e dell'anti-soggetto",
+    "Transizioni tra sequenze non sempre fluide",
+    "Arco narrativo non completamente sviluppato"
+  ],
+  "_meta": {
+    "model_evaluated": "openai/gpt-5.1",
+    "judge_model": "openai/gpt-4o",
+    "sequences_count": 12,
+    "evaluation_time_seconds": 5.85
+  }
+}

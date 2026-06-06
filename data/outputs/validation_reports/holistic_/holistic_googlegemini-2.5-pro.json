@@ -1,0 +1,30 @@
+{
+  "punteggio_coerenza_intersequenziale": 8,
+  "giustificazione_coerenza": "L'analisi generata mantiene una buona coerenza inter-sequenziale, con i nomi degli attanti e i ruoli tematici che rimangono stabili. Tuttavia, ci sono alcune variazioni nella terminologia e nella descrizione delle isotopie che potrebbero confondere il lettore. Ad esempio, l'uso di termini come 'anti-soggetto' e 'soggetto duale' è coerente, ma la loro applicazione varia leggermente tra le sequenze.",
+  "punteggio_completezza_strutturale": 7,
+  "giustificazione_completezza": "Il modello ha identificato i principali programmi narrativi del soggetto e dell'anti-soggetto, ma manca una chiara esplicitazione dello schema narrativo canonico completo. Alcuni elementi, come la sanzione finale e il contratto iniziale, sono trattati in modo frammentario.",
+  "punteggio_progressione_narrativa": 8,
+  "giustificazione_progressione": "La progressione narrativa è generalmente ben ordinata, con le trasformazioni di stato che seguono una logica coerente. Tuttavia, ci sono momenti in cui la transizione tra le sequenze non è perfettamente fluida, come nella gestione del passaggio dalla pace alla guerra.",
+  "punteggio_convergenza_finale": 6,
+  "giustificazione_convergenza": "La sanzione finale è coerente con il contratto iniziale, ma la connessione tra l'inizio e la fine del racconto non è completamente sviluppata. Il modello coglie l'arco narrativo complessivo, ma manca di profondità nell'analisi della sanzione finale rispetto al contratto iniziale.",
+  "punteggio_padronanza_terminologica": 7,
+  "giustificazione_padronanza": "Il modello utilizza la terminologia greimasiana in modo generalmente corretto, ma ci sono alcune incoerenze nell'applicazione dei termini tecnici. Ad esempio, l'uso di 'isotopia' e 'programma narrativo' è talvolta impreciso.",
+  "punteggio_olistico_finale": 7,
+  "giudizio_complessivo": "L'analisi generata dal modello è complessivamente coerente e ben strutturata, ma presenta alcune lacune nella completezza strutturale e nella convergenza finale. La terminologia è generalmente corretta, ma potrebbe beneficiare di una maggiore coerenza e precisione. L'opera riesce a mantenere una buona progressione narrativa, ma alcune transizioni tra le sequenze potrebbero essere migliorate per una maggiore fluidità.",
+  "punti_di_forza": [
+    "Coerenza inter-sequenziale",
+    "Buona progressione narrativa",
+    "Uso corretto della terminologia greimasiana"
+  ],
+  "punti_di_debolezza": [
+    "Incompletezza dello schema narrativo canonico",
+    "Connessione debole tra inizio e fine del racconto",
+    "Incoerenze terminologiche minori"
+  ],
+  "_meta": {
+    "model_evaluated": "google/gemini-2.5-pro",
+    "judge_model": "openai/gpt-4o",
+    "sequences_count": 12,
+    "evaluation_time_seconds": 5.72
+  }
+}

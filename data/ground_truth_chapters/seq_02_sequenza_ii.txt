@@ -1,0 +1,809 @@
+SEQUENZA II
+L’AMICIZIA
+(… si fermò di botto davanti a un commilitone in cui riconobbe un amico. Era il sig. Sauvage,
+una conoscenza fatta sul bordo dell’acqua).
+Ogni domenica, prima della guerra, Morissot partiva all’alba, con una canna di bambù in mano
+e un barattolo di latta a tracolla. Prendeva la ferrovia di Argenteuil, scendeva a Colombes, poi a
+piedi raggiungeva l’isola Marante. Appena arrivato nel luogo dei suoi sogni, si metteva a
+pescare; pescava fino a notte.
+Ogni domenica, incontrava laggiù un ometto grassoccio e gioviale, il sig. Sauvage, merciaio in
+Rue Notre-Dame-de-Lorette, anch’egli pescatore fanatico. Spesso passavano una mezza
+giornata fianco a fianco, con la lenza in mano e i piedi penzoloni sulla corrente: l’uno aveva
+stretto amicizia con l’altro.
+Certi giorni non parlavano. Talvolta chiacchieravano; ma senza dirsi nulla si intendevano
+perfettamente, perché avevano gusti simili e provavano identiche sensazioni.
+In primavera, la mattina, verso le dieci, quando il sole ringiovanito faceva fluttuare sopra il
+fiume tranquillo quella nebbiolina che scorre con l’acqua, e riversava sulle schiene dei due
+pescatori assatanati il calore buono della nuova stagione, qualche volta Morissot diceva al suo
+vicino: “Eh, che dolcezza!” e il sig. Sauvage rispondeva: “Non conosco niente di meglio.” E
+questo bastava loro per capirsi e stimarsi.
+In autunno, verso la fine del giorno, quando il cielo, insanguinato dal sole calante, gettava in
+acqua immagini di nuvole scarlatte, imporporava tutto il fiume, infiammava l’orizzonte,
+metteva del rosso, come fosse fuoco, tra i due amici e dorava gli alberi già arrossiti, frementi di
+un brivido invernale, il sig. Sauvage guardava sorridendo Morissot e declamava: “Che
+spettacolo!” E Morissot, senza abbandonare con gli occhi il suo sughero, rispondeva ammirato:
+“È meglio del boulevard, eh?”
+(Non appena si furono riconosciuti...)
+1. La sequenza e il suo contesto
+1.1. Una sequenza intercalare
+La prima sequenza, denominata “Parigi”, è seguita da un’altra, che
+chiameremo “La passeggiata”, dove si narra l’incontro dei due amici e la
+loro passeggiata per i boulevard parigini. Essa contiene, già a partire dalla
+sua prima frase, una sequenza intercalare (SQ II) che esamineremo per
+prima. Le ragioni per cui le abbiamo accordato questa priorità si chiariranno
+nel seguito dell’analisi.
+L’inserzione di sequenze intercalari autonome nella continuità del
+discorso viene spesso designata con il nome di incassamento. Con questa
+denominazione si designa in genere l’inserzione di un sottoracconto in un
+racconto più grande, con la difficoltà che si incontra nel precisare quel che
+si intende per sottoracconto e quale grado di autonomia viene richiesto da
+una sequenza intercalata affinché essa acceda allo status di microracconto.
+Per questa ragione, preferiamo attenerci per adesso al termine più generale
+di intercalazione ed esaminarne qui soltanto un caso specifico che potrà
+essere poi generalizzato se apparirà abbastanza tipico. Si tratta, nel nostro
+caso, di un fenomeno che, alla superficie discorsiva, appare non come
+un’inserzione, ma come l’espulsione di una sequenza oltre la linearità del
+testo, espulsione effettuata attraverso procedure di disgiunzione temporale e
+spaziale.
+Débrayage
+Intendiamo per débrayage il meccanismo che permette la proiezione di
+alcuni elementi al di fuori di un’isotopia data, al fine di istituire un nuovo
+“luogo” immaginario e, eventualmente, una nuova isotopia.
+1. Il débrayage temporale si produce nel nostro testo attraverso la
+notazione “prima della guerra” che disgiunge la sequenza intercalata dalla
+temporalità generale del testo. L’isotopia temporale nuovamente ottenuta
+può essere considerata, da questo punto di vista, come il risultato di una
+anacronizzazione, che in parte distrugge la linearità temporale del racconto.
+Il deittico prima presuppone il dispiegamento implicito della categoria
+prima vs durante vs dopo,
+laddove durante, che è il presente immaginario del racconto, è anch’esso
+ottenuto da un primo débrayage temporale, che lo pone come un allora
+qualunque, senza alcun rapporto con il tempo dell’enunciatore.
+2. Il débrayage spaziale è annunciato dal verbo “partiva”, che denota uno
+spostamento dell’attore Morissot dallo spazio “Parigi” – definito inglobato
+– verso un esterno che appare, a causa di questa disgiunzione, come spazio
+inglobante. La spazializzazione del discorso, dunque, non è una
+distribuzione qualunque di spazi immaginari lungo il testo; essa è il risultato
+della relazione tra questi spazi e gli attori discorsivi in essi installati.
+Embrayage
+1. Proiettata al di fuori del testo, la sequenza intercalare viene recuperata
+attraverso il meccanismo dell’embrayage, che la riaggancia al continuum
+discorsivo. Tale meccanismo è qui manifestato dalla reiterazione di uno
+stesso lessema predicativo situato, nella sequenza inglobante, ai due limiti
+dell’inserzione:
+(a) marcatore antecedente: “in cui riconobbe un amico”
+(b) marcatore seguente: “non appena si furono riconosciuti.”
+Dal punto di vista temporale, è possibile notare che il tempo intercalato –
+corrispondente quantitativamente a una durata di più anni – è in relazione
+con il tempo intercalante – che è invece soltanto di pochi secondi. Se si
+considera il tempo intercalato come una temporalità embraiata, ossia
+ricondotta alla temporalità generale del racconto, si può dire che la
+sequenza intercalata piuttosto che un fenomeno di anacronizzazione è
+semmai un’espansione temporale, un rigonfiamento localizzato del tempo
+del racconto.
+D’altro canto, questa espansione temporale è concomitante con
+un’attività cognitiva dei due attori. Il progresso narrativo che corrisponde
+alla durata della sequenza intercalare si situa tra i due enunciati:
+EN = F riconoscimento (Morissot → Sauvage)
+1
+EN = F riconoscimento (Sauvage → Morissot).
+2
+Se ci si attiene alla definizione del Petit Robert (riconoscimento =
+“identificazione attraverso la memoria”), si vede che la sequenza
+intercalata, nella misura in cui racconta la conoscenza dei due amici, gioca
+il ruolo di termine memorizzato della comparazione, permettendo
+l’identificazione reciproca che, al livello della sequenza intercalante, è
+appunto il “riconoscimento”.1 Dal punto di vista cognitivo, il rapporto tra le
+due sequenze è quindi:
+2. L’embrayage della sequenza intercalata viene d’altronde facilitato
+dall’introduzione di un secondo meccanismo, tradizionalmente designato
+con il nome di transizione. Si fa ricorso all’uso di deittici spaziali in
+funzione congiuntiva: le ultime parole della sequenza intercalante, “sul
+bordo dell’acqua”, designano il luogo topico della sequenza intercalata, e
+l’ultima parola di tale sequenza, “boulevard”, indica il luogo di incontro dei
+due amici, ossia lo spazio della sequenza intercalante. Queste indicazioni
+spaziali rinviano da una sequenza all’altra e garantiscono una “transizione
+sicura”.
+A guardare meglio ci si accorge che l’apparizione dello spazio
+inglobante, introdotto da “sul bordo dell’acqua”, è un fenomeno secondo,
+integrabile nel processo di riconoscimento: è riconoscendo il suo amico che
+Morissot lo proietta in un sol colpo nello spazio utopico e nel tempo
+passato. Lo stesso vale per l’allusione finale al “boulevard”, che rimanda
+alla comparazione cognitiva tra uno spazio euforico attualizzato e lo spazio
+disforico rappresentato, appunto, dal “boulevard”. In altre parole, quello
+della sequenza intercalare è in realtà uno spazio “mentale”, integrato nel
+fare cognitivo del “riconoscimento”, e opposto come tale allo spazio
+evenemenziale, pragmatico, nel quale si situa l’incontro tra i due amici.
+1.2. La linearità del discorso
+La dimensione cognitiva e la sua figurativizzazione
+Se l’analisi del doppio meccanismo di débrayage ed embrayage è
+corretta, possiamo già trarre alcune conclusioni. Almeno come la
+incontriamo in questo testo l’intercalazione appare come una procedura
+formale di organizzazione discorsiva che permette, simulando una sorta di
+reiezione dei contenuti al di fuori del testo, di integrarli in modo più
+intrinseco in un discorso unico e coerente.
+Questa procedura simula la disgiunzione temporale facendo passare la
+sequenza intercalare per un’evasione al di fuori del tempo del racconto. In
+realtà, introduce nel programma discorsivo unitario una nuova dimensione,
+un “tempo interiore” secondo. Pur essendo a livello dell’apparire una
+proiezione del presente nel passato, essa è, a livello dell’essere, una
+presentificazione del passato.
+Non è diverso per quel che riguarda le trasformazioni spaziali legate a
+tale procedura: lungi dal creare uno spazio inglobante disgiunto dallo spazio
+inglobato (ossia: il luogo attualizzato del discorso), essa costruisce uno
+spazio interiore utopico.
+Sul piano dell’organizzazione discorsiva, questo procedimento appare
+dunque al contempo come interiorizzazione del discorso e come
+figurativizzazione dell’interiorità. Grazie al meccanismo descritto – e, in
+particolare, grazie al débrayage temporale e spaziale – benché situato sul
+piano cosmologico, nel suo insieme il testo intercalare deve essere letto sul
+piano noologico, il quale si scopre esser dotato di una rappresentazione
+figurativa paragonabile a un’isotopia metaforica.
+L’isotopia attoriale del discorso
+Viene ristabilita la linearità del discorso – che prosegue il suo
+svolgimento, malgrado una breve pausa segnalata dal cambiamento di
+livello e dall’introduzione del piano cognitivo nel continuum narrativo
+pragmatico – e questo è confermato dal comportamento, in apparenza
+abbastanza strano, dei soggetti discorsivi, i quali non tengono conto della
+scomposizione spazio-temporale che abbiamo illustrato. L’attore Morissot,
+installato nella sequenza intercalante come soggetto discorsivo, e sostituito
+nello svolgimento frastico da una serie di “egli” anaforici,2 scavalca
+facilmente la frontiera tra le due sequenze, continuando a manifestarsi come
+soggetto nella sequenza intercalata. L’isotopia attoriale viene sostituita
+all’interno del testo intercalare dal nuovo soggetto discorsivo “essi” (i due
+amici). Ora, una volta stabilito il nuovo attore duale, questi attraversa la
+seconda frontiera e continua a presiedere, come soggetto, negli enunciati
+della sequenza successiva. Il criterio di permanenza attoriale costituisce
+dunque un elemento restrittivo per l’eventuale definizione di un tipo
+particolare di intercalazione.
+L’anaforizzazione e la cataforizzazione
+Se il débrayage spazio-temporale della sequenza intercalare (la sua
+proiezione fuori dal testo) è precisato a sufficienza, la procedura di
+embrayage (la sua reintegrazione nel testo) richiede un esame
+supplementare; se non altro per specificare le condizioni nelle quali questa
+procedura di carattere generale funziona nel caso che stiamo studiando.
+Infatti, l’embrayage prende qui la forma del “riconoscimento”, che abbiamo
+interpretato in un primo tempo, con l’aiuto del Petit Robert, come una
+“identificazione attraverso la memoria”. Ora, l’identificazione è un fare
+cognitivo, un’operazione il cui risultato consiste nell’acquisizione di un
+sapere che verte sulla relazione di identità esistente tra due termini
+qualunque e, nel nostro caso, sull’identità del Sauvage presente con il
+Sauvage situato nel passato. L’identificazione comporta dunque la
+neutralizzazione della categoria temporale presente vs passato, che era stata
+utilizzata in funzione del débrayage. L’operazione cognitiva stabilisce così
+la dominanza della relazione d’identità sulla categoria temporale. Questa
+relazione è una relazione anaforica formale che accosta due termini
+qualunque: diremo quindi che si tratta di un’anafora cognitiva.
+I termini accostati possono ovviamente essere investiti da alcuni
+contenuti. Per esempio, quando si dice di qualcuno “riconosco che è
+intelligente”, si identifica un insieme di sintomi (considerati come
+contrassegni della sua intelligenza) con il concetto stesso d’intelligenza, al
+quale ci si riferisce in modo implicito. È il modo in cui il nostro Morissot
+“riconobbe (in Sauvage) un amico”; il lessema “amico” non è altro che
+l’espressione del contenuto “amicizia”, che viene investito in uno dei
+termini di quel processo d’identificazione che è il riconoscimento; la
+sequenza intercalare costituisce il secondo termine come contenuto
+equivalente. Si tratta in questo caso di un’anafora semantica.
+Non sarà forse inutile proporre allora un dispositivo terminologico che
+ricopra la situazione discorsiva che abbiamo analizzato. Se per anafora
+cognitiva si intende la relazione logica d’identità stabilita tra due termini
+qualunque del discorso, è possibile riservare il termine anafora semantica
+alla relazione di equivalenza (identità semica parziale) che collega due
+termini situati nel continuum discorsivo come un prima e un dopo testuali
+(e non temporali). Siccome si tratta, nei due casi, di fenomeni discorsivi di
+espansione e di condensazione, è possibile designare con il nome di
+anaforizzante il termine condensato e con quello di anaforizzato il termine
+in espansione.
+Può sembrare utile per analisi più raffinate distinguere due tipi di
+relazione di equivalenza, seguendo la posizione che il termine condensato
+occupa nel testo. Nel caso dell’anafora strettamente detta, l’anaforizzato
+precede l’anaforizzante, il quale costituisce dunque una sorta di richiamo
+del già detto.
+All’anafora possiamo opporre la catafora, relazione discorsiva nella
+quale il cataforizzante precede il cataforizzato in espansione. Nel nostro
+testo, “amico” sarà così la manifestazione lessicale del termine
+cataforizzante di cui la sequenza intercalare sarà il cataforizzato.
+2. L’organizzazione interna della sequenza
+2.1. Organizzazione paradigmatica
+I demarcatori
+Conformemente alla tradizione della lingua scritta, la sequenza nel suo
+insieme si presenta scandita in paragrafi solidamente articolati.
+Oltre a questo dispositivo grafico – che non ha nulla di necessario ma
+che, in questo caso, è di tipo operativo – la segmentazione è rafforzata dalla
+presenza di una batteria di demarcatori di due tipi:
+(a) i deittici temporali
+(b) i nomi propri degli attori.
+Questa tripla articolazione costituisce l’ossatura della sequenza studiata.
+La segmentazione
+Questa segmentazione ci permette di riconoscere cinque segmenti
+autonomi, distribuiti nella seguente maniera:
+Prima dell’esame più attento di questa distribuzione, occorre premettere
+due osservazioni:
+a) Seg1 e Seg2, da una parte, e Seg4 e Seg5, dall’altra, sono simmetrici;
+mentre Seg3 costituisce una sorta di perno tra i due assi. Si è tentati,
+pertanto, di riconoscere in questa distribuzione una proiezione delle
+relazioni paradigmatiche sullo svolgimento sintagmatico della sequenza.
+b) Tutti i deittici temporali utilizzati come demarcatori comportano una
+connotazione euforica, in opposizione al carattere disforico dei termini
+esclusi dalla manifestazione testuale. Così, le opposizioni
+conferiscono una totalità euforica all’insieme della sequenza,
+opponendosi a SQ I.
+Simmetrie e dissimmetrie
+Seg1 e Seg2 iniziano con la stessa notazione deittica, di cui il primo
+termine – un quantificatore – ha la funzione di trasformare in serie iterative
+tutti gli avvenimenti puntuali descritti nei due segmenti (e i passati remoti,
+che sarebbero serviti da predicati, in imperfetti), mentre l’intera notazione
+reiterata indica la concomitanza temporale dei segmenti.
+Quasi per controbilanciare questa affermazione d’identità, le
+denominazioni degli attori, Morissot e Sauvage, vengono attribuite
+separatamente in ciascuno dei segmenti e producono un’impressione di
+differenza, disgiungendo in modo simmetrico, a livello di superficie, i due
+segmenti.
+Seg4 e Seg5 sono a loro volta distribuiti attraverso indicazioni temporali:
+che servono a segnalare le opposizioni deittiche tra le stagioni e le
+diverse parti della giornata. Contrariamente alla procedura di identificazione
+temporale utilizzata in Seg1 e Seg2, la nuova procedura è quella della
+totalizzazione temporale, dove i due termini disgiunti e complementari si
+addizionano nel seguente modo:
+“primavera”+“autunno”=/anno/ –/inverno/
+“mattina”+“sera”=/giornata/–/notte/.
+Questa doppia permanenza – temporalizzata, nel primo caso, grazie
+all’aspetto iterativo e, nel secondo caso, con l’aiuto dell’aspetto durativo –
+contribuisce a produrre nella superficie del testo l’effetto di senso
+“descrizione di uno stato”. Essendo i due attori riuniti nei segmenti
+precedenti, la ricerca dei tratti distintivi che permette di opporre
+superficialmente i segmenti 4 e 5 si manifesta nell’opposizione dei “turni di
+parola”; in Seg4 è Morissot che prende per primo la parola e Sauvage si
+limita ad assentire; in Seg5 invece la precedenza, approvata da Morissot, è
+accordata a Sauvage. Questa distribuzione di ruoli sottolinea, proprio grazie
+alla loro intercambiabilità, la fusione già avvenuta dei due attori individuali
+in un solo soggetto comune.
+Nota: Il ruolo di perno attribuito a Seg3 apparirà soltanto dopo un’analisi semantica più
+approfondita.
+2.2. Organizzazione sintagmatica
+Il fare e l’essere
+L’accoppiamento dei segmenti appena compiuto fa ben risaltare, tra
+l’altro, l’opposizione:
+opposizione disgiuntiva che è sottolineata dalla presenza in Seg3 della
+congiunzione-disgiunzione “ma”. È possibile interpretare questa
+opposizione come ciò che rende conto della scomposizione della sequenza
+in due parti: la prima rappresenterebbe in modo ricorrente il fare narrativo;
+la seconda totalizzerebbe, in seguito alle trasformazioni ottenute, lo stato
+che risulta da questo fare.
+Il fare
+1. Così, Seg1 è interamente dedicato alla descrizione del programma
+narrativo dell’attore Morissot; programma che, invece di essere ripreso
+interamente dall’attore Sauvage, è presentato in Seg2 nella sua forma
+condensata dall’espressione “anch’egli pescatore fanatico”. Seg1 è quindi
+interamente anaforizzato, dal punto di vista semantico, a profitto di Seg2.
+Una tale economia di mezzi risulta mettere in contraddizione apparente il
+piano sintagmatico e il piano paradigmatico del discorso. I due segmenti,
+distribuiti paradigmaticamente, sono dedicati rispettivamente all’uno e
+all’altro attore grazie all’anafora semantica; sono però attraversati da un
+flusso sintagmatico continuo, che supera l’identità dei contenuti reiterati
+apportando nuove informazioni. La sequenza ostenta un’organizzazione
+paradigmatica che però non è che un semplice fenomeno di superficie e non
+impedisce in alcun modo la lettura sintagmatica della sequenza stessa.
+2. L’innovazione sintattica segnalata da Seg2 è l’apparizione di un nuovo
+soggetto discorsivo, “essi”. Il programma discorsivo, il cui soggetto era sin
+qui Morissot, è da questo momento in poi preso in carico da un soggetto
+duale che è manifestato in due modi:
+(a) nella forma pronominale “essi”
+(b) nella forma disgiunta, ma dialogica, di due nomi propri disposti in modo che l’apparizione
+dell’uno comporti necessariamente la presenza dell’altro.
+A livello narrativo, come si vedrà, l’apparizione di questo soggetto
+discorsivo duale deve essere considerata come uno dei fulcri del racconto,
+poiché manifesta il costituirsi dell’attante narrativo unico. Il testo,
+d’altronde, segnala il completamento di questi due fare separati, ai quali
+sono dedicati i primi due segmenti, concludendo la prima parte della
+sequenza con “l’uno aveva stretto amicizia con l’altro”.
+3. Non resta che segnalare un procedimento discorsivo particolare che ha
+il compito, qui, di facilitare il passaggio dal soggetto discorsivo individuale
+al soggetto duale. Seg2 comporta, nella prima frase, due soggetti: un
+soggetto sintattico frastico, “egli”, Morissot, e un soggetto semantico,
+Sauvage, il soggetto del programma “pesca”. Questo incrocio di due
+programmi
+in cui il primo è manifestato mentre il secondo occultato, serve a
+facilitare la congiunzione dei due attori in un solo attante.
+Il perno
+1. Possiamo adesso esaminare la struttura del segmentoperno Seg3.
+Abbiamo già rilevato la presenza della disgiunzione logica “ma” (unico
+esemplare nella sequenza, nonostante abbondi nel resto del testo) che ci è
+apparsa, in modo ancora intuitivo, come il segnale del rovesciamento degli
+assi principali della sequenza. Sarà tuttavia possibile conferire il ruolo di
+perno a Seg3 soltanto precisando la sua funzione principale, assicurata
+all’interno del segmento appunto da questa congiunzione.
+2. A esser disgiunte dal “ma”, nel segmento esaminato, sono due forme
+di comunicazione umana, che possiamo così opporre:
+comunicazione verbalevscomunicazione non-verbale.
+La prima riguarda un fare verbale che può essere sia effettivo sia
+denegato, che può cioè esser posto come un fare virtuale; una tale
+distinzione è messa in evidenza nell’opposizione:
+“chiacchierare” vs “non parlare”,
+opposizione che si trova neutralizzata, in un certo qual modo, poiché
+viene totalizzata dall’uso dei distributivi
+“certi giorni” vs “talvolta”,
+parasinonimi di
+a volte vs a volte
+e che, postulando una totalità, la riempie di iterazioni temporali.
+3. A questi due modi del fare verbale viene opposto un fare non-verbale
+(“senza dirsi nulla”). Infatti il perno costituito dal “ma” disgiunge la prima
+parte della sequenza, dedicata al fare (compreso il fare verbale
+dell’intercomunicazione) dalla seconda parte, dedicata alla descrizione
+dello stato consecutivo a questo fare (compresa l’“intesa” senza parole).
+La comunicazione non verbale manifestata in certe lingue in termini
+paradossali (“intendersi” vuol dire “intendere quel che l’altro dice, e
+viceversa”) si esplica distinguendo “tacere”, termine contraddittorio di
+“parlare”, dal non dire, che è invece il suo termine contrario:
+La distinzione appena proposta verrà ripresa nella seconda parte del
+racconto, dove giocherà un ruolo non trascurabile al momento
+d’interpretare il silenzio dei due amici.
+4. Questa “intesa silenziosa” è spiegata da Maupassant grazie a:
+“gusti simili” e “identiche sensazioni”.
+Ora, i “gusti” rinviano in modo evidente alla prima parte della sequenza,
+che viene così anaforizzata; le “sensazioni” invece introducono e
+cataforizzano la descrizione contenuta nella seconda parte. Allo stesso
+modo, la sequenza, disgiunta e divisa in due dalla congiunzione “ma”, viene
+nuovamente congiunta e totalizzata dalla congiunzione “e”.
+L’affermazione della similitudine dei gusti e dell’identità delle
+sensazioni, fondamento dell’“intesa silenziosa”, segnala d’altra parte che
+l’installazione di un solo attante narrativo che sussume i due attori è già
+compiuta. La somiglianza dei “gusti”, infatti, non è altro che il possesso
+comune di uno (o più) programmi narrativi virtuali, euforici e iterativi:
+l’attante narrativo viene così definito dal modello ideologico comune.
+L’identità delle “sensazioni” è, a sua volta, identità dei contenuti assiologici
+acquisiti.
+L’essere
+1. L’esame superficiale degli ultimi due segmenti (Seg4 e Seg5),
+incaricati di esplicitare i contenuti introdotti dal cataforico “identiche
+sensazioni”, porta a rilevare innanzitutto la stretta simmetria della loro
+organizzazione sintagmatica. I due segmenti comportano successivamente:
+(a) alcune notazioni temporali
+(b) una subordinata di concomitanza temporale introdotta da “quando”
+(c) uno scambio dialogico che si articola secondo
+“dire”/“pronunciare” vs “rispondere”
+(d) un commento del narratore.
+2. Le notazioni temporali (a) sono usate, lo si è già visto, come
+demarcatori di segmentazione. Il che non impedisce loro di manifestare
+contenuti specifici, che l’analisi semantica deve esplicitare.
+3. Il commento del narratore (d) suscita due osservazioni. Innanzitutto,
+esso manca in Seg5; la presenza del lessema “boulevard” alla fine del
+segmento serve per effettuare l’embrayage spaziale. In tal modo, potremmo
+dire che in Seg5 il commento è sospeso ma non inesistente. In secondo
+luogo, l’espressione “capirsi e stimarsi” non è altro che l’espansione di
+“intendersi” del Seg3. Di modo che l’organizzazione di Seg4 e Seg5 appare
+come una permutazione sintagmatica dei rapporti posti in Seg3; in
+quest’ultimo l’“intesa” è giustificata dall’identità delle sensazioni
+manifestate nel testo in posizione susseguente; nei primi l’“intesa” è situata
+come commento susseguente alla descrizione delle “identiche sensazioni”
+in espansione figurativa.
+4. Non resta che esaminare gli elementi (b) e (c) dei due segmenti.
+Trovandosi in relazione di concomitanza temporale, questi elementi
+rappresentano due aspetti complementari dell’attitudine del soggetto
+dinnanzi alle “sensazioni”: la percezione visiva (e propriocettiva: il “buon
+calore”) e la verbalizzazione. Conoscendo la scarsa considerazione in cui si
+tiene in Seg3 la comunicazione verbale (cfr. il verbo “chiacchierare”)
+rispetto a quella non verbale, bisogna conservare lo stesso rapporto tra (b),
+che rende conto della percezione “autentica”, e (c), che fornisce la sua
+interpretazione verbale. La relazione tra (b) e (c) è dunque una relazione di
+pseudoequivalenza, dato che l’apparente equivalenza ha in realtà
+innanzitutto il compito di far emergere una dominanza: quella della
+presentazione figurativa delle “sensazioni”.
+5. L’opposizione tra i contenuti verbalizzati di (c) in Seg4 e in Seg5, che
+si esprime nell’opposizione tra le esclamazioni
+“che dolcezza” vs “che spettacolo”,
+è curiosamente confermata dalla definizione che il Petit Robert fornisce
+della sensazione: parola che designa “uno stato o un cambiamento di stato
+[...] a predominanza affettiva o rappresentativa”. Così, il mondo si presenta
+in due maniere: secondo il modo della congiunzione, come un’“affezione”;
+secondo il modo della disgiunzione, come una “rappresentazione”. Questa
+distinzione di superficie nasconde, come vedremo più avanti, altre, più
+vitali contraddizioni.
+3. Il fare euforico
+3.1. Il programma discorsivo
+1. Si è visto che i primi due segmenti possono essere considerati insieme:
+essi si presentano come articolazioni parallele di un fare comune ai due
+attori. Così, la qualificazione attribuita all’attore Sauvage, quella di essere
+“anch’egli pescatore fanatico”, può essere trasferita, grazie alla categoria
+distributiva
+/stesso/ vs /altro/,
+all’attore Morissot.
+Il termine “pescatore”, da parte sua, costituisce la lessicalizzazione di un
+ruolo tematico, il quale comporta: da un lato, le attribuzioni sintattiche di
+un attante competente, in grado di eseguire un programma d’azione; da un
+altro lato, investimenti semantici che tendono a specificare (grazie alla
+radice del termine) il programma da eseguire. Al ruolo tematico del
+“pescatore” corrisponde il programma discorsivo “pescare”.
+Tale programma si trova descritto in Seg1; esso può essere presentato, in
+termini proppiani semplici, come:
+(a) Partenza
+(b) Trasferimento
+(c) Arrivo
+(d) Prova
+2. Il programma discorsivo, che è un’espansione ad libitum del ruolo
+tematico, può contenere un insieme di informazioni supplementari dette
+indicatori, il cui valore semantico o narrativo è variabile.
+a) Così, il “pescatore” in quanto attore – per rivestire il suo ruolo
+discorsivo di una copertura figurativa – può essere dotato di un insieme di
+indicatori circostanziali come, per esempio, “una canna di bambù in mano
+e un barattolo di latta a tracolla”.
+b) Il programma discorsivo può essere a sua volta accompagnato da
+indicatori spazio-temporali che costituiscono il suo ancoraggio storico:
+così i toponimi “Argenteuil”, “Colombes”, “isola Marante” o le notazioni
+temporali come “domenica”, “all’alba” ecc.
+c) Il discorso, una volta temporalizzato, può comportare indicatori
+aspettuali che sovradeterminano le funzioni narrative: per esempio, per quel
+che riguarda il trasferimento, precisazioni come “in ferrovia”, “a piedi” ecc.
+Tutte queste manifestazioni figurative circostanziali possono
+naturalmente comportare, oltre alle loro funzioni di indicatori, valori
+semantici o narrativi integrabili nella rete più ampia delle significazioni.
+3.2. La valorizzazione del programma
+1. Riprendendo l’espressione “anch’egli pescatore fanatico”, diremo che
+il termine “fanatico” costituisce un giudizio di valore dell’enunciatore
+sull’insieme del programma discorsivo, che allo stesso tempo attribuisce ai
+due attori certe qualificazioni che li caratterizzano come soggetti.
+a) Innanzitutto, l’attitudine dei soggetti in rapporto a questo programma è
+considerata eccessiva: il termine “fanatico”, così come gli indizi temporali
+di Seg1 (“all’alba”, “fino a notte”), comportano un sema aspettuale di
+intensività.
+b) “Fanatico”, come il suo corrispondente “sogni” incontrato in Seg1,
+contiene una connotazione propriocettiva euforica.
+c) Questo termine denota, infine e soprattutto, un’attitudine appassionata
+del soggetto verso l’oggetto della sua scelta. Scomponendo in modo
+sommario questa attitudine – che sussume al contempo i dati rilevati in a) e
+b) – si ottiene la rappresentazione semantica seguente:
+Soggetto = /volere/ + /euforia/ + /intensività/
+Ciò significa che i due attori sono d’ora in poi dotati della modalità del
+volere, condizione della loro trasformazione in soggetti, di un volere
+sovradeterminato come intensamente euforico.
+2. I due soggetti del volere si trovano dunque in possesso di un
+programma d’azione la cui realizzazione è sottomessa a due condizioni
+restrittive. Una temporale: possono compierlo “la domenica”. Una spaziale:
+per compierlo, essi devono trasferirsi nell’isola Marante, “luogo dei (loro)
+sogni”. In relazione alla domenica, la vita quotidiana contiene il programma
+d’azione desiderabile nella sua forma virtuale, come una costruzione
+immaginaria: un “sogno d’evasione” che necessita di un trasferimento da
+uno spazio disforico a uno spazio euforico.
+3.3. L’installazione dell’attante duale
+Si dispiegano così due programmi d’azione paralleli, dominati dal volere
+identico dei due soggetti, nell’isotopia figurativa della pesca. Questa, non
+appena stabilita, cede il posto a una nuova isotopia, quella dell’amicizia.
+Annunciata dalla contiguità spaziale dei due attori (l’espressione “fianco a
+fianco”, che appare qui per la prima volta, è ridondante lungo tutto il testo),
+l’amicizia si afferma con la presa in carico del programma ma anche con
+quel minimo di intercomunicazione che deve essere considerata come un
+fare reciproco.
+Dal punto di vista narrativo, tuttavia, le due isotopie messe in opera nel
+corso della sequenza studiata devono essere considerate come isotopie
+tematiche che manifestano la prima fase dell’organizzazione narrativa del
+testo e soprattutto l’installazione dell’attante soggetto duale. È
+l’apparizione dell’attante unico che rende conto della preferenza accordata
+alla comunicazione non verbale e della riduzione della comunicazione
+verbale a semplice “chiacchiera” fàtica.
+4. L’universo figurativo dei valori
+4.1. Il riconoscimento dei valori
+Analizzando l’organizzazione formale di Seg4 e Seg5, abbiamo potuto
+constatare l’esistenza di una pseudoequivalenza tra la rappresentazione
+verbalizzata delle sensazioni provate (“dolcezza” e “spettacolo”), da una
+parte, e dall’altra la loro descrizione sotto forma di proposizioni figurative.
+Occorre procedere adesso a un’analisi semantica più minuziosa di queste
+ultime proposizioni, non foss’altro che per verificare le nostre prime ipotesi.
+Prima di tentare questa descrizione, è necessario indicarne i limiti. Se si
+accetta il postulato secondo cui un qualsiasi universo individuale possiede
+la propria organizzazione semantica – la quale può presentarsi sia come una
+struttura semantica astratta sia nella forma di un’iconografia semiologica
+d’ordine figurativo – occorre ammettere che la descrizione adeguata di
+entrambe queste forme di organizzazione esige la conoscenza della totalità
+dell’universo analizzato o quanto meno di un suo campione rappresentativo.
+Non è questo il nostro caso; la descrizione da intraprendere è quindi
+condannata a restare in una certa misura ipotetica e incompleta.
+È comunque vero che certi valori figurativi che cercheremo di descrivere
+possono essere colti grazie alla loro ricorrenza nel testo chiuso o grazie al
+riconoscimento di opposizioni installate dal soggetto dell’enunciazione.
+4.2. Le trasfigurazioni del Sole
+1. Tra i lessemi ricorrenti, la figura del Sole si manifesta innanzitutto in
+qualità di soggetto nell’elemento (b) di Seg4 e Seg5. Il Sole appare dotato,
+nei due casi, di funzioni differenti, oltreché legato – cosa che ci interessa in
+modo particolare – a notazioni temporali specifiche, che è possibile
+rappresentare come segue:
+È particolarmente sorprendente l’insistenza con la quale si manifesta la
+correlazione tra le attività figurative e mitiche del Sole da una parte e
+dall’altra i due cicli naturali della vita cosmica. Questi due cicli – il ciclo
+delle stagioni e quello delle giornate – si trovano omologati, al punto che i
+termini utilizzati per il secondo servono da sostituti ai termini del primo:
+così, per esempio, “il sole ringiovanito”, termine utilizzato per il primo, è
+opposto al “sole calante”, termine appartenente al secondo. Pertanto, se
+vale l’identificazione “sole ringiovanito” = sole rinascente, è possibile
+sostituire “sole calante” con sole morente e “la fine del giorno” con la fine
+della vita solare ecc.
+2. Il predicato “ringiovanimento” personifica l’attore figurativo Sole e
+nel contempo rinvia a una concezione ciclica della vita e della morte,
+ricordando il mito dell’eterno ritorno. Molto schematicamente, questa
+concezione si manifesta:
+a) con l’attribuzione di contenuti vitali (o mortali) a stagioni considerate
+come deissi temporali;
+b) con la congiunzione o disgiunzione dell’attore Sole con l’una o l’altra
+deissi temporale.
+3. La struttura delle stagioni, binaria e polarizzata:
+estatevsinverno
+è mediata da due periodi di transizione, la primavera e l’autunno;
+sempreché si distinguano (come si è visto nell’esame di SQ I) due livelli
+autonomi: quello delle operazioni logiche, dove si trovano situati i termini
+contraddittori estate e inverno, e quello più superficiale della loro
+temporalizzazione, dove intervengono i processi delle articolazioni
+aspettuali, nel quale è possibile determinare le posizioni rispettive di
+primavera e autunno. Così, ponendosi dal punto di vista dell’estate –
+termine implicito, che nondimeno oppone SQ II a SQ I, situata nella deissi
+inverno – si può dire che l’estate, temporalizzata come un processo
+/durativo/, è in effetti manifestata nei suoi aspetti /incoativo/ e /terminativo/
+che sono la primavera e l’autunno.
+Pertanto, il Sole, animato e personificato dai due epiteti “ringiovanito” e
+“calante”, può essere identificato, trovandosi nello spazio dell’estate, con il
+termine vita, mentre la non-vita viene riservata allo spazio dell’inverno. I
+passaggi del Sole da uno spazio all’altro possono a loro volta essere
+descritti come trasformazioni:
+Si dirà allora che in conseguenza della temporalizzazione alla
+trasformazione (1) corrisponde il processo incoativo che inaugura l’estate
+denominato primavera; e alla trasformazione (2) corrisponde, allo stesso
+modo, il processo terminativo autunno, con il quale si conclude l’estate.
+Possiamo pertanto trascrivere questi processi aspettuali, in una logica delle
+approssimazioni, nel modo seguente:
+4. Il fenomeno descritto è suscettibile di una doppia interpretazione. Dal
+punto di vista paradigmatico – manifestato sia dalla simmetria di Seg4 e
+Seg5 sia dal loro parallelismo con Seg1 e Seg2, che tende a presentare SQ II
+come un “testo descrittivo” – i due termini (primavera e autunno) sono
+termini aspettuali di un solo processo, nominato estate e identificabile con
+la vita. Dal punto di vista sintagmatico, tuttavia, adottando una lettura
+successiva e lineare dei due segmenti, l’autunno non appare più come un
+processo terminativo, ma come l’aspetto incoativo dell’inverno, e gli
+avvenimenti descritti si presentano come il dramma cosmico del rinascere e
+dell’esaurirsi mortale del Sole. Una tale lettura fa di Seg5 un testo
+premonitore, sul piano cosmico, della morte dei due amici.
+4.3. La nebbia acquatica
+Esaminando più da vicino l’enunciato figurativo (b) di Seg4, ci si avvede
+che il Sole, nella sua qualità di soggetto transitivo, esercita in esso una
+doppia attività:
+a) fa fluttuare al di sopra dell’acqua una “nebbiolina”;
+b) riversa sulle schiene dei pescatori un “buon calore”.
+Tenendo conto del fatto che questa doppia azione del Sole è in seguito
+sussunta verbalmente dal termine “dolcezza”, si può dire che il suo fare ha
+come risultato il manifestare la “dolcezza di vivere” in due forme differenti:
+a) sul piano cosmologico (il Sole si congiunge all’Acqua, per produrre la
+“nebbiolina”);
+b) sul piano noologico (il Sole si congiunge agli umani, producendo il
+“buon calore” riversato sulle schiene).
+4.4. La nebbia celeste
+1. Per comprendere meglio la congiunzione Sole-Acqua, è necessaria
+un’esplorazione paradigmatica dell’insieme del testo. Contrariamente a quel
+che accade in primavera, quando l’azione del Sole si esercita nello spazio
+sottostante, a fior d’Acqua, il Sole autunnale si manifesta nello spazio
+sovrastante, dove insanguina il Cielo. Lo stesso attore figurativo opera
+dunque differentemente nei due spazi, laddove il primo fare è euforico
+mentre il secondo disforico:
+Infatti, il Sole rinascente si manifesta a livello dell’acqua, mentre il suo
+esaurimento mortale si inscrive nello spazio celeste.
+2. C’è di più: in SQ VI, intitolata “La guerra”, il primo segnale visuale
+della rottura della “gioia di vivere” è presentato dall’enunciatore sotto
+forma di apparizione, nel Cielo, di una “nebbia di polvere” “sputata” dal
+Mont-Valérien come “alito di morte”. Una nebbia celeste, questa volta, si
+presenta come risultato della congiunzione di un attore figurativo mortale, il
+Mont-Valérien, con il Cielo, entrambi situati nello spazio disforico
+sovrastante. Torneremo su questo fenomeno. È sufficiente dire in questo
+momento che la scelta del Mont-Valérien come figura della morte apparirà
+come la soluzione pratica che s’impone al narratore, obbligato a conciliare
+l’elemento terra con lo spazio disforico /sovrastante/.
+La registrazione delle nebbie (che occorrono nel testo queste due sole
+volte) permette di stabilire due serie figurative, parallele e opposte:
+4.5. Il sangue solare
+1. Se si passa adesso dall’analisi di Seg4 a quella di Seg5, si constata che
+il Sole, in quanto soggetto semantico dell’enunciato figurativo, è presentato
+nella sua forma passiva. In quanto soggetto passivo (privato della sua
+essenza vitale), esso ha la funzione di “insanguinare il cielo”: il Cielo, a sua
+volta, è manifestato in questa prima fase come spazio /contenente/ nel quale
+si spande il sangue solare (cfr. SQ III: “Infatti il cielo era azzurro e pieno di
+luce”).
+Il Cielo appare quindi come uno spazio vuoto che può esser riempito; in
+opposizione al Sole che rappresenta il termine /vita/, il Cielo appare come
+suo contraddittorio, /non-vita/. Pertanto, l’esaurirsi del Sole che perde il
+sangue e il riversarsi nello spazio del Cielo sono omologabili sull’isotopia
+dei cambiamenti stagionali con l’aspetto terminativo del processo vitale
+rappresentato dall’autunno: il sangue sarà in questo caso l’iponimo del
+principio vitale del Sole in via d’esaurimento.
+2. Passando dal dramma cosmico al dramma umano, si ritrovano nelle
+ultime sequenze del racconto, dove si parla della doppia morte dei due
+amici, altre due occorrenze del lessema sangue.
+Nella scena della fucilazione, l’autore dice di Morissot:
+si abbatté di traverso sul suo camerata, col viso rivolto al cielo, mentre fiotti di sangue
+fuoriuscivano dalla giubba forata sul petto.
+Non ci si può esimere dal registrare il parallelismo tra la morte solare e la
+morte umana: il cielo viene affrontato come uno spazio vuoto e nemico (il
+“viso rivolto al cielo”), la vita viene affermata mentre va via attraverso i
+“fiotti di sangue”.
+Nella scena dell’immersione, alla superficie dell’acqua che s’è infine
+calmata, il sangue appare di nuovo, presentato in una piccola frase che
+occupa un intero paragrafo: “un po’ di sangue galleggiava.” Il carattere
+iponimico del sangue, che si manifesta in seguito alla congiunzione dei
+corpi con lo spazio acquatico, appare evidente.
+4.6. L’apparire del Cielo
+1. Se i segni della prossima morte del Sole si dispiegano nello spazio
+sovrastante, il mondo sottostante ne riceve il riflesso: non è più il Sole che
+si presenta come agente di comunicazione con lo spazio euforico ma, grazie
+alla trasformazione passiva, soggetto attivo dell’enunciato figurativo è
+divenuto il Cielo. Vorremmo interpretare questa trasformazione linguistica
+situata alla superficie del testo come qualcosa che a un livello narrativo più
+profondo annuncia l’instaurazione di un soggetto secondo l’apparire, se non
+addirittura quella di un falso soggetto. Di fatto la riattivazione del Cielo –
+presentato dapprima come uno spazio su cui si esercita il fare del Sole –
+viene consolidata dalla messa in opera di predicati energici come “gettare”,
+“imporporare”, “infiammare” ecc. Si potrebbe notare a questo proposito che
+la trasformazione di un attore-spazio in un attore-soggetto attivo non è un
+avvenimento isolato: nella sequenza “La pace”, il luogo topico Acqua si
+comporta in maniera analoga, come fornitore di pesci.
+2. Il fare riflessivo del Cielo, manifestato dai predicati del nostro
+enunciato, è doppio:
+a) da una parte, esso consiste nel gettare “in acqua immagini di nuvole
+scarlatte”;
+b) dall’altra, nel rendere rossi i vari oggetti enumerati, laddove il
+processo “arrossare” viene espresso da una serie di parasinonimi:
+imporporare
+infiammare
+mettere del rosso
+dorare
+Per rendere conto di tale distribuzione, può essere fornito un abbozzo
+d’interpretazione:
+a) La prima funzione del Cielo sembra essere quella di una congiunzione
+forte (cfr. “gettare”) delle nuvole con l’acqua. Ora, come la nebbia celeste
+di SQ VI (“La guerra”) si sviluppa in nuvola, allo stesso modo il sangue
+solare si rapprende in “immagini di nuvole scarlatte”. Tuttavia, la
+congiunzione avviene in realtà solo sul modo dell’apparire; a esser
+congiunte con l’acqua sono le “immagini” delle nuvole e non le nuvole in
+sé stesse; il sangue solare, d’altra parte, viene rappresentato dalle nuvole
+soltanto nella forma più superficiale, quella del colore. Gli eventi cosmici
+vengono così trasformati e presentati come riflesso e come
+rappresentazione.
+b) La seconda funzione consiste, come si è visto, nel colorare di rosso i
+diversi oggetti incontrati. Nella misura in cui il Sole è al contempo calore e
+luce, questa presenza mediata del Sole sotto il solo aspetto luminoso, si
+oppone al calore del segmento precedente, costituendone l’apparire. Allo
+stesso modo, il sangue del Sole, sparso nel Cielo, si ritrova nello spazio
+sottostante mediante la sua apparenza rossastra.
+Gli oggetti che sono raggiunti dai riflessi del sangue solare sembrano
+disposti in strati orizzontali. Tra lo strato inferiore, costituito dall’acqua (il
+fiume) e lo strato superiore, attinente allo spazio della terra (gli “alberi già
+arrossati, frementi di un brivido invernale”), si trova la linea
+dell’“orizzonte”: una zona di confine in cui, sospeso tra l’acqua (“i piedi
+penzoloni sulla corrente”) e la terra (collocata, come si è visto e si vedrà
+ancora, nello spazio sovrastante) appare lo spazio umano. Ora, questo
+spazio stretto “tra i due amici”, spazio dell’amicizia (dato che i due attori
+costituiscono ormai un solo attante duale), è reso “rosso come fosse fuoco”.
+Di conseguenza, se Seg4 comporta con il “buon calore” riversato dal Sole
+un messaggio di vita, quello inscritto in Seg5 è al contrario un annuncio
+premonitore di morte.
+3. È ancora più strano constatare come l’accoglienza riservata a questo
+messaggio della fine della vita solare susciti “ammirazione” e dia luogo a
+un’esclamazione di ordine estetico: “Che spettacolo!”; cioè rappresenti
+l’espressione di un non sapere provvisorio dei due amici, concernente la
+verità della vita cosmica. Si tratta forse di una concezione estetica della vita
+(per cui una “bella morte” è meglio dello stato moribondo di Parigi
+descritto in SQ I; concezione che sarebbe confermata dalle ultime parole di
+Morissot: “È meglio del boulevard, eh?”), sulla scia di Flaubert? O si tratta
+invece di un’espressione antifrastica, particolarmente caratteristica della
+scrittura di Maupassant?
+4.7. Il quadrato semiotico
+La difficoltà di procedere nell’analisi dei due enunciati figurativi di Seg4
+e Seg5 – dovuta essenzialmente all’insufficienza quantitativa dei segni che
+manifestano l’universo semiologico che si cerca di esplicitare – ci ha
+obbligati a esplorazioni paradigmatiche parziali dell’insieme del testo. Si è
+costituito così, a poco a poco, un modello ipotetico che rende conto
+dell’organizzazione figurativa di questo universo. Partendo dal presupposto
+che l’analisi ulteriore convaliderà progressivamente questo modello,
+riteniamo utile formularlo sin da adesso, inscrivendo sul quadrato semiotico
+le figure e i valori già riconosciuti:
+Un certo numero di osservazioni esplicative faciliterà la lettura del
+quadrato.
+a) I termini in maiuscolo rappresentano gli attori figurativi, mentre i
+termini tra barre designano i valori assiologici investiti.
+b) Bisogna distinguere due deissi: la prima, positiva ed euforica,
+comprende i termini /vita/ e /non-morte/ e può essere denominata Esistenza;
+la seconda, negativa e disforica, riunisce i termini /morte/ e /non-vita/ e può
+essere designata come Non Esistenza.
+c) L’unione dei termini /vita/ e /non-morte/, costitutiva dell’Esistenza,
+possiede nel testo un iponimo rappresentato figurativamente dalla “nebbia
+acquatica”; allo stesso modo, la Non Esistenza ha la “nebbia celeste” come
+rappresentante iponimico figurativo.
+Nota: I pochi dati relativi alla deissi negativa ancora non permettono di esaminare in dettaglio
+questa struttura assiologica elementare. Torneremo sulla questione nel corso dell’analisi di SQ
+VI.
+5. La distribuzione attanziale
+1. Se Seg4 e Seg5 formano un microracconto sul dramma cosmico del
+Sole, non bisogna perdere di vista il fatto che questo racconto è un
+messaggio rivolto agli uomini e, più precisamente, ai due amici costituiti in
+un solo attante soggetto; di più: esso è interiorizzato, memorizzato, e
+implica i principali elementi della struttura assiologica di quel soggetto
+presentato sotto forma figurativa. Ora, una delle ragion d’essere della
+posizione attanziale del Destinante consiste appunto nel trasformare
+un’assiologia, data come sistema di valori, in una sintagmatica operativa. Il
+Sole, incarnazione del principio vitale, appare dunque delegato alla
+trasmissione di quei valori vitali e, in una certa misura, del sapere sul valore
+dei valori proposti.
+2. Ma il microracconto è più di questo: nel suo seno si integrano
+posizioni attanziali diverse tra le quali è previsto il posto di soggetto per i
+due amici. Così, se la “nebbiolina che scorre con l’acqua” riassume in
+qualche modo la congiunzione dei valori /vita/ e /non-morte/, come una
+presa possibile dell’Esistenza sul piano cosmico, il “buon calore” è
+trasmesso direttamente dal Sole-destinante come un dono indirizzato ai due
+amici-destinatari. Ora, il “calore” – che d’altronde torna due volte nel testo
+(come oggetto del programma interiorizzato virtuale e come oggetto del
+programma realizzato) – può essere considerato in due modi diversi: è
+innanzitutto ciò che costituisce il soggetto come /volente-essere/, ossia
+come soggetto del volere suscettibile di eseguire un programma narrativo
+(si vedrà per esempio il ruolo che gioca l’assenzio in SQ III); ma è anche un
+/esser-voluto/, un valore oggetto di ricerca, la cui integrazione costituisce il
+soggetto di stato.
+3. Può essere utile notare che l’azione del Sole-destinante viene esercitata
+da dietro, “sulle schiene” o “fra le spalle”. In tal modo, d’altronde, deve
+comportarsi il destinante nel momento in cui si spazializza figurativamente
+la sua azione: deve “spingere” il soggetto-destinatario indicandogli la
+direzione della ricerca. Tutt’altro è l’atteggiamento del soggetto riguardo al
+Cielo, che egli affronta, come si è visto, da davanti offrendogli il volto: si
+tratta qui di un non-destinante, attinente a una deissi nemica. Tale sembra
+essere la posizione attanziale del Cielo, attore principale di Seg5.
+Senza entrare nei dettagli e senza anticipare i risultati dell’analisi, sembra
+opportuno proporre sin d’ora, a titolo d’ipotesi, una distribuzione attanziale
+dei destinanti che ricopre l’insieme del racconto. L’esperienza analitica
+(nostra e di altri semiologi) ha mostrato che per rendere conto di testi più o
+meno complessi è necessario considerare la possibilità di scissione di un
+qualsiasi attante in almeno quattro posizioni attanziali – che possiamo
+presentare, con la terminologia di Jean-Claude Picard, nel modo seguente:
+Applicando questo schema allo statuto proto-attanziale del destinante, si
+può dunque postulare l’esistenza, per il nostro testo, di quattro tipi di
+destinante:
+Tenendo conto della struttura polemica della narrazione, i due soggetti
+narrativi (il soggetto “due amici” e l’antisoggetto “prussiani”) sarebbero
+così dotati ciascuno di un doppio destinante. Esamineremo nel corso della
+nostra analisi questa situazione. Possiamo comunque notare già da adesso
+che il raddoppiamento del destinante, almeno per quel che concerne il
+programma narrativo del soggetto “due amici”, corrisponde, secondo lo
+schema proppiano, a due distinte posizioni del destinante nella sintagmatica
+del racconto: la prima è quella del destinante iniziale, al contempo donatore
+e mandante; la seconda, quella del destinante finale, che riceve il
+programma realizzato del soggetto e lo sanziona.
+1 In francese, i due termini sono connaissance (conoscenza) e reconnaissance (riconoscimento),
+quindi hanno una corrispondenza diretta molto più stretta e vistosa di quanto non capiti ai loro
+corrispondenti italiani. (N.d.C.)
+2 In italiano, questi “egli” vanno considerati come soggetti che la grammatica consente e l’uso
+consiglia di tenere impliciti. (N.d.C.)
+2.3.Una logica delle approssimazioni
+3. La seconda frase
+3.1.L’isotopia discorsiva
+3.2.La rappresentazione spaziale
+3.3.L’esplicitazione semantica
+3.4.Gli investimenti assiologici
+4. La terza frase
+4.1.La figura spaziale di Parigi
+4.2.Verso l’abolizione del senso
+5. Osservazioni finali
+SEQUENZA II
+L’amicizia
+1. La sequenza e il suo contesto
+1.1.Una sequenza intercalare
+Débrayage
+Embrayage
+1.2.La linearità del discorso
+La dimensione cognitiva e la sua figurativizzazione
+L’isotopia attoriale del discorso
+L’anaforizzazione e la cataforizzazione
+2. L’organizzazione interna della sequenza
+2.1.Organizzazione paradigmatica
+I demarcatori
+La segmentazione
+Simmetrie e dissimmetrie
+2.2.Organizzazione sintagmatica
+Il fare e l’essere
+Il fare
+Il perno
+L’essere
+3. Il fare euforico
+3.1.Il programma discorsivo
+3.2.La valorizzazione del programma
+3.3.L’installazione dell’attante duale

@@ -1,0 +1,849 @@
+SEQUENZA III
+LA PASSEGGIATA
+Mentre, in un limpido mattino di gennaio, passeggiava triste lungo il boulevard esterno con le
+mani nelle tasche dei pantaloni della divisa e la pancia vuota, il sig. Morissot, orologiaio di
+mestiere e “pantofolaio” della Guardia nazionale per l’occasione, si fermò di botto davanti a un
+commilitone in cui riconobbe un amico. Era il sig. Sauvage, una conoscenza fatta sul bordo
+dell’acqua.
+[…]
+Non appena si furono riconosciuti, si strinsero forte la mano, tutti emozionati per essersi
+ritrovati in circostanze tanto differenti. Il sig. Sauvage, mandando un sospiro, mormorò:
+“Quante cose sono avvenute!” Morissot, molto cupo, gemette: “E che tempo! Oggi è la prima
+bella giornata dell’anno.”
+Infatti il cielo era azzurro e pieno di luce.
+Si misero a camminare fianco a fianco, sognanti e tristi. Morissot riprese: “E la pesca? Che bel
+ricordo, eh?”
+Il sig. Sauvage domandò: “Quando ci torneremo?”
+Entrarono in un piccolo caffè e bevvero insieme un assenzio; si rimisero a passeggiare su e giù
+per i marciapiedi.
+A un tratto Morissot si fermò: “Un altro verde, eh?” Il sig. Sauvage acconsentì: “A vostra
+disposizione.” Ed entrarono in un’altra mescita.
+Quando ne uscirono erano molto storditi, offuscati come chi è a digiuno e ha la pancia piena
+d’alcol. C’era un dolce tepore. Una brezza carezzevole stuzzicava loro il viso.
+Il sig. Sauvage, che l’aria tiepida stava finendo di ubriacare del tutto, si fermò: “Se ci
+andassimo?”
+“Dove?”
+“A pesca!”
+“Ma dove?”
+“Ma alla nostra isola. Gli avamposti francesi sono vicini a Colombes. Conosco il colonnello
+Dumoulin; è facile che ci lascino passare.”
+Morissot fremette di desiderio: “D’accordo. Ci sto.” E si separarono per andare a prendere le
+attrezzature.
+(Un’ora dopo camminavano fianco a fianco sulla strada maestra…)
+1. Lo statuto e l’organizzazione della sequenza
+1.1. La delimitazione spazio-temporale
+Si noterà innanzitutto che i criteri abituali per la segmentazione del testo
+e per la delimitazione della sequenza, le disgiunzioni spaziali e temporali, in
+questo caso si possono applicare solo in modo alquanto parziale. Infatti, SQ
+III si trova nella stessa isotopia spazio-temporale di SQ I: il racconto che
+inizia con l’avvio di SQ III si svolge nel medesimo spazio inglobato (Parigi)
+ed è integrato nel medesimo allora narrativo di SQ I.
+Se niente segnala, da questo punto di vista, l’inizio della sequenza, la sua
+fine è invece caratterizzata da precise disgiunzioni: una temporale (“un’ora
+dopo”) e l’altra spaziale (“sulla strada maestra”), i cui demarcatori
+inaugurano la sequenza successiva. Così, bisogna riconoscere i principi di
+organizzazione del discorso sullo sfondo di uno spazio-tempo continuo a SQ
+I e a SQ III.
+1.2. La passeggiata
+In assenza di criteri spazio-temporali, è possibile cercare le opposizioni
+che permettono di distinguere le due sequenze nella discriminazione degli
+attori. SQ I sembra opporsi a SQ III come
+attore collettivo (Parigi) vs attori individuali (due amici).
+A livello della predicazione generale dei due attori, appare una
+distinzione ancora più netta: quella tra
+predicati di stato vs predicati di fare intransitivo.
+SQ I è la presentazione dell’attore Parigi considerato nel suo essere; SQ III
+introduce gli attori che si manifestano, alla superficie, mediante un certo
+fare: il passeggiare.
+La passeggiata, interpretabile approssimativamente come un fare
+intransitivo, può ricevere una rappresentazione semantica più astratta.
+Considerata come movimento nello spazio, può essere assimilata alla
+funzione proppiana dello spostamento, dove però il soggetto e l’oggetto
+sono in stato di sincretismo (ossia rappresentati in un solo attore). Si tratta
+di un enunciato riflessivo:
+F spostamento (S:A → O:A)
+il quale, a sua volta, è la figurazione spaziale del volere del soggetto.
+Si vede quindi che
+passeggiata vs ricerca
+è un’opposizione che in un programma narrativo virtuale rende presenti,
+da un lato, un volere senza oggetto e, dall’altro, un volere con oggetto. Ed è
+proprio questa opposizione che, dal punto di vista narrativo, distingue SQ III
+da SQ IV.
+Come si vede, la nostra analisi parte da attori che si manifestano come
+soggetti discorsivi dotati di predicati, per rintracciare poi gli attanti
+integrabili negli enunciati narrativi, ricercando un’organizzazione narrativa
+soggiacente alla manifestazione discorsiva che permetterà di rendere conto
+dell’articolazione del testo alla sua superficie. Il comportamento degli attori
+discorsivi può servire alla segmentazione del testo, mentre la presenza e
+l’assenza, le apparizioni e le sparizioni degli attori (come i cambiamenti
+significativi dei loro predicati) possono essere considerati demarcatori del
+testo allo stesso titolo dei criteri spazio-temporali.
+La sequenza della “passeggiata” rivela una certa organizzazione di
+superficie che possiamo rappresentare come segue:
+Attraverso la manifestazione figurativa della passeggiata apparirà il
+progetto narrativo dell’enunciatore.
+1.3. Camminare e fermarsi
+1. L’opposizione che abbiamo suggerito per distinguere le due sequenze:
+viene confermata dal riconoscimento della ricorrenza di un frammento
+frastico che le riunisce:
+SQ III : “Si misero a camminare fianco a fianco...”
+SQ IV : “Un’ora dopo camminavano fianco a fianco...”
+Tale ricorrenza indica: (a) l’identità del predicato figurativo
+“camminare”; (b) la permanenza, espressa spazialmente da “fianco a
+fianco”, dell’attante duale “due amici”, che ha lo scopo di innestare
+l’opposizione tra i due fare a partire da un supporto semantico comune.
+La prima menzione di “camminare fianco a fianco” si trova nel centro di
+SQ III (nello schema proposto sopra, in corrispondenza del punto indicato
+dalla doppia barra verticale) e la divide in due parti che corrispondono a due
+sottoprogrammi narrativi che si riconoscono d’intuito. Tutto avviene come
+se nella prima parte la passeggiata solitaria dei due amici abbia per scopo
+l’incontro e la costituzione (o la ricostituzione) dell’attante duale e nella
+seconda parte la passeggiata “fianco a fianco” prepari le condizioni
+necessarie allo scattare della ricerca (laddove la separazione serve ai due
+amici per munirsi degli strumenti necessari alla pesca).
+Appare così ciò che potremmo chiamare funzione demarcativa della
+ricorrenza: essa valorizza e mette in rilievo il frammento frastico reiterato;
+senza di essa quel frammento resterebbe un inizio qualsiasi di frase senza
+alcun ruolo nell’organizzazione del testo.
+2. Nella stessa sequenza può essere osservato un secondo fenomeno di
+ricorrenza: è la ripetizione, per tre volte, di “fermarsi”, verbo che non si
+incontra in alcun’altra parte del testo. Se la prima fermata è giustificata sul
+piano pragmatico (l’evento descritto è l’incontro dei due amici), gli altri due
+usi del verbo sono seguiti da enunciati elocutori e sembrano così sostituire
+il verbo “dire”. Il dire, grazie a questa sostituzione e all’insistenza segnalata
+da una fermata somatica, diviene un dire enfatico: annuncia, come il primo
+caso, l’irruzione dell’incidenza nella permanenza; solo che adesso si tratta
+di una trasformazione narrativa all’interno della dimensione cognitiva (la
+quale, non a caso, precede e anticipa una decisione).
+La funzione demarcativa della ricorrenza appare di nuovo in modo
+inequivocabile: alla prima fermata “pragmatica”, inscritta nella dimensione
+evenemenziale, si oppongono le altre due, di tipo “cognitivo”. Annunci,
+tutte e tre, del progresso narrativo, esse segmentano la sequenza in
+questione: laddove la prima fermata fa scattare il racconto della
+ricostituzione dell’attante duale – corrispondente, per le sue dimensioni
+testuali, all’immobilità dell’incontro – le altre due (dovute una volta
+all’iniziativa di Morissot e un’altra a quella di Sauvage) introducono la
+seconda parte della sequenza, scomponendo in essa due segmenti – che
+corrispondono, rispettivamente, all’instaurazione del voler-fare e del
+contratto relativo all’esecuzione del programma.
+La moltiplicazione dei criteri di segmentazione fa apparire
+inevitabilmente il fenomeno della non concordanza termine a termine tra le
+sequenze testuali e i sintagmi narrativi. Ci saremmo stupiti del contrario.
+Comunque sia, a grandi linee la nostra sequenza è organizzata: divisa in
+due parti – secondo l’opposizione /immobilità/ vs /movimento/ degli attori
+(e secondo l’opposizione tra fermata “pragmatica” e fermate “cognitive”
+che introducono i programmi narrativi) – la sequenza può essere intesa
+come la copertura testuale di un programma narrativo, la cui esplicitazione
+metterà in rilievo le sottoarticolazioni che ne derivano.
+2. L’avvenire dell’evento
+2.1. Temporalizzazione e aspettualizzazione
+La sequenza che ci riproponiamo di esaminare comincia ex abrupto,
+senza alcun legame apparente con quella che la precede, con una lunga
+frase in espansione costruita sull’opposizione di due tempi verbali:
+Quest’opposizione non si basa soltanto sulla discriminazione dei tempi
+verbali: l’esame dei radicali dei due verbi – al quale abbiamo proceduto
+sommariamente sopra – mostrerebbe che essa manifesta in modo ridondante
+un’opposizione categoriale già presente a livello della rappresentazione
+semantica della frase, opposizione che trascende la propria realizzazione in
+una particolare lingua naturale attraverso categorie grammaticali
+appropriate.
+È noto che l’opposizione imperfetto vs passato remoto è un’articolazione
+aspettuale che nella nostra lingua si situa all’interno del sistema temporale
+secondario, quello che può essere chiamato sistema dell’allora per
+distinguerlo dal sistema primario dell’adesso. Si tratta di due articolazioni
+della temporalità: la prima è legata all’adesso, ovvero alla posizione
+temporale del soggetto dell’enunciazione; la seconda si costruisce a partire
+da un punto qualsiasi scelto nel continuum temporale, situato in un prima o
+in un dopo in rapporto alla posizione dell’enunciatore.
+In un caso come nell’altro, si tratta di un fenomeno di débrayage
+temporale, poiché il tempo dell’enunciato non è mai concomitante con
+quello dell’enunciazione. Se l’illusione dell’identità dei due adesso, quello
+dell’enunciazione e quello dell’enunciato, può essere a rigore sostenuta
+quando si tratta di comunicazione orale, l’introduzione del punto di vista
+del lettore inverte la situazione: il tempo dell’enunciato si identifica, in
+questo caso, con quello della lettura, e anche il tempo dell’enunciazione si
+trova relegato (debraiato) nel passato – nel nostro caso, nel periodo che
+precede il 5 febbraio 1883, data della prima pubblicazione del racconto di
+Maupassant.
+Se è così, il problema della temporalizzazione appare come l’esercizio
+selettivo, al momento della messa in discorso di una lingua, di due sistemi
+temporali distinti, la cui natura non è tuttavia temporale ma logico-
+semantica. Le due posizioni temporali – /adesso/ e /allora/ – sono deissi di
+riferimento a partire dalle quali le categorie temporali e aspettuali possono
+dispiegarsi. È comunque ovvio che queste deissi sono determinate dalla
+relazione con la deissi dell’istanza dell’enunciazione; l’interpretazione di
+questa relazione, accompagnata talvolta dall’uso di nuove procedure,
+conferisce poi, all’uno o all’altro sistema, il ruolo di oggettivazione o
+soggettivazione temporale.
+3. Quel che talvolta viene chiamato “tempo del racconto” appare dunque
+come una sorta di presente identificato con la deissi dell’allora, un presente
+fittizio a partire da cui un passato e un futuro possono essere proiettati sulla
+base dell’articolazione:
+/prima/ vs /durante/ vs /dopo/.
+I termini di questa articolazione – dato che non corrispondono ad alcuna
+temporalità reale – sono posizioni temporali di una categoria di relazioni
+logiche:
+Si vede che l’esistenza dei tempi verbali (“passeggiava” vs “si fermò”),
+realizzando questo presente narrativo con l’ausilio di forme grammaticali
+istituzionalizzate, ha come effetto di senso l’oggettivazione del racconto;
+laddove, per esempio, lo sforzo di un Bernanos di sostituire un adesso a un
+allora convenzionale come deissi di riferimento, senza per questo arrivare
+alla distruzione del racconto, non fa che soggettivare il racconto stesso.
+Questo dispiegamento di categorie logico-semantiche che organizzano la
+temporalità si combina e si articola con una nuova categoria temporale,
+quella di
+/permanenza/ vs /incidenza/,
+la quale, in fondo, non è altro che l’adattamento al tempo della categoria
+che serve da universale nell’interpretazione del “mondo naturale”
+fenomenico:
+/continuo/ vs /discontinuo/.
+Dal punto di vista sintagmatico, secondo la linearità temporale, il
+discorso appare come una successione di permanenze e di incidenze,
+laddove un’incidenza deve necessariamente intercalarsi tra due
+permanenze, affinché queste possano essere colte come distinte. Una tale
+successione si costituisce quindi in un’organizzazione autonoma che
+introduce le determinazioni temporali nelle sequenze (logiche) di enunciati
+narrativi di stato e d’azione.
+Dal punto di vista paradigmatico, possono essere concepiti molteplici
+racconti paralleli e concomitanti, coniugando quanto meno o due
+permanenze o una permanenza e un’incidenza.
+Questo dispositivo temporale, per essere manifestato nel discorso, deve
+innanzitutto sottomettersi a un’articolazione aspettuale. L’aspettualità è in
+effetti la forma di superficie sotto la quale si presenta e può essere decifrato
+il tempo. Paradigmaticamente, la cosa può essere formulata così:
+Nota: L’iteratività può essere definita in modo provvisorio come la durata riempita da uguali
+puntualità.
+Si è detto però che nella catena sintagmatica una sequenza di permanenze
+e incidenze – anche se reinterpretata aspettualmente come successione di
+durate e puntualità – può essere “dinamizzata” (ossia concepita come
+processo) sempreché la puntualità sia marcata come inizio o fine del
+processo stesso. Alle trasformazioni logiche del livello profondo abbiamo
+visto corrispondere i cambiamenti aspettuali, che si manifestano alla
+superficie discorsiva come una successione:
+/incoatività/ → /duratività/ → /terminatività/.
+6. Le temporalità, infine, possono essere denominate e ricevere un certo
+numero di determinazioni semantiche: si dirà che un periodo è una
+permanenza denominata (l’inverno, la passeggiata) e, allo stesso modo, che
+un evento è un’incidenza denominata (la presa della Bastiglia, la fermata).
+2.2. La focalizzazione dell’attore-soggetto
+1. Per tornare all’esame della nostra sequenza, essa comincia con la
+messa in opera di una permanenza temporale denominata “passeggiata”. In
+quanto periodo, essa viene incastrata in un altro periodo, “un limpido
+mattino di gennaio”, denominazione iponima rispetto a un altro periodo
+ancora, posto implicitamente – in opposizione al periodo “primavera →
+autunno” che serve da sfondo a SQ II – che non è altro che l’“inverno”. Ora,
+quest’ultimo si integra a sua volta in uno spazio temporale più vasto,
+denominato “guerra” (si veda l’inizio di SQ II marcato da “prima della
+guerra”).
+Ci troviamo insomma dinnanzi a una serie di inscatolamenti temporali
+che costituiscono un dispositivo quadruplo di piani di profondità, sfondo
+temporale sul quale potranno svolgersi gli eventi riportati. Ma, da un altro
+lato, essendo questi periodi inclusi gli uni negli altri, essi possiedono certe
+proprietà in comune e possono per questo essere omologati. Così, essi
+comportano una certa connotazione disforica, a eccezione di “un limpido
+mattino”: ed è proprio la posizione equivoca di quest’ultimo che permette di
+prevedere il suo carattere ingannatore.
+2. Se si considerano adesso le determinazioni spaziali messe in parallelo
+con le determinazioni temporali
+(a) “un limpido mattino di gennaio”
+(b) “sul boulevard esterno”
+si ritrova all’incirca uno stesso principio di inscatolamento per quel che
+riguarda gli spazi: così, il “boulevard esterno” costituisce uno spazio
+iponimico, inglobato in rapporto allo spazio /inglobante/ Parigi, descritto in
+precedenza, dato che, tra l’altro, entrambi gli spazi possiedono il sema
+/circolarità/. A partire da ciò, lo spazio “Parigi” apparirà a sua volta come
+uno spazio /inglobato/ in rapporto a uno /inglobante/ più vasto; da un altro
+lato, lo spazio “boulevard” è il luogo topico, umanizzato dalla presenza dei
+due amici.
+3. Le due coordinate, spaziale e temporale, che servono a circoscrivere
+l’attore umano che si vuol presentare, possono di conseguenza essere
+dinamizzate, focalizzate; questa focalizzazione, per accostamenti
+concentrici successivi, andando dalle deissi spaziali e temporali più grandi a
+quelle più piccole, arriva a fissare l’oggetto preso di mira dall’enunciatore.
+Lo stesso procedimento viene utilizzato nell’introdurre l’attore Morissot.
+Il soggetto di questo primo segmento appare innanzitutto sotto la forma di
+un “egli”1 anaforico che possiede ben poche determinazioni. In rapporto a
+SQ I, questo “egli” non è altro che il prolungamento del soggetto “si”
+dell’ultima frase, che segnala tuttavia il passaggio da un “si” qualunque a
+un “egli” individuale e singolare. Solo dopo esser stato ricoperto da una
+serie di determinazioni figurative, questo attore viene presentato come un
+individuo dotato di un nome proprio, segno della sua individuazione e della
+sua unicità.
+4. Le determinazioni figurative che precedono la denominazione di
+Morissot sono:
+a) le determinazioni spazio-temporali già esaminate;
+b) le determinazioni dell’apparenza esteriore dell’attore (“le mani nelle
+tasche dei pantaloni della divisa”);
+c) le determinazioni dell’apparenza “interna” (“la pancia vuota”).
+Queste determinazioni, che precedono l’antroponimo, si oppongono a
+quelle che lo seguono: “orologiaio di mestiere e ‘pantofolaio’2 della
+Guardia nazionale per l’occasione”. L’insieme di queste caratteristiche e
+qualificazioni – temporanee e permanenti, individuali e sociali – è
+presentato nel testo sotto la forma di un chiasmo:
+Nota: Lo “stato” militare dei due amici viene segnalato soltanto due volte nel testo, all’inizio e
+alla fine del racconto; i “pantaloni” della divisa sono in tal modo in opposizione alla “giubba”.
+La notazione “la pancia vuota”, semplice anaforizzante dell’attore
+collettivo “Parigi affamata”, appare come rappresentante figurativo
+(trovandosi nella relazione /contenente/ vs /contenuto/) dell’interiorità
+dell’attore. La “pancia vuota” del nostro segmento si opporrà, nel seguito
+della stessa sequenza, alla “pancia piena d’alcol”, comparabile, a sua volta,
+al cielo “pieno di luce”. Così, l’accostamento concentrico che mira a
+ottenere la massima focalizzazione dell’attoresoggetto, ci sembra essere il
+principio organizzatore dell’intero segmento.
+2.3. L’innesco della narrazione
+1. Questa presentazione dell’attore Morissot – laddove quella di Sauvage
+supera la frontiera tra le sequenze e prosegue nella sequenza intercalare – si
+conclude con l’introduzione del predicato “si fermò di botto”. Se la
+passeggiata lungo il boulevard – hic et nunc immaginario del racconto –
+può essere considerata come l’installazione di una permanenza, la fermata è
+a sua volta il marchio dell’incidenza, il segno enfatico che annuncia
+l’evento contingente che farà scattare la narrazione. Non si tratta di una
+normale fermata nello spazio della passeggiata; anche il Tempo si ferma
+momentaneamente, per permettere al tempo memorizzato di riversarsi nel
+racconto lineare: si tratta di una rottura del discorso, rottura che istituisce il
+discorso stesso in quanto narrazione.
+2. L’incidenza – manifestata nella sua temporalizzazione come
+/puntualità/ –, quando viene inscritta nella catena sintagmatica, può ricevere
+una doppia interpretazione aspettuale: così, la “fermata” può esser tradotta
+come l’aspetto /terminativo/ della passeggiata solitaria, o anche come
+l’aspetto /incoativo/ di una nuova durata. Questa incoazione narrativa è
+d’altronde confermata dal doppio piano del ciclo dei giorni e delle notti e di
+quello delle stagioni; il racconto comincia con “un limpido mattino di
+gennaio” e con “la prima bella giornata dell’anno”.
+3. La ricostituzione dell’attante
+3.1. Il riconoscimento
+Come è noto, il riconoscimento occupa un posto di rilievo nella teoria
+narrativa di Aristotele, dove gioca il ruolo di perno del racconto,
+trasformando uno stato di /non-sapere/ (sugli esseri, le cose o gli eventi) in
+uno stato di /sapere/ e permettendo con le sue conseguenze, spiacevoli o
+felici, il seguito del racconto stesso. Pur accettando questa interpretazione
+funzionale del riconoscimento, lo possiamo tuttavia considerare come una
+forma più generale dell’articolazione discorsiva, che fa parte della
+dimensione cognitiva autonoma del discorso: si dirà che si tratta, a un
+momento dato, di una messa in correlazione di due stati cognitivi disgiunti e
+della trasformazione dell’uno nell’altro. Secondo le modalità che
+sovradeterminano gli stati cognitivi, il riconoscimento può essere semplice
+– quando si tratta per esempio del passaggio dal /non-sapere/ al /sapere/ – o
+complesso e sovradeterminato – quando per esempio il primo stato,
+determinato come /menzognero/, cede il posto a un secondo stato, definibile
+come /vero/.
+2. Nel nostro caso si tratta di un riconoscimento semplice che verte
+sull’attante-oggetto: la trasformazione che viene operata attraverso il
+soggetto Morissot è quella di un
+“commilitone” (qualunque) ⇒ “amico”.
+I lessemi “commilitone” e “amico” designano, come si sa, ruoli tematici
+che corrispondono a ruoli attanziali definiti dalle modalità di /non sapere/ e
+di /sapere/, o meglio – con la restrizione semantica che interviene per il
+fatto che si tratta unicamente dell’attante-oggetto del sapere – dalla
+categoria disgiuntiva
+/sconosciuto/ vs /conosciuto/.
+In quanto ruoli tematici, “commilitone” e “amico” possono essere
+espansi e sviluppati – come si è visto per il “pescatore” – in programmi
+discorsivi completi. Se “commilitone” non viene per il momento sfruttato,
+le cose stanno diversamente per “amico”: specificato come una
+“conoscenza fatta sul bordo dell’acqua”, esso dà luogo a uno sviluppo
+discorsivo che è la storia di questa amicizia. Non ci torniamo sopra, avendo
+esaminato a sufficienza le procedure d’intercalazione. Aggiungiamo
+semplicemente che la cataforizzazione dei contenuti della sequenza
+intercalare si trova accompagnata dalla sintagmatizzazione dei ruoli
+tematici, di modo che:
+3.2. La rimpatriata
+1. Dando per scontato che SQ II aveva la funzione di instaurare l’attante
+duale, la presentificazione dei contenuti assiologici che si opera al momento
+del riconoscimento può essere interpretata come una nuova congiunzione
+dei due attori che, sul piano cognitivo, instaura nuovamente il vecchio
+attante. Così, la distinzione:
+“riconoscersi”vs“ritrovarsi”
+marca soltanto il raddoppiamento della congiunzione che – effettuata
+innanzitutto sul piano cognitivo – lo è in seguito anche sul piano somatico.
+Il testo accorda particolare importanza a questa relazione prossemica,
+confermata due volte e presentata sotto forma di chiasmo:
+La congiunzione figurativa sanziona, in un certo qual modo, il ristabilirsi
+dell’attante duale. Il che non impedisce d’altronde che la descrizione del
+comportamento somatico sia immediatamente interpretata mediante una
+nuova omologazione:
+come un’agitazione violenta, come un movimentarsi sul piano noologico.
+Nota: I due amici si stringono due volte la mano: al momento del loro incontro e nella scena
+finale degli addii – prova ulteriore dell’organizzazione paradigmatica del racconto.
+2. L’“emozione” dei due amici non deriva soltanto dal piacere di “essersi
+ritrovati”, ma di essersi ritrovati “in circostanze così diverse”: si tratta
+quindi dell’agitazione interiore provocata dal contrasto dei contenuti che
+risultano dalla comparazione delle circostanze. Se si prendono “le
+circostanze” nel loro senso grammaticale, vengono opposti due schemi
+spazio-temporali:
+L’evocazione delle “circostanze” costituisce un doppio cataforico che
+rinvia, rispettivamente, a SQ II e SQ I, laddove le “circostanze” hanno il ruolo
+di supporto categorico comune che permette di convocare, al di sotto di
+un’opposizione violenta, i contenuti assiologici, che sono, come si
+ricorderà:
+[/vita/ + /non-morte/] vs [/± non-vita/ + /± morte/]
+3.3. La virtualizzazione e l’attualizzazione dei contenuti
+Rispetto ai contenuti resi presenti con il riconoscimento, che sono
+virtuali, i contenuti presenti e attualizzati s’impongono accentuando la
+disforia comune. Il modo di comunicazione verbale dei due amici è in
+effetti connotato come segue:
+Malgrado la possibilità di omologazione delle repliche, possiamo
+osservare, passando da un turno di parola all’altro, un certo crescendo, che
+arriva sino al raddoppiamento d’intensità dello stato di disforia. Infatti
+“gemere” è intensivo rispetto a “sospirare”, come la “tetra tristezza che
+arriva [...] sino al mutismo” (Petit Robert) espressa dall’aggettivo “cupo”
+può a sua volta essere considerata come un intensivo negativo di
+“mormorare”. Possiamo all’incirca chiamare il primo stato disforico
+“tristezza” e il secondo “sofferenza”.
+Occorre osservare che questa intensificazione della disforia a livello
+dell’enunciazione (rappresentata) si trova in correlazione con l’apparizione
+di contenuti euforici a livello dell’enunciato, di modo che:
+Se si volesse disporre su un sintagma questa struttura paradigmatica, ci si
+renderebbe conto, al contrario di quanto ci si potrebbe aspettare, che i
+contenuti enunciati sono logicamente anteriori e condizionano le
+trasformazioni dei contenuti dell’enunciazione: è perché i contenuti euforici
+appaiono nell’enunciato che lo stato disforico si raddoppia a livello
+dell’enunciazione.
+Siamo così obbligati a riconoscere l’esistenza di un progresso narrativo
+situato al livello che – in opposizione al cosmologico – possiamo chiamare
+noologico. Questo progresso deriva dal fatto che nell’enunciato precedente,
+al momento della comparazione, i contenuti euforici erano soltanto
+memorizzati e resi presenti, mentre adesso essi si trovano in qualche modo
+già presenti (il bel tempo, direttamente percepibile). In altre parole, per
+usare una terminologia adottata altrove,3 i contenuti assiologici, dapprima
+virtuali, sono stati attualizzati e messi in correlazione con i contenuti della
+stessa natura, ma portatori di segni di diniego: l’attualizzazione
+concomitante dei contenuti contraddittori ha l’effetto di raddoppiare
+l’intensità delle loro connotazioni disforiche.
+3.4. L’instaurazione dell’illusione
+1. La presenza dei contenuti euforici viene marcata due volte nel testo:
+nella constatazione verbalizzata che abbiamo esaminato e nella frase
+giustificativa che segue:
+“Infatti il cielo era azzurro e pieno di luce”.
+La prima osservazione che siamo portati a fare riguarda la non
+concordanza della linearità testuale con l’organizzazione logica degli
+enunciati; l’esclamazione “che tempo!” presuppone infatti la conoscenza
+dello stato del cielo e non viceversa. All’opposto di quel che accade in Seg4
+e Seg5 di SQ II, dove gli enunciati figurativi sono seguiti da commenti
+verbali, qui la constatazione verbale precede una “descrizione” cosmologica
+che abbiamo il diritto di considerare come l’espressione figurativa dei
+contenuti verbalizzati: possiamo insomma presumere una certa equivalenza
+tra le due manifestazioni.
+2. Abbiamo già postulato che il Cielo deve essere considerato, sul piano
+dei valori investiti nel testo, come il termine /non-vita/ della struttura
+figurativa della significazione. Se la nostra interpretazione generale è
+corretta, il fatto che il soggetto del messaggio euforico sia il Cielo (e non il
+Sole) lo rende già sospetto.
+Il Cielo, in effetti, è ornato di colori e di luce. Deve in tal modo essere
+stabilita una netta distinzione tra le due attribuzioni “azzurro” e “pieno di
+luce”: la prima è una determinazione costante, mentre la seconda
+accidentale.
+a) Il Cielo – come abbiamo visto nell’esame di SQ II – è un attore agente
+nella misura in cui trasmette agli umani il messaggio che è inscritto nel
+Sole. Dire che il Cielo è “pieno di luce” non lo qualifica come un oggetto
+luminoso, ma come il luogo vuoto riempito occasionalmente di luce; così
+come la pancia vuota degli attori umani diviene, grazie all’assenzio, la
+pancia piena d’alcol. La luce, dal canto suo, è un attributo del Sole ma,
+rispetto a un altro attributo di quest’ultimo (il calore), si situa – lo si è visto
+– come
+Il messaggio del Cielo è, allora, quello dell’apparire del Sole.
+b) Il Cielo, d’altra parte, è “azzurro”, laddove l’azzurro sembra essere
+infatti il suo attributo proprio. Ora, occorre osservare, con un po’ di stupore,
+che lo spettro cromatico di Maupassant (quanto meno nel testo studiato) è
+estremamente povero e si riduce essenzialmente, come per caso, alla triplice
+notazione azzurro-bianco-rosso. Bisogna aggiungere d’altro canto che il
+colore delle cose viene presentato qui come un aspetto superficiale e
+ingannatore. Riconosciamo, è vero, la categoria cromatica
+omologabile con i termini Sole e Cielo, a condizione tuttavia che sia
+situata sul piano dell’apparire.
+3. Si pone così la questione dello statuto di verità dell’enunciato che
+comporta il messaggio “celeste”. Che cosa significa di preciso? Per chi
+significa? Come viene assunta la sua veridizione?
+Diremo che il problema della veridizione riguarda essenzialmente la
+dimensione cognitiva della narrazione e che essa viene in tal modo
+relativizzata dalla costituzione e dalla distribuzione, mediante il soggetto
+dell’enunciazione, di spazi cognitivi particolari.
+a) II primo di questi spazi è lo spazio globale istituito sotto forma di
+contratto implicito (una sorta di tacita complicità) tra i due astanti
+transnarrativi: l’enunciatore e l’enunciatario (o lettore); contratto che è
+caratterizzato da un sapere generalizzato sugli eventi testuali. Nel nostro
+caso, questo sapere è totale – ma potrebbe essere altrimenti – e il sistema
+assiologico, che l’enunciatore inscrive in modo più o meno evidente nel
+testo, costituisce una griglia di lettura che permette di sapere quali sono
+“realmente” gli oggetti testuali: gli esseri e le cose. È a questo genere di
+decifrazione che diamo corso quando riconosciamo che tutte le
+manifestazioni dell’attore Cielo sono sul piano dell’apparire.
+b) Da un altro lato, l’enunciatore è in grado di delegare un certo sapere e
+di conferirlo a un attante narrativo o a un altro, costituendo così, all’interno
+del racconto, uno o più spazi cognitivi parziali che non sono
+necessariamente conformi allo spazio cognitivo globale (cfr. il
+riconoscimento aristotelico). Eppure, i soggetti cognitivi così instaurati non
+sono caratterizzati soltanto come possessori di sapere: possono essere anche
+manipolatori. È così che, al di sopra dello “spazio dello sguardo”, si
+instaura uno “spazio del fare” e appare una dimensione cognitiva autonoma
+della narrazione, luogo di eventi che non sono più pragmatici o somatici ma
+cognitivi. Due tipi di fare cognitivo possono essere distinti:
+fondatori, mediante le loro espansioni, di due classi di discorso.
+Questi due tipi di fare corrispondono grosso modo a due posizioni
+attanziali: quella del destinante e quella del destinatario, laddove il primo
+cerca di far accettare il proprio sapere dal destinatario e il secondo tende a
+decifrarlo secondo il proprio codice modale.
+c) Ed è proprio una tale struttura cognitiva che incontriamo nella
+sequenza che stiamo esaminando. Il Cielo, nel suo ruolo attanziale di
+destinante (di non-destinante, secondo lo schema proposto in SQ II.5)
+esercita un fare persuasivo cercando di far accettare come vere al
+destinatario (i due amici) le determinazioni costitutive del suo essere,
+determinazioni che sono in realtà, come si è visto, menzognere. Se si fa
+riferimento al quadrato semiotico della veridizione
+ci si accorge che il fare persuasivo del Cielo consiste nel trasformare,
+mediante manipolazioni cognitive (“azzurro” e “pieno di luce”)
+/a + –e/ ⇒ /a + e/
+ossia: presentare quel che appare e non è come quel che appare ed è
+nello stesso tempo, che è appunto la definizione della menzogna in quanto
+fare (del “mentire”).
+d) Il destinatario (i due amici) esercita a sua volta il proprio fare
+interpretativo, e lo esercita male (ma è solo un caso specifico tra tante
+interpretazioni possibili) accettando come vero (ossia come apparente ed
+essente al contempo) ciò che in realtà è menzognero (ciò che è pura
+apparenza). Quel che è menzogna dal punto di vista della persuasione da
+quello dell’interpretazione diviene illusione.
+4. Ci si può interrogare sulle ragioni della debolezza del fare
+interpretativo dei due amici, sulla facilità con cui accettano di cadere nelle
+maglie dell’illusione. La spiegazione potrebbe basarsi sulla
+pseudoequivalenza che abbiamo incontrato tra la rappresentazione
+figurativa dell’universo assiologico e la sua denotazione verbale. Dinnanzi
+al cielo “azzurro e pieno di luce”, la reazione di Morissot è infatti “è la
+prima bella giornata dell’anno”, così come dinnanzi alla tragedia cosmica
+della morte del Sole l’esclamazione di Sauvage (in SQ II) era “che
+spettacolo!”. In altre parole, l’apparire di ciò che è assiologicamente /non-
+vita/ o /≃ non-vita/ viene interpretato, nei due casi, attraverso categorie
+estetiche e si identifica con il termine /bello/, laddove la bellezza a sua volta
+viene postulata come l’equivalente della verità. Il messaggio del soggetto
+dell’enunciazione detto Maupassant – che si situa di conseguenza nello
+spazio cognitivo globale – sembra di conseguenza essere: la bellezza,
+mascheramento della /non-vita/, è creatrice di illusioni.
+La valutazione dello stato del Cielo inaugura dunque uno spazio
+cognitivo parziale caratterizzato dal sapere illusorio: quello dei due amici
+alla ricerca della verità.
+4. La competenza del soggetto
+4.1. L’attualizzazione del voler-fare
+1. La ricostituzione dell’attante che inaugura il racconto si manifesta
+essenzialmente, come si è visto, mediante l’attualizzazione dell’universo
+assiologico dei due amici, attualizzazione che è accompagnata dal loro fare
+interpretativo che installa uno spazio cognitivo particolare posto sotto il
+segno dell’illusione. Si trovano qui le condizioni preliminari, da una parte,
+all’apparizione del programma narrativo che reggerà il testo e, dall’altra,
+allo stabilirsi della competenza dell’attante in vista dell’esecuzione di tale
+programma. La seconda parte di SQ III è consacrata alla messa in opera di
+questo sintagma narrativo. La stessa sequenza è divisa in due, secondo
+l’opposizione /immobilità/ vs /movimento/: alla fermata che fissa l’incontro
+dei due amici succede la ripresa della passeggiata in comune. La
+passeggiata, spostamento senza scopo, si oppone alla ricerca che la seguirà:
+essa appare come la manifestazione figurativa della tensione anteriore alla
+realizzazione del programma che, corrispondendo a un vuoto
+evenemenziale, segna al contrario il troppo-pieno che caratterizza la messa
+in opera dei meccanismi narrativi virtuali.
+2. Così, il primo segmento di questa seconda parte sembra destinato alla
+ri-attualizzazione del programma della pesca che sta per emergere, sotto
+forma virtuale, al momento del processo del riconoscimento. Così, è
+possibile dire che il progresso narrativo, riconoscibile in questa sequenza,
+verte sull’articolazione di due categorie distinte:
+a) è caratterizzato con il passaggio dal virtuale all’attuale;
+b) manifesta i due modi di esistenza – paradigmatico e sintagmatico –
+dei contenuti valorizzati, modi che abbiamo distinto opponendo le
+assiologie alle ideologie.
+È così che la parte della sequenza studiata sinora si presenta come una
+successione di enunciati narrativi:
+EN = virtualizzazione dell’assiologia
+1
+(riconoscimento dell’universo figurativo di SQ II);
+EN = attualizzazione dell’assiologia
+2
+(presenza del “bel tempo”);
+EN = virtualizzazione dell’ideologia
+3
+(riconoscimento del programma “pesca” di SQ II);
+EN = attualizzazione dell’ideologia
+4
+(nostalgia della pesca).
+3. Questo schema narrativo tiene conto, tuttavia, soltanto dei contenuti
+euforici che vi si trovano manipolati. Ora, la nostra analisi ha rilevato che è
+in gioco, già dal momento del riconoscimento, la contraddizione tra i
+contenuti vitali e i contenuti mortali concomitanti. Da qui l’opposizione,
+presente nel segmento considerato, tra i caratteri
+“sognante” vs “triste”
+dei due amici, laddove il primo attualizza il programma ideologico che
+abbiamo designato come “sogno d’evasione” e il secondo fa da contrappeso
+insistendo sulla disforia diffusa.
+4. Se il sogno viene ripreso sotto forma di “bel ricordo” – che esprime al
+contempo l’attualizzazione del programma della pesca e la virtualizzazione
+di un /volere/ situato ancora nel passato – la replica di Sauvage “quando ci
+torneremo?” costituisce un nuovo programma narrativo. Infatti questa
+domanda retorica, che equivale a un’esclamazione, presentifica il /voler-
+fare/ e di conseguenza, mostrando l’impossibilità della sua realizzazione, lo
+attualizza. Si dirà dunque che, oltre l’attualizzazione del programma
+narrativo, il segmento studiato comporta, sul piano della modalizzazione
+dell’attante collettivo,
+a) l’asserzione del /voler-fare/ e
+b) l’asserzione del /non poter-fare/,
+che costituisce uno stato determinato del programma narrativo del
+racconto e, più precisamente, della componente di questo programma che
+consiste nell’acquisizione della competenza da parte del soggetto narrativo.
+4.2. Un poter-fare illusorio
+1. La seconda parte di SQ III è ritmata, come abbiamo già osservato, dalla
+ricorrenza del verbo “fermarsi” che introduce la discontinuità nella
+passeggiata. Queste due fermate sono enunciative e non somatiche, anche
+se è possibile ammettere che una fermata nel movimento accompagni
+queste rotture degli stati narrativi: si vede bene, comunque, che esse non
+sono comparabili con le altre due fermate, in tutto e per tutto effettive,
+presso i venditori di vino, dove soltanto la congiunzione con l’assenzio, e
+non la fermata, è pertinente.
+Tenendo conto della posizione in cui ci troviamo dal punto di vista dello
+svolgimento narrativo, e dei modelli di prevedibilità narrativa di cui
+disponiamo, possiamo aspettarci che i due momenti forti segnalati da queste
+due ultime fermate corrispondano all’acquisizione del poter-fare (la cui
+mancanza era stata notata nel segmento precedente) secondo due modi
+d’esistenza:
+Fermata 1 ≃ acquisizione del /poter-fare virtuale/
+Fermata 2 ≃ acquisizione del /poter-fare attualizzato/
+laddove il passaggio dal virtuale all’attuale è in correlazione con l’azione
+esercitata dal soggetto duale mediante due agenti esterni: l’“assenzio” e
+l’“aria tiepida”.
+2. Prima di proseguire, occorre registrare l’esistenza di una relazione
+paradigmatica tra SQ III e gli ultimi due segmenti – che rivelano il sistema di
+valori messo in opera – di SQ II. Infatti, se in SQ II le manifestazioni del piano
+cosmologico sono raggruppate in due stati (interpretati successivamente
+come “dolcezza” e “spettacolo”), SQ III, manipolando i due stati (“la prima
+bella giornata” e “c’era un dolce tepore”), opera su di loro una
+permutazione sintagmatica, di modo che:
+SQ II =/dolcezza/ → /bellezza/
+SQ III=/bellezza/ → /dolcezza/
+Ne risulta una notevole differenza nella lettura delle due sequenze: se nel
+primo caso l’insieme dei valori denominati “dolcezza” viene presentato
+come autentico e l’apparizione del bello “spettacolo” pone il problema
+dell’incoscienza e del non-sapere dei due amici, nel secondo caso, al
+contrario, l’installazione preliminare dei valori connotati con “bellezza”
+(che come sappiamo è pura apparenza) conferisce alla serie dei valori
+marcati con “dolcezza” lo statuto di inautenticità, di illusione.
+È evidente, in queste condizioni, che il /poter-fare/, dapprima virtuale e in
+seguito attualizzato, acquisito dal soggetto duale sarà sovradeterminato in
+anticipo e modalizzato come poter-fare illusorio.
+4.3. I trickster
+1. Abbiamo già notato che gli agenti esterni – o piuttosto gli attori
+figurativi la cui azione provoca le fermate significative – sono due:
+l’“assenzio” e l’“aria tiepida”. Considerandoli come soggetti discorsivi
+dotati di predicati, ci si accorge che le loro funzioni manifestate sono
+identiche:
+Senza soffermarsi sul procedimento già incontrato di capovolgimento
+della simmetria (automatismo nella scrittura di Maupassant), possiamo
+rilevare le seguenti definizioni dei predicati (Petit Robert):
+stordire = produrre uno stato di semi-incoscienza
+offuscare = modificare, alterandola, la chiarezza, la trasparenza
+ubriacare = stordire leggermente (dunque “ubriacare del tutto” = stordire)
+Ci si rende conto che l’azione degli attori figurativi, situata sul piano
+cognitivo, ha la funzione di modificare il meccanismo di conoscenza del
+soggetto e di rendere inefficace il suo fare interpretativo, creando lo spazio
+cognitivo dell’illusione. Si può dire allora, in prima battuta, che i due attori
+figurativi appaiono investiti di un certo ruolo attanziale definibile sul piano
+della veridizione, che viene designato in genere con il nome di trickster.
+2. Il trickster – importante ruolo attanziale, la cui tipologia è ancora da
+costruire – si definisce grosso modo come qualcuno che si fa passare per un
+altro: al di là delle funzioni narrative che esercita (e che sono, nel nostro
+caso, manifestate dai predicati discorsivi) si tratta di un personaggio che
+porta una maschera. In altri termini, l’“assenzio” e l’“aria tiepida” sono
+attori mascherati, ruoli tematici destinati a manifestare, a livello
+dell’apparire, l’essere di un altro attore per il quale si vogliono far passare.
+Facciamo l’esempio di un caso inverso: in un racconto indiano un gatto
+travestito con un rosario vuol farsi passare per monaco buddista. Ora, nel
+caso del racconto indiano sappiamo che si tratta in realtà di un gatto, benché
+porti la maschera del monaco; nel nostro caso è il monaco buddista (≃
+“assenzio” e “aria tiepida”) che è dato, e dobbiamo scoprire chi è il gatto
+per il quale i nostri trickster vogliono farsi passare.
+La conoscenza dei modelli narrativi viene ancora una volta in nostro
+soccorso: nella posizione narrativa in cui ci troviamo, l’attante-soggetto è
+caratterizzato da una mancanza, quella del /poter-fare/. Il trickster che
+appare in questo momento è colui il quale si fa passare per il destinante,
+capace di dotare il soggetto-destinatario, con un’operazione di
+trasferimento, della modalità del /poter-fare/. Lo statuto del trickster, quale
+si presenta nel nostro racconto, può dunque essere precisato:
+a) sul modo della menzogna (a + –e) si presenta come destinante (il
+monaco buddista);
+b) sul modo del segreto (–a + e) è un anti-destinante (il gatto);
+c) sul modo del fare (e non più dell’essere) è un soggetto trasformatore
+capace di presentare la menzogna come verità (ossia di “stordire”,
+“offuscare” e ubriacare”).
+4.4. Le due figure del trickster
+1. Avendo in tal modo definito il trickster come un sincretismo di ruoli
+attanziali, dobbiamo ancora tener conto del fatto che esso è un attore
+figurativo, ossia che è investito di un insieme di contenuti assiologici di
+carattere figurativo. Proviamo a precisarli.
+Se si esamina innanzitutto l’“assenzio”, ci si accorge che esso si presenta
+a prima vista, nella sua qualità di “acquavite” [fr.: eau-de-vie], come
+termine complesso che riunisce i valori dell’acqua e del sole; valori che
+abbiamo riconosciuto rappresentativi, sul piano figurativo, di due destinanti
+situati sulla deissi positiva: il destinante (Sole) e il non anti-destinante
+(Acqua). Tuttavia, pur se l’assenzio appare nella sua forma /liquida/, esso
+non è espresso nel testo, come ci si aspetterebbe, come dispensatore di
+/calore-vita/. Si tratta quindi di un termine complesso di cui uno dei poli
+(quello solare) resta occultato.
+Al contrario, l’“assenzio” – nel momento critico in cui appare nel testo,
+quello della fermata improvvisa di Morissot che annuncia l’acquisizione del
+/poter-fare/ – viene designato come un “verde”, ossia, sul piano solare, con
+il valore cromatico dell’/apparire/ e non con quello termico dell’/essere/. Il
+/verde/ si situa all’interno della categoria cromatica
+come un termine complesso che riunisce i valori del Sole e del Cielo. I
+colori presenti nella nostra sequenza sono tuttavia l’/azzurro/ e il /verde/,
+mentre il /rosso/, necessario per la costituzione del verde, è assente. È come
+se il trickster, incapace di riprodurre la figura solare, proceda in modo
+allusivo: i termini complessi di cui si riveste sottendono la presenza del
+destinante Sole, restando a dominante negativa e mostrando l’immagine
+vera e propria dell’anti-destinante Cielo. Solo l’animo “offuscato” dei due
+amici può accettarlo come destinante che virtualizza il /poter-fare/ del
+soggetto.
+2. Ciò spiega il fatto che, al momento dell’attualizzazione della modalità
+del /poter-fare/, il trickster si presenta sotto altre spoglie, quelle dell’“aria
+tiepida”. È possibile accettare l’“aria” come equivalente o iponimo del
+Cielo. Si è visto infatti che l’universo individuale del narratore si presenta
+come una deformazione dell’assiologia sociolettale grazie all’intervento
+della categoria connotativa /alto/ vs /basso/, di modo che:
+Il che obbliga il Sole-fuoco a esercitare la sua attività nello spazio
+sottostante e situa la deissi negativa – composta dai termini Mont-Valérien-
+terra e Cielo-aria – nello spazio sovrastante. Troveremo presto conferme di
+questo dispositivo.
+Si capisce allora che l’apparizione dell’aria (equivalente del Cielo) nello
+spazio sottostante riservato al Sole costituisce un primo elemento
+dell’inganno del trickster.
+A questa illusione spaziale se ne aggiunge un’altra: il Cielo-aria si
+qualifica mediante il “tepore”. Ora, il /tepore/ è nuovamente un termine
+composito, situato in qualche modo a metà strada tra il /calore/ e il /freddo/.
+Saremmo tentati di considerarlo come un termine complesso, se non
+fossimo obbligati a tenere conto della scena finale dell’immersione, in cui i
+due termini della categoria termica appaiono nella forma disgiunta e
+qualificano, non più l’Aria, ma l’Acqua: “L’acqua schizzò, ribollì, fremette,
+poi si calmò...”
+Dunque – e senza interpretare prematuramente la scena finale – è
+possibile proporre l’articolazione seguente della categoria termica:
+dove /tepore/ sarà interpretato come un termine neutro che corrisponde
+allo stato caratterizzato come né caldo né freddo.
+È come se l’aria, attore delegato del Cielo e omologabile con il termine
+/non-caldo/, cerchi di assumere, grazie al tepore, determinazioni
+complementari dell’Acqua /non-fredda/, per rappresentare, nel modo
+dell’illusione, un altro destinante convincente.
+4.5. Il non-destinante
+1. Questo saggio d’analisi tematica – che, se avessimo fatto riferimento a
+un corpus più ampio, avrebbe dovuto essere approfondito – conferma
+comunque una delle caratteristiche del trickster: la sua preferenza per
+investimenti articolati in termini complessi.
+D’altro canto, la presenza di due attori figurativi, che assumono ruoli
+attanziali comparabili al trickster, può essere spiegata se li si differenzia
+sulla base della natura del destinante per il quale ciascuno di essi cerca di
+farsi passare.
+Così, l’“assenzio” sembra il rappresentante simulatore del Sole: non
+soltanto implica, con la sua partecipazione ai due termini complessi, la
+presenza occulta del calore e del rossore del Sole, ma anche la falsa
+equivalenza a cui esso aspira viene manifestata in altro modo; ossia
+mediante l’evidente parallelismo di due costruzioni grammaticali alle quali
+abbiamo già accennato:
+“(cielo) pieno di luce”≃“(pancia) piena d’alcol”
+che riposa su una doppia vacuità iniziale, cosmologica e noologica.
+2. Solo questa omologazione autorizza, se si segue alla lettera lo
+svolgimento del testo, il passaggio da un’isotopia all’altra, facendo
+apparire, al posto dell’attore “assenzio”, un non-destinante cosmologico
+sotto la forma di “brezza”.
+A questo punto del testo, s’impone infatti un nuovo accostamento
+paradigmatico tra due frammenti frastici; il primo ha come soggetto il
+destinante e il secondo il suo contraddittorio:
+a) “il sole [...] riversava sulle schiene [...] quel bel caldo”
+b) “una brezza carezzevole stuzzicava [...] il viso.”
+Esaminiamo brevemente uno a uno i termini di questa comparazione.
+a) Si è già visto che il destinante Sole, agendo “sulle schiene” dei
+soggetti, spingendoli in avanti, gli imprime in senso figurativo una
+destinazione, ossia un senso della sua attività. Il non destinante,
+rappresentante della deissi opposta, appare, al contrario, di fronte e agisce
+sul “viso”. Due attanti contraddittori vedono così la propria attività inscritta,
+figurativamente, sull’asse spaziale
+/dietro/ vs /davanti/.
+b) I due predicati, comparabili grazie alla sensazione euforica che sono
+portati a produrre, si distinguono tuttavia per l’esito spaziale del loro fare:
+mentre il “caldo”, nel primo caso, è “riversato” e penetra all’interno del
+soggetto, la “brezza carezzevole” si presenta come un tocco situato
+all’esterno. Si tratta quindi di un’opposizione /interiorità/ vs /esteriorità/
+identificabile con la categoria
+/essere/ vs /apparire/.
+c) La “brezza carezzevole” infine, in quanto iponimo del Cielo-aria, porta
+la maschera della non violenza e di una superficiale tenerezza. In quanto
+non destinante camuffato ma presente, essa è in grado di attualizzare il
+/poter-fare/ del soggetto.
+3. È in fin dei conti l’“aria tiepida” che perfeziona la persuasione del
+soggetto (“finisce di ubriacare del tutto”), creando l’illusione di un /poter-
+fare/ suscettibile di passare all’esecuzione. Il non-destinante delegato – o il
+“falso destinante”, se si vuol conservare la vecchia terminologia, più
+motivata ma meno precisa –, la brezza, viene in tal modo circondato e
+soccorso dai trickster. Anche se il loro ruolo attanziale e le loro posizioni
+sintattiche ci sembrano sufficientemente chiare, non abbiamo esaurito
+l’esame della loro ambiguità semantica. L’ultima metamorfosi (non per
+questo la meno importante) del loro molteplice mascheramento figurativo è
+quella in apparenza più paradossale. Infatti, l’“assenzio” (un liquido) è la
+rappresentazione ingannevole del Sole, mentre il “tepore” dell’aria, che
+sembrerebbe a prima vista riferirsi al calore del Sole, è un’allusione alla non
+freddezza dell’acqua.
+Comunque sia, la ricerca illusoria che essi stanno per intraprendere
+porterà i due amici verso il Sole e verso l’Acqua.
+4.6. Il passaggio all’atto
+L’esistenza dell’attante duale obbliga l’enunciatore a utilizzare il
+procedimento dello “scambio di ruoli” (o “turni di parola”) per mantenere
+l’equilibrio tra i due attori. È così che, se la prima fermata “cognitiva” viene
+compiuta da Morissot, dopo tocca a Sauvage eseguire la propria: la fermata
+di quest’ultimo segnala un nuovo progresso narrativo, che fa seguito al
+/poter-fare/ illusorio acquisito di recente, e consiste nel passaggio all’atto.
+Se il racconto sviluppa al di sotto di un fare pragmatico una dimensione
+cognitiva, questo passaggio all’atto si scompone in un fare decisionale e in
+un fare esecutivo. Anche l’ultimo segmento della sequenza ricopre i due
+momenti del passaggio all’atto: la procedura di decisione comincia con il
+“se ci andassimo?” di Sauvage e si conclude con la separazione somatica
+dei due amici, che segnala a sua volta l’inizio dell’esecuzione.
+La decisione va presa in due e non può che assumere la forma del dialogo
+e concludersi con un accordo. Tuttavia, essendo scontato che i due amici
+“senza parole si intendevano perfettamente” e che sono animati dello stesso
+/poter-fare/, il dialogo si sviluppa in modo cataforico e serve più ad
+attualizzare il programma narrativo previsto che a ottenere il consenso
+contrattuale di Morissot: il “sogno d’evasione” si trasforma così in
+programma d’ausilio (la traversata degli avamposti).
+Il contratto, qui inscritto, non viene stilato tra i due amici, all’interno di
+un attante già istituito, ma tra il destinante ingannevole (che, nelle varie
+forme che abbiamo esaminato, lo suggerisce e infine lo impone) e il
+soggetto che è progressivamente installato nello spazio di un sapere e di un
+potere illusori. La proposta di Sauvage e il consenso di Morissot
+costituiscono insieme, dunque, l’accettazione di questo contratto.
+1 Implicito, nella versione italiana. (N.d.C.)
+2 Venivano detti pantouflard i membri della Guardia nazionale per la difesa di Parigi, reclutati
+senza addestramento militare fra la popolazione civile. (N.d.C.)
+3 Algirdas J. Greimas, “Un problème de sémiotique narrative: les objets de valeur”, in Langages,
+31, 1973 (trad. it. di Patrizia Magli e Maria Pia Pozzato, Un problema di semiotica narrativa: gli
+oggetti di valore, ora in Del senso 2, cit., pp. 53-72). (N.d.C.)
+4. L’universo figurativo dei valori
+4.1.Il riconoscimento dei valori
+4.2.Le trasfigurazioni del Sole
+4.3.La nebbia acquatica
+4.4.La nebbia celeste
+4.5.Il sangue solare
+4.6.L’apparire del Cielo
+4.7.Il quadrato semiotico
+5. La distribuzione attanziale
+SEQUENZA III
+La passeggiata
+1. Lo statuto e l’organizzazione della sequenza
+1.1.La delimitazione spazio-temporale
+1.2.La passeggiata
+1.3.Camminare e fermarsi
+2. L’avvenire dell’evento
+2.1.Temporalizzazione e aspettualizzazione
+2.2.La focalizzazione dell’attore-soggetto
+2.3.L’innesco della narrazione
+3. La ricostituzione dell’attante
+3.1.Il riconoscimento
+3.2.La rimpatriata
+3.3.La virtualizzazione e l’attualizzazione dei contenuti
+3.4.L’instaurazione dell’illusione
+4. La competenza del soggetto
+4.1.L’attualizzazione del voler-fare
+4.2.Un poter-fare illusorio
+4.3.I trickster
+4.4.Le due figure del trickster
+4.5.Il non-destinante
+4.6.Il passaggio all’atto

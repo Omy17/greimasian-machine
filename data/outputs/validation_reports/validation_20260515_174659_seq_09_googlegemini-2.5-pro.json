@@ -1,0 +1,18 @@
+{
+  "punteggio_aderenza_metodologica": 8,
+  "giustificazione_aderenza": "Il testo da valutare utilizza correttamente molti concetti e terminologie di Greimas, come 'programma narrativo', 'anti-soggetto', 'performanza', e 'valore d'uso'. Tuttavia, manca di alcune specificità metodologiche presenti nel testo di riferimento, come la distinzione tra sapere narrativo e sapere tematico.",
+  "punteggio_correttezza_concettuale": 7,
+  "giustificazione_correttezza": "Le conclusioni del testo da valutare sono in gran parte coerenti con quelle del testo di riferimento, in particolare riguardo alla dinamica tra soggetto e anti-soggetto e alla natura del rifiuto. Tuttavia, alcune sfumature concettuali, come la complessità del 'fare persuasivo', sono semplificate.",
+  "punteggio_copertura": 6,
+  "giustificazione_copertura": "Il testo da valutare copre molti punti chiave, come la struttura di scambio e il dilemma morale, ma omette dettagli importanti sull'articolazione interna della sequenza e sulla complessità dei programmi narrativi impliciti.",
+  "punteggio_originalita": 5,
+  "giustificazione_originalita": "Il testo da valutare è una rielaborazione intelligente del testo di riferimento, ma tende a parafrasare piuttosto che offrire un'interpretazione originale. Alcuni passaggi sembrano derivare direttamente dal testo di riferimento senza un'analisi approfondita.",
+  "giudizio_complessivo": "Il testo da valutare dimostra una buona comprensione dei concetti greimasiani e riesce a riprodurre molti degli elementi chiave dell'analisi originale. Tuttavia, manca di alcune specificità metodologiche e concettuali presenti nel testo di riferimento, e la sua copertura dei punti chiave è incompleta. Inoltre, mentre il testo è ben strutturato, tende a parafrasare piuttosto che offrire un'interpretazione originale e approfondita.",
+  "punteggio_finale": 7,
+  "_meta": {
+    "source_file": "20260515_174659_seq_09_googlegemini-2.5-pro.json",
+    "sequence_id": "seq_09",
+    "model_evaluated": "google/gemini-2.5-pro",
+    "judge_model": "openai/gpt-4o"
+  }
+}

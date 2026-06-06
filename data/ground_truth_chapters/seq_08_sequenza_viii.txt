@@ -1,0 +1,533 @@
+SEQUENZA VIII
+LA REINTERPRETAZIONE
+Ma qui si tratta d’altro. Ascoltatemi e non agitatevi.
+Per me, voi siete due spie mandate qui a sorvegliarmi. Vi prendo e vi fucilo. Facevate finta di
+pescare per meglio dissimulare i vostri scopi. Siete caduti nelle mie mani, peggio per voi; è la
+guerra.
+(Ma…)
+1. Organizzazione testuale
+1.1. Delimitazione della sequenza
+È facile ritagliare la sequenza tutta interna al soliloquio di S che
+2
+intendiamo isolare.
+Per disgiunzioni logiche: al “ma” dell’inizio della sequenza fa eco un
+nuovo “ma” che inaugura la sequenza successiva (SQ IX).
+Per disgiunzioni topiche: due tipi di contenuto si oppongono formalmente
+per mezzo della categoria
+/altro/ vs /stesso/
+manifestata in “si tratta d’altro”.
+Questa disgiunzione categoriale permette la seguente distribuzione dei
+contenuti, con i lessemi manifestati o impliciti:
+Nota: Malgrado la disgiunzione forte, annunciata dal “ma” iniziale, una permanenza
+fondamentale dei contenuti isotopi è segnalata dall’assenza di disgiunzione grafica: “lo stesso”
+e “l’altro” sono racchiusi all’interno di un unico paragrafo.
+1.2. Articolazione interna
+Il soliloquio dell’ufficiale prussiano non è caratterizzato da stacchi
+visibili ma può essere diviso in due segmenti senza problemi, poiché nel
+continuum discorsivo viene installato un discorso autonomo. Al contrario di
+quanto succede nella sequenza precedente, in cui l’ufficiale tiene la parola
+facendo la domanda e dando lui stesso la risposta, qui la sua performanza
+discorsiva si presenta come
+a) l’annuncio e l’installazione del discorso (“ascoltatemi...”);
+b) il discorso stesso, incassato, che segue.
+2. Installazione del discorso
+2.1. Procedure retoriche
+Sul piano retorico abbiamo a che fare con un’organizzazione discorsiva
+che consiste nell’innestare un nuovo piano discorsivo sulla base del
+discorso diretto già installato nel racconto: un discorso nel discorso.
+Distinguendo i due discorsi con una maiuscola e una minuscola, possiamo
+trascriverli, includendoli nel racconto, come segue
+R ∈ D ∈ d
+Dal punto di vista linguistico si sa che l’installazione del discorso
+all’interno del racconto non è altro che la proiezione sul discorso enunciato
+di un discorso che rappresenta il simulacro dell’enunciazione. Nel nostro
+caso, si tratta molto semplicemente di una doppia proiezione:
+l’enunciazione enunciata, inscritta nel primo discorso, diviene a sua volta il
+luogo di proiezione di una nuova enunciazione simulata. Se si tiene conto
+del fatto che in quanto discorso-enunciato, il testo è il prodotto di un
+débrayage oggettivante, creatore di una distanza tra l’enunciatore e
+l’enunciato, si vede che l’integrazione di un doppio simulacro
+d’enunciazione funziona come un embrayage parziale che cerca di
+produrre, sullo sfondo oggettivato e distante, un effetto di “vissuto” e di
+“reale” più forte, anche se solo illusorio.
+2.2. Preparativi d’enunciazione
+Tali effetti di senso secondari, ottenuti attraverso l’impiego di
+procedimenti retorici, s’inscrivono nel progetto di disgiunzione topica che
+abbiamo già indicato: a una specie di facezia mondana che l’ha preceduta,
+deve seguire “qualcos’altro”, che sarà appunto enunciato con l’aiuto del
+discorso di secondo grado, destinato a essere più “vero” e più “serio”.
+Proprio come il cantastorie del villaggio che, prima di cominciare il suo
+racconto, prepara l’uditorio suggerendogli l’isotopia veridittiva in base alla
+quale occorrerà ascoltarlo, il dire dell’ufficiale è annunciato dall’instaurarsi
+di un nuovo asse cognitivo tra il locutore e l’allocutario:
+“Ascoltatemi e non agitatevi.”
+L’asse cognitivo è caratterizzato in primo luogo dal modo imperativo
+utilizzato per la sua installazione: alle relazioni mondane di parità simulata
+seguono immediate le relazioni reali di dominio. I due enunciati che,
+coordinati uno rispetto all’altro, annunciano il nuovo modo della
+comunicazione coincidono con due forme d’ingiunzione:
+Così formulate, le due ingiunzioni inquadrano il messaggio che segue
+l’annuncio. La prescrizione verte sull’aspetto incoativo e mira a
+determinare in anticipo una buona ricezione; l’interdizione verte
+sull’aspetto terminativo del messaggio e cerca di circoscriverne gli effetti.
+a) La prescrizione ha per oggetto l’istanza di ricezione del messaggio;
+trattandosi di un volere che è trasmesso prima dell’oggetto del messaggio,
+permette di rendere conto del tipo di comunicazione che si cerca di stabilire
+e delle reazioni che si prevedono da parte del ricevente. Come si vede, non
+si tratta di esercitare un fare persuasivo al fine di convincere il ricevente, e
+non ci si aspetta nemmeno un fare interpretativo che permetta al ricevente
+di spiegarsi il significato del messaggio o la forma della veridizione che
+contiene. Per l’emittente conta solamente una buona ricezione, che può
+essere garantita dal partecipare attivo del ricevente (che però l’emittente
+non è in grado di prescrivere), secondo l’opposizione lessematica:
+Il fare verbale che l’ufficiale si propone di esercitare è, di conseguenza,
+un fare informativo non modalizzato.
+b) L’interdizione verte invece, come si diceva, sulle reazioni del ricevente
+previste dall’emittente: data la capacità che il suo discorso potrebbe avere di
+“agitare” l’ufficiale ordina di impedire eventuali deviazioni di un fare
+ricettivo “normale”, normale perché prescritto.
+Fa qui comparsa il malinteso che reggerà le “relazioni umane” tra i
+protagonisti, fino alla fine della storia: l’ufficiale, il cui modo di
+comunicazione è ingiuntivo, continua a esercitare il comando laddove gli
+viene meno il /poter-fare/. Infatti, se pure possiede un potere rispetto alla
+dimensione somatica (è in grado di ridurre gli avversari allo stato di
+/dominati/), il suo potere è inefficace rispetto alla dimensione cognitiva,
+poiché non può obbligare le persone né ad “ascoltarlo” né a “non agitarsi”.
+Comportamento spiccio o terrifico, poco importa: tali manifestazioni di un
+potere incapace di passare all’atto apriranno la breccia attraverso cui potrà
+fare comparsa un anti-potere efficace.
+3. Il discorso al secondo grado
+3.1. La contro-lettura
+L’espressione “secondo me”, posta all’inizio di questo discorso al
+secondo grado, costituisce l’annuncio del modo veridittivo in cui il discorso
+si svolge e si presenta come sua delimitazione cognitiva.
+a) In primo luogo l’espressione si presenta come disgiuntiva: dopo avere
+trattato i due amici da “pescatori”, cioè secondo il loro stesso punto di vista,
+il prussiano oppone ed espone il suo punto di vista, del tutto diverso.
+b) Questo punto di vista è quello di S (l’ufficiale prussiano) sul PN di S
+2 1
+(due amici): appare così una contro-lettura della catena evenemenziale che
+costituisce questo PN.
+c) Vertendo la “vista” di S su S e sul suo fare, l’espressione denota un
+2 1
+certo sapere che S possiede, e questo sapere è un sapere transitivo.
+2
+d) L’espressione, così come si presenta, non permette tuttavia di
+pronunciarsi sulla natura modalizzata di questo sapere: “secondo me” non è
+l’espressione né della supposizione (“penso”) né della certezza (“sono
+sicuro”). Si tratta, curiosamente, di un sapere “distaccato”, “non
+impegnato”, che si espone in maniera neutra, ovvero un sapere le cui
+modalità sarebbero sospese.
+e) Questo sapere sospensivo comunicato agli interlocutori costituisce
+l’isotopia veridittiva sulla quale si svolgerà il discorso di S .
+2
+3.2. La lettura del PN di S
+1
+S produce quindi – e comunica a S – la propria versione del programma
+2 1
+di S . Benché comporti anacronizzazioni discorsive, questo programma è
+1
+presentato in maniera chiara e succinta.
+a) “… mandati qui per sorvegliarmi” si presenta come il segmento del PN
+che rientra nel campo della presupposizione logica e può essere ricostruito a
+partire dal presente narrativo concomitante con il tempo del discorso. Esso
+comporta un certo numero di enunciati narrativi facilmente riconoscibili, tra
+cui:
+– Invio (De → Do: S )
+1
+– Spostamento (S → S )
+1 1
+– PN da realizzare (S ∩ O: sapere su S )
+1 2
+b) “Siete due spie” non corrisponde a un vero e proprio enunciato
+narrativo, ma si presenta come l’interpretazione del ruolo attanziale di S in
+1
+una posizione narrativa data, cioè a un momento preciso della realizzazione
+del PN. I principali costituenti di questo ruolo attanziale sono due.
+1) Lo statuto veridittivo di S : dire “siete due spie” equivale a negare
+1
+“siete due pescatori”, ossia, siete ciò che non apparite (e + –a).
+2) Lo statuto assiologico di S : agendo nello spazio di S secondo il modo
+1 2
+del segreto, S non è conforme alla deissi positiva bensì alla deissi negativa;
+1
+dallo statuto di “eroe” passa a quello di “traditore”.
+3.3. L’interpretazione e il canone
+Seguendo lo svolgimento discorsivo di questo PN, si registra lo stabilirsi
+di una frattura tra le due frasi: alla prima già esaminata, il cui soggetto
+sintattico è “voi”, ne segue una seconda che ha “io” per soggetto. Tale
+frattura discorsiva riflette, d’altronde, quella narrativa: nella misura in cui
+qualsiasi racconto polemico è costituito da due PN (quello di S e quello di
+1
+S ), è possibile registrare un’omologazione tra i due livelli, discorsivo e
+2
+narrativo:
+laddove la frattura rappresenta il punto forte del racconto, lo scontro dei
+due antagonisti.
+In realtà, la frase “vi prendo e vi fucilo” ricopre i due sintagmi narrativi
+maggiori:
+– la prova principale (conseguenza della vittoria di S );
+2
+– la prova glorificante (la cui conseguenza è la punizione del traditore).
+Tutto ciò va bene, ma non corrisponde allo statuto interpretativo, risultato
+della contro-lettura del PN di S effettuata da S , risultato che avevamo in un
+1 2
+primo momento attribuito a questo segmento discorsivo. Infatti, il fare
+interpretativo, nella misura in cui è transitivo, si presume verta sulla parte
+realizzata del PN (ed eventualmente sugli enunciati narrativi presupposti da
+questa parte). Talvolta può comportare prolungamenti (“vi fucilo”) che
+segnalano le ripercussioni ulteriori del fare cognitivo sul fare pragmatico
+dell’interprete. Di conseguenza, se la frase in esame fosse la descrizione di
+questo fare interpretativo, essa avrebbe dovuto presentarsi nella forma
+seguente:
+“vi ho preso e vi fucilerò.”
+La frattura, in questo caso, si situerebbe tra “prendere” e “fucilare”, tra la
+parte realizzata del PN e la parte soltanto attualizzata.
+Il dispositivo dei tempi verbali qui adottato non è appropriato alla
+descrizione del fare interpretativo; segnala qualcos’altro: serve alla
+presentazione di un programma narrativo canonico, indipendente dalla
+successione “reale” degli eventi e dall’interpretazione che il soggetto
+cognitivo ha potuto darne da sé. Tradotto in un linguaggio esplicito, il
+messaggio che l’ufficiale cerca di trasmettere ai due prigionieri comporta,
+come connotazione veridittiva, all’incirca questo: non è che io creda
+necessariamente in ciò che dico, ma in linea di massima è così che vanno le
+cose, in guerra.
+Il PN canonico esposto da S non è altro che un “verosimile
+2
+socioculturale”, un’organizzazione in abstracto, prevedibile e attesa perché
+convenzionale, cioè stereotipata sull’asse del sintagma, dei comportamenti
+umani e degli eventi. Questo schema sintagmatico canonico, eretto a
+modello di comportamento, può pertanto essere applicato a un gran numero
+di situazioni concrete. Ne riparleremo.
+3.4. Ritorno all’interpretazione
+Il resto della sequenza sembra, a prima vista, un’espansione e una
+ripresa, volta per volta, di ognuno degli elementi già presenti nella prima
+parte. Così:
+(1) “Siete due spie” ↔ “Facevate finta di pescare per meglio dissimulare i vostri
+scopi”
+(2) “Vi prendo” ↔ “Siete caduti nelle mie mani...”
+(3) “... vi fucilo...” ↔ “... peggio per voi (è la guerra)”
+Su questo sfondo di somiglianze, risaltano tuttavia un certo numero di
+differenze significative. Il loro esame ci permetterà di comprendere il ruolo
+della ridondanza, figura in Maupassant insolita.
+3.5. Ruoli e percorsi tematici
+Confrontando innanzitutto le due frasi di (1), tra le quali abbiamo
+postulato una certa equivalenza, si ha l’impressione che si tratti solamente
+di due modi grammaticali – nominale e verbale – di rappresentare gli stessi
+contenuti: nel primo caso, S (visto e interpretato da S ) è definito attraverso
+1 2
+gli elementi costitutivi, a un dato momento del PN, del suo ruolo attanziale;
+nel secondo caso lo stesso S è invece presentato mentre esercita il suo fare
+1
+in base al ruolo attanziale che ricopre. Nel primo caso, S è investito solo di
+1
+un ruolo tematico (quello di “spia”), mentre nella seconda frase si comporta
+da “spia”, compiendo il percorso tematico che corrisponde al suo ruolo.
+Tuttavia, essendo l’espansione predicativa di un ruolo, la seconda frase ci
+dice molto di più sul comportamento di una spia. Il primo compito della
+spia è quello di “dissimulare i (suoi) scopi”, cioè di non mostrarsi spia: il
+suo statuto veridittivo, valido per qualsiasi spettatore, è quello del segreto /e
++ –a/. È spia ma non appare tale. Tradotto in termini di azioni il suo fare
+veridittivo consiste nel camuffare il suo fare programmatico, nel far passare
+il suo statuto da /e + a/ a quello di /e + –a/.
+È qui che interviene la maschera (il rosario che il gatto porta al collo per
+farsi passare per un monaco buddista).1 I due amici, nel ruolo di spie,
+avrebbero potuto indossare, per esempio, uniformi prussiane. Non lo hanno
+fatto, preferendo camuffare non il loro essere ma il loro fare: invece di
+indossare una maschera sul viso, avrebbero sovrapposto il percorso
+tematico “pesca”, il cui statuto veridittivo è /a + –e/, al percorso
+“spionaggio”.
+In qualità di enunciatari sappiamo, e l’enunciatore lo ha ribadito, che ciò
+è falso: i due amici sono veri pescatori. Di conseguenza ciò che cerchiamo
+di stabilire è il simulacro del comportamento canonico della spia. Vediamo
+così che per dissimulare il suo statuto noumenico di spia, essa deve darsi un
+comportamento suppletivo, deve costruirsi lo statuto fenomenico di
+“pescatore”; in altre parole, deve esercitare un fare persuasivo rivolto a un
+eventuale S .
+2
+Questo S esiste realmente: è incarnato dall’ufficiale prussiano e dai suoi
+2
+soldati che, osservando il fare di S (compimento del PN “pesca”), sono
+1
+chiamati a esercitare il loro fare interpretativo. La questione che si pone S
+2
+è di sapere se il fare fenomenico che può osservare corrisponde a una
+“pesca vera” (/e + a/) o a un “simulacro di pesca” (/–e + a/). La questione
+che ci poniamo invece noi è quella di sapere in che modo S può e deve
+2
+esercitare il suo fare interpretativo per arrivare alla conclusione che si tratta
+di una pesca “menzognera” che dissimula uno spionaggio segreto.
+3.6. La rivelazione del segreto
+Ora, considerato che il fare persuasivo che si presume eserciti S è un PN
+1
+che mira a dissimulare un altro PN, si può prevedere in anticipo che questo
+PN può avere come risultato sia un successo sia un fallimento. Nel primo
+caso, il successo del fare persuasivo di S è allo stesso tempo il fallimento
+1
+del fare interpretativo di S . Nel secondo caso, il fallimento del fare
+2
+persuasivo può essere attribuito sia alle “imperfezioni” della persuasione
+che all’“eccellenza” dell’interpretazione. Le “imperfezioni”, a loro volta,
+possono essere volute o no. Lo sono, per esempio, nella produzione del
+discorso parabolico di Gesù, dove la copertura figurativa del livello
+anagogico, lasciando trasparire solo alcuni elementi dell’isotopia
+soggiacente, sembra installata al fine di permettere la selezione degli
+enunciatari, di “coloro i quali vogliono intendere”. Lo sono anche, in
+maniera diversa, nel discorso lacaniano, garantendo (si dice) l’assunzione
+del messaggio vero.
+Negli altri casi, la rivelazione del segreto sembra dovuta, in maniera forse
+ineguale, a volte all’insufficienza del saper-fare dell’enunciatore a volte
+all’eccellenza del saper-fare dell’enunciatario. Se si esamina, per esempio,
+il discorso narrativo canonico nelle sue manifestazioni orali, non si può fare
+a meno di riconoscervi l’importanza di “marche” che sono installate solo in
+vista della loro rivelazione: marchi alla nascita, segni inviati dal cielo, ferite
+ricevute in combattimento, lingue di draghi uccisi ecc., disseminati nel
+racconto, non compaiono che per servire da rivelatori di verità nascoste. In
+altre parole – ed è la regola del gioco – la dimensione anagogica è inserita
+nel racconto solo per essere distrutta, il segreto è tale solo se alla fine è
+svelato, in modo tale che l’operazione di decifrazione è presente, a più o
+meno grande distanza nello stesso testo, costituendo spesso il procedimento
+della cosiddetta “molla drammatica”.
+Questo vuol dire che il segreto è leggibile e interpretabile, proprio come
+le polisemie degli elementi testuali, solo in un contesto più ampio. Così
+dicendo, non facciamo altro che assimilare la rivelazione del segreto alle
+procedure generali della soluzione delle ambiguità testuali e integrarla nella
+problematica della lettura dei testi plurisotopici: affinché un’altra isotopia
+possa essere riconosciuta e affermata non è sufficiente che sia registrato un
+certo numero di termini bivalenti leggibili sulle due isotopie; è bene invece
+che almeno un termine, non-necessario nell’isotopia di origine, sia
+compatibile solo con gli elementi della nuova isotopia disseminati lungo il
+testo. La marca costituisce, nel discorso narrativo, proprio questa
+incrinatura, questo vuoto a partire dal quale l’isotopia del segreto diviene
+leggibile.
+È in questa prospettiva, cercando di simulare il fare interpretativo di S
+2
+che a partire dall’affermazione “siete due spie”, abbiamo tentato di
+intraprendere la ricerca delle marche del segreto attraverso una retro-lettura
+del PN di S , per vedere se c’erano in questo programma, se non delle
+1
+incrinature, almeno dei segmenti ambigui che permettevano la sua doppia
+lettura come “pesca” e come “spionaggio”. Dobbiamo confessare che le
+prime letture superficiali del racconto ci avevano dato l’impressione che
+un’interpretazione bivalente potesse essere applicata a SQ IV, intitolata “La
+ricerca”: lo sforzo persuasivo esercitato dai due amici che cercano di
+avanzare “con prudenza” poteva, infatti, sembrare sospetto all’osservatore e
+prestarsi alla lettura “spionaggio”. Tuttavia le parole dell’ufficiale, dopo un
+esame più attento, smentiscono questa interpretazione: l’ufficiale
+rimprovera loro di “aver fatto finta di pescare”; li ha quindi osservati
+durante la pesca, non durante il loro spostamento verso il fiume.
+La rilettura del testo, nella prospettiva di una ricerca dei segni che
+possono essere interpretati come manifestazioni involontarie del segreto ci
+ha convinto del contrario. Lungi dall’avere sospetti di “tradimento”,
+l’ufficiale sembra, al contrario, essere sicuro della loro innocenza, del fatto
+che i due sono veri pescatori.
+a) Così, quando parla della dissimulazione degli “scopi” dello
+spionaggio, ammette implicitamente che il PN /segreto/ non ha avuto un
+inizio di esecuzione.
+b) Allo stesso modo, quando dice loro che “nessuno lo saprà mai”,
+garantisce il ritorno “tranquillo” da pescatori e non quello di spie, che
+normalmente sono chiamate a rendere conto della loro missione.
+c) Infine, quando dopo l’immersione dei due corpi l’ufficiale pronuncia a
+mezza voce che “adesso tocca ai pesci”, inscrive la morte dei due amici
+nell’isotopia della “pesca”.
+È inutile moltiplicare le prove, a rischio di predicare l’evidenza; infatti,
+non solo l’esistenza dell’isotopia segreta non è mai riconosciuta, ma il
+sapere di S consiste nell’ammettere l’isotopia “pesca” come vera (/e + a/) e
+2
+non come menzognera (/–e + a/).
+Rimane nondimeno la domanda: su cosa si basa l’“interpretazione” di S ,
+2
+secondo la quale un fare segreto è soggiacente a un fare apparente, dato che
+l’interpretazione non è il risultato del suo fare interpretativo? Dobbiamo per
+forza riferirci a un altro contesto più “astratto”: non quello in cui è inscritto
+il PN di S , ma quello dell’ideologia di S , basata sul sistema di valori
+1 2
+rappresentato dalla deissi negativa, che si manifesta attraverso un insieme di
+comportamenti e di PN canonici che costituiscono il “verosimile narrativo”
+di tale ideologia. Lo abbiamo già incontrato nella formula: “vi prendo e vi
+fucilo”. In altre parole, la conoscenza e la decifrazione del segreto possono
+provenire, in maniera generale, da due fonti principali: o
+dall’interpretazione del soggetto (e del suo PN), messi in posizione di
+oggetti osservabili, oppure dal nostro sapere sul mondo così come è
+organizzato, per noi, in un insieme di strutture ideologiche.
+3.7. Il trasferimento delle responsabilità
+Se il segmento frastico “facevate finta” è un’espansione della
+constatazione “siete due spie” (che ha luogo nel percorso immaginario di S
+1
+nell’isotopia del segreto svelato), le frasi che seguono, (2) e (3), sviluppano
+a loro volta gli elementi del PN canonico già posto da S :
+2
+Questa espansione – o ricorrenza – è accompagnata tuttavia da un certo
+numero di conversioni frastiche.
+a) Il soggetto “io”2 della prima frase viene sostituito da “voi” nella
+seconda frase.
+b) Il predicato “prendere” è sostituito da “farsi prendere”.
+Ci si avvede che la prima frase manifesta direttamente l’enunciato
+narrativo della “cattura”, il cui soggetto è S ; mentre nella seconda il
+2
+soggetto “voi” (implicito), installato al suo posto sul piano discorsivo, ha la
+funzione di prendere in carico il “catturare”, trasferendo a S la
+1
+responsabilità del fare che riguarda il PN di S : non è il prussiano che “ha
+2
+preso” i due amici, essi sono “caduti” da soli nelle sue mani.
+Questo trasferimento di responsabilità diventa definitivo con il segmento
+successivo: “peggio per voi”, che vuol dire (parafrasando l’espressione del
+Petit Robert) “peccato, ma è colpa vostra”. Così, la morte che sarà inflitta a
+S è in qualche modo “meritata” (“è colpa vostra”), mentre l’esecutore S
+1 2
+(“vi fucilo”) non solo è “innocente”, ma persino gli spiace di doverlo fare
+(“peccato”). La reinterpretazione che l’ufficiale dà del PN canonico da lui
+formulato (“Vi prendo e vi fucilo”), applicata hic et nunc al PN, consiste nel:
+a) rendere colpevole S
+1
+b) negare qualsiasi responsabilità di S ,
+2
+divenendo in questo modo l’espressione di una “giustizia” impersonale.
+Solo con l’ultima parola della sequenza appare il vero e proprio
+responsabile: “è la guerra”. Infatti, è nella sua qualità di delegato che
+dispone solo di un mandato imperativo che il prussiano può dirsi e dire agli
+altri la sua “innocenza”: la Guerra è, si è visto, il suo destinante sociale. Ma
+la Guerra è, a dire il vero, ben più di questo: è la manifestazione sociale
+dell’anti-destinante universale che, figurativamente incarnato nel Mont-
+Valérien, esibisce il suo potere seminando morte. È questo anti-destinante
+che prescrive i PN canonici validi per tutti, e la non-conformità del PN di S
+1
+rispetto al canone diventa la “colpa” punibile dalla giustizia trascendente.
+3.8. L’ideologia del dominio
+Quest’ultimo riferimento alla legge suprema completa l’interpretazione
+che abbiamo dato dell’espressione “peggio per voi”. Questa indica la
+“colpa” di S e spiega allo stesso tempo in che cosa consista: essere caduti
+1
+nelle mani del nemico, ritrovarsi dalla parte dei vinti. Infatti, vae victis è la
+legge morale che connota quest’ideologia. Si tratta, come si vede,
+dell’ideologia del potere – così come è stata riconosciuta dai due amici
+durante le loro discussioni in SQ VI (cfr. “mai si sarebbe stati liberi”) – in cui
+i rapporti di forza sono connotati sul piano morale come
+Una tale connotazione non fa che valorizzare (a cose fatte) i due “stati”
+del potere, non è essa a fondarne i valori. Se S riconosce la Guerra come il
+2
+suo destinante non è perché vi vede un valore in sé, ma perché ammette che
+la Guerra è. “È la guerra” non vuol dire altro: la principale virtù del Potere
+è quella di esistere. La perversione assiologica consiste proprio nell’istituire
+l’esistenza come valore: non solo nel confondere l’essere con il voler-
+essere, ma nel sostituire l’uno all’altro, costituendo un’ideologia basata sui
+non-valori. Le ideologie cosiddette scientifiche si basano sullo stesso
+malinteso. Solo la scienza in cammino è un valore: per esempio, dimostrare
+che la terra è rotonda è un fare valorizzato, mentre riconoscere che è vero –
+la terra è rotonda – non lo è.
+Per circoscrivere ulteriormente questo concetto, si può cercare di mettere
+in evidenza i tratti che distinguono un’ideologia del potere da un’ideologia
+della presa di potere. Il marxismo militante, per esempio, si basa sulla
+negazione dell’/essere/ e sull’asserzione di un /dover-essere/, cioè di una
+forma di /voler-essere/ collettivo. Tuttavia, nella misura in cui si considera
+una teoria scientifica, il marxismo formula il PN basato sul /dover-essere/
+come un algoritmo necessario, come un programma narrativo canonico: ciò
+che guadagna in “verità” lo perde in “valore”. Si comprende quindi
+l’ambiguità del discorso staliniano che, sebbene si presenti come un
+discorso valorizzato, si trasforma in modo impercettibile in discorso
+“reale”, quello che dice come in realtà le cose stanno.
+Dopo questa digressione, possiamo cercare di rispondere alla domanda
+sollevata dalla lettura attenta della nostra sequenza: ci si chiede infatti che
+senso abbia la giustificazione dei suoi stessi atti da parte dell’ufficiale
+prussiano. A prima vista la cosa sembra semplice: come vedremo nel
+seguito del racconto, l’ufficiale ha bisogno della “parola d’ordine” per
+penetrare all’interno delle linee francesi, parola d’ordine che cerca di
+acquisire, trascurando l’esercizio della forza pura (la tortura, per esempio),
+attraverso un certo /saper-fare/, il quale ha a che vedere con l’astuzia, ma è
+comunque basato su minacce di morte. Quindi, il discorso giustificativo non
+sarebbe che un semplice “vezzo” dell’uomo di mondo (la conversazione sul
+buon andamento della pesca), quale ha cercato di apparire agli occhi dei due
+francesi? O piuttosto si tratta della spiegazione della sua verità (cfr.
+“secondo me”), verità che è di un ordine gerarchicamente superiore alla
+situazione contingente e che egli espone come un sapere riflessivo, come
+sapere su sé stesso: la Guerra è vera (è) e i comportamenti che ne derivano
+sono validi perché fondati nella verità.
+3.9. L’enunciazione informativa
+In questo modo, siamo indotti a distinguere due forme differenti del fare
+interpretativo: una potrebbe essere chiamata induttiva e l’altra deduttiva.
+Abbiamo visto che questo fare si prefigge di riconoscere e determinare, a
+partire dal livello fenomenico di un dato apparire, lo statuto del livello
+noumenico dell’essere. Il livello anagogico, diverso da quello delle
+apparenze, può essere riconosciuto o per mezzo di procedure generalizzanti
+(che estendono l’indagine all’insieme del contesto) o per mezzo di
+procedure universalizzanti (che cercano di identificare il fenomeno dato
+rimandandolo all’insieme delle conoscenze sul mondo). Il primo tipo di fare
+si basa sulla dimensione pragmatica del discorso, il secondo sulla
+dimensione cognitiva.
+Una volta posta questa distinzione, ci si può chiedere se l’interpretazione
+di S , che deduce il PN “spionaggio” di S a partire dalle “leggi di guerra”,
+2 1
+non possieda uno statuto formale comparabile a quello di qualsiasi
+ragionamento deduttivo: i teoremi che si possono dedurre da un’assiomatica
+data sono corretti. Non sono però veri nel senso stretto del termine, dato
+che il loro valore di verità è del tutto dipendente dalla verità degli enunciati
+costitutivi dell’assiomatica.
+Così, l’interpretazione di S sarebbe corretta ma non necessariamente
+2
+vera, ed è attraverso un abuso lessicale che si potrebbe distinguere, nell’uso
+quotidiano, la verità oggettiva dalla verità soggettiva, dicendo, con
+l’ufficiale prussiano, che i due amici sono soggettivamente pescatori ma
+oggettivamente spie.
+Tornando indietro, bisogna insistere a ricordare che queste analisi vertono
+unicamente su ciò che succede all’interno del discorso al secondo grado,
+rivolto dall’ufficiale ai due amici; discorso, considerato come enunciato,
+che comporta due parti, in cui l’esposizione dei risultati del fare
+interpretativo precede l’esposizione del modo dell’interpretazione deduttiva
+sulla quale si basano i suoi risultati. L’ufficiale rende conto in qualche modo
+del suo sapere e di come lo ha acquisito, pur tenendo a precisare che i fatti e
+la loro interpretazione di cui parla non riguardano che lui, non sono validi
+che per lui (cfr. “secondo me”).
+Ciò non manca a sua volta di conferire un carattere particolare
+all’enunciazione che fa da cornice al discorso. Si può anche dire che lo
+statuto dell’enunciazione appare in contraddizione con lo statuto
+dell’enunciato: il funzionamento “normale” del discorso tende infatti a
+collegare il fare interpretativo al fare persuasivo, e l’interpretazione deve
+fondare un saper-vero perché questo possa essere comunicato e accettato
+come tale dal destinatario. L’interpretazione si integra così nella
+persuasione come sintagma rilevante del suo programma.
+Niente del genere, nel nostro caso: il destinante del discorso non cerca di
+persuadere il suo destinatario; la sola cosa che esige da lui è la ricezione
+attiva (“ascoltatemi”) e non disturbata (“non agitatevi”). Il meccanismo
+interpretativo messo in atto non è quindi utilizzato – l’ufficiale non desidera
+convincere i due amici dell’universalità delle leggi della guerra – e
+l’assenza del fare persuasivo equivale qui – a causa della sospensione della
+modalizzazione dell’enunciazione (del “far-credere” dell’enunciatore) –
+all’assenza del contratto di veridizione. Si dirà che si tratta
+dell’enunciazione informativa, che è un semplice “mettere a parte” per
+mezzo del quale il destinatario non viene coinvolto.
+Le ragioni di un tale fare informativo vengono in luce esaminando le
+condizioni dell’enunciazione: si è già notato che questa è preceduta
+dall’ordine (formulato all’imperativo) di ascoltare e di non agitarsi. La
+struttura dell’enunciazione viene situata sull’asse dell’esercizio del potere.
+È evidente che il dominato non è interessato né all’ideologia del
+dominatore né, soprattutto, alla verità dell’ideologia: al massimo può
+esserne informato prima di subirne le conseguenze.
+1 Greimas si riferisce al “racconto indiano” che ha citato a proposito del trickster (4.3. in SQ III, “La
+passeggiata”). (N.d.C.)
+2 Implicito nella versione italiana. (N.d.C.)
+La struttura tassonomica dell’anti-attante
+La struttura narrativa dell’anti-soggetto
+3. La dimensione cognitiva
+3.1.Il “punto di vista”
+3.2.Il doppio riconoscimento
+3.3.La presa di parola
+SEQUENZA VIII
+La reinterpretazione
+1. Organizzazione testuale
+1.1.Delimitazione della sequenza
+1.2.Articolazione interna
+2. Installazione del discorso
+2.1.Procedure retoriche
+2.2.Preparativi d’enunciazione
+3. Il discorso al secondo grado
+3.1.La contro-lettura
+3.2.La lettura del PN di S
+1
+3.3.L’interpretazione e il canone
+3.4.Ritorno all’interpretazione
+3.5.Ruoli e percorsi tematici
+3.6.La rivelazione del segreto
+3.7.Il trasferimento delle responsabilità
+3.8.L’ideologia del dominio
+3.9.L’enunciazione informativa

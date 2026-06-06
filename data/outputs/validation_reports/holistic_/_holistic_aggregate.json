@@ -1,0 +1,31 @@
+{
+  "results": [
+    {
+      "model": "anthropic/claude-3.5-sonnet",
+      "punteggio_olistico_finale": 1,
+      "coerenza": 1,
+      "completezza": 1,
+      "progressione": 1,
+      "convergenza": 1,
+      "padronanza": 1
+    },
+    {
+      "model": "google/gemini-2.5-pro",
+      "punteggio_olistico_finale": 7,
+      "coerenza": 8,
+      "completezza": 7,
+      "progressione": 8,
+      "convergenza": 6,
+      "padronanza": 7
+    },
+    {
+      "model": "openai/gpt-5.1",
+      "punteggio_olistico_finale": 7,
+      "coerenza": 7,
+      "completezza": 6,
+      "progressione": 7,
+      "convergenza": 6,
+      "padronanza": 8
+    }
+  ]
+}
