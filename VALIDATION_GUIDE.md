@@ -1,56 +1,81 @@
-# Guida alla Validazione dell'Analisi Semiotica
+```markdown
+# Validation Guide for Semiotic Analysis
 
-Questa guida descrive i passaggi necessari per eseguire la pipeline di analisi semiotica e validare i risultati generati da un modello LLM rispetto a un testo di riferimento di A.J. Greimas.
+This guide describes the steps required to run the semiotic analysis pipeline and validate
+the results produced by an LLM against a reference text by A.J. Greimas.
 
-## Prerequisiti
+## Prerequisites
 
-Assicurati di avere un ambiente virtuale Python configurato e le dipendenze installate.
+Make sure you have a Python virtual environment configured and the dependencies installed.
 
-1.  **Attiva l'ambiente virtuale**:
-    ```bash
+1. **Activate the virtual environment**:
+    ```powershell
     .\.venv\Scripts\Activate.ps1
     ```
 
-## Passaggi per la Validazione
+## Validation Steps
 
-La pipeline è composta da 3 fasi principali.
 
-### Fase 1: Estrazione delle Sequenze (Opzionale)
+# Validation Guide for Semiotic Analysis
 
-Questo passaggio è necessario solo se il testo di input non è già suddiviso in capitoli o sequenze. Lo script `01_extract_chapters.py` divide un testo lungo in file di testo separati, uno per ogni sequenza.
+This guide describes the steps required to run the semiotic analysis pipeline and validate
+the results produced by an LLM against a reference text by A.J. Greimas.
 
-1.  **Esegui lo script**:
-    ```bash
+## Prerequisites
+
+Make sure you have a Python virtual environment configured and the dependencies installed.
+
+1. **Activate the virtual environment**:
+    ```powershell
+    .\.venv\Scripts\Activate.ps1
+    ```
+
+## Validation Steps
+
+The pipeline consists of three main phases.
+
+### Phase 1: Sequence Extraction (Optional)
+
+This step is necessary only if the input text is not already split into chapters or sequences.
+The script `01_extract_chapters.py` splits a long text into separate text files, one per sequence.
+
+1. **Run the script**:
+    ```powershell
     python src/greimas_pipeline/01_extract_chapters.py "data/inputs/due_amici_maupassant.txt" "data/outputs/due_amici_chapters"
     ```
-    - Il primo argomento è il percorso del file di testo di input.
-    - Il secondo argomento è la directory di output dove verranno salvati i file delle sequenze.
+    - The first argument is the path to the input text file.
+    - The second argument is the output directory where sequence files will be saved.
 
-### Fase 2: Esecuzione dell'Analisi Strutturata
+### Phase 2: Run Structured Analysis
 
-Questo script prende una sequenza (un file di testo) e utilizza un modello LLM per generare un'analisi semiotica strutturata in formato JSON.
+This script takes a sequence (a text file) and uses an LLM to generate a structured semiotic
+analysis in JSON format.
 
-1.  **Esegui lo script**:
-    ```bash
+1. **Run the script**:
+    ```powershell
     python src/greimas_pipeline/02_run_structured_analysis.py "data/outputs/due_amici_chapters/seq_01.txt" "openrouter/google/gemini-pro" "data/outputs/structured_analysis"
     ```
-    - Il primo argomento è il percorso del file di testo della sequenza da analizzare.
-    - Il secondo argomento è il nome del modello LLM da utilizzare (es. `openrouter/google/gemini-pro`, `anthropic/claude-3.5-sonnet`, ecc.).
-    - Il terzo argomento è la directory di output dove verrà salvato il file JSON con l'analisi.
+    - The first argument is the path to the sequence text file to analyze.
+    - The second argument is the LLM model identifier (e.g. `openrouter/google/gemini-pro`, `anthropic/claude-3.5-sonnet`).
+    - The third argument is the output directory where the JSON analysis file will be saved.
 
-Il file di output avrà un nome simile a `structured_analysis_20260508_103000_google-gemini-pro.json`.
+The output file will have a name similar to `structured_analysis_20260508_103000_google-gemini-pro.json`.
 
-### Fase 3: Validazione con LLM-Giudice
+### Phase 3: Validation with LLM-Judge
 
-Questo script finale confronta l'analisi generata dall'LLM (il file JSON della Fase 2) con il testo di riferimento "ground truth" di Greimas. Utilizza un altro LLM come "giudice" per valutare la qualità dell'analisi.
+This final script compares the LLM-generated analysis (the JSON from Phase 2) with the Greimas
+reference ground truth. It uses another LLM as a “judge” to assess the analysis quality.
 
-1.  **Esegui lo script**:
-    ```bash
+1. **Run the script**:
+    ```powershell
     python src/greimas_pipeline/03_validate_analysis.py "data/outputs/structured_analysis/structured_analysis_20260508_103000_google-gemini-pro.json"
     ```
-    - L'unico argomento è il percorso del file JSON generato nella Fase 2.
+    - The sole argument is the path to the JSON file produced in Phase 2.
 
-2.  **Controlla l'output**:
-    Lo script eseguirà la validazione e salverà un nuovo file JSON con il giudizio nella cartella `data/outputs/validation_reports/`. Il nome del file includerà la data e il modello utilizzato, ad esempio: `validation_20260508_103100_google-gemini-pro_structured_analysis.json`.
+2. **Check the output**:
+    The script will perform validation and save a new JSON file with the judge's evaluation
+    in `data/outputs/validation_reports/`. The file name will include the date and model used,
+    for example: `validation_20260508_103100_google-gemini-pro_structured_analysis.json`.
 
-    Questo file conterrà i punteggi e le giustificazioni per l'aderenza metodologica, la correttezza concettuale e la copertura, oltre a un giudizio complessivo.
+    This file contains scores and justifications for methodological adherence, conceptual
+    correctness and coverage, together with an overall judgment.
