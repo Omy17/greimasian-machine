@@ -5,7 +5,7 @@ Confronta i risultati di validazione prodotti da due giudici diversi
 (es. GPT-4o vs Gemini 2.5 Pro) e calcola metriche di concordanza.
 
 Uso:
-  python src/greimas_pipeline/05_compare_judges.py \
+  python src/greimas_validation_pipeline/05_compare_judges.py \
     data/outputs/validation_reports \
     data/outputs/validation_reports_gemini \
     --output data/outputs/judge_comparison.json

@@ -23,7 +23,7 @@ The script `01_extract_chapters.py` splits a long text into separate text files,
 
 1. **Run the script**:
     ```powershell
-    python src/greimas_pipeline/01_extract_chapters.py "data/inputs/due_amici_maupassant.txt" "data/outputs/due_amici_chapters"
+    python src/greimas_validation_pipeline/01_extract_chapters.py "data/inputs/due_amici_maupassant.txt" "data/outputs/due_amici_chapters"
     ```
     - The first argument is the path to the input text file.
     - The second argument is the output directory where sequence files will be saved.
@@ -35,7 +35,7 @@ analysis in JSON format.
 
 1. **Run the script**:
     ```powershell
-    python src/greimas_pipeline/02_run_structured_analysis.py "data/outputs/due_amici_chapters/seq_01.txt" "openrouter/google/gemini-pro" "data/outputs/structured_analysis"
+    python src/greimas_validation_pipeline/02_run_structured_analysis.py "data/outputs/due_amici_chapters/seq_01.txt" "openrouter/google/gemini-pro" "data/outputs/structured_analysis"
     ```
     - The first argument is the path to the sequence text file to analyze.
     - The second argument is the LLM model identifier (e.g. `openrouter/google/gemini-pro`, `anthropic/claude-3.5-sonnet`).
@@ -50,7 +50,7 @@ reference ground truth. It uses another LLM as a “judge” to assess the analy
 
 1. **Run the script**:
     ```powershell
-    python src/greimas_pipeline/03_validate_analysis.py "data/outputs/structured_analysis/structured_analysis_20260508_103000_google-gemini-pro.json"
+    python src/greimas_validation_pipeline/03_validate_analysis.py "data/outputs/structured_analysis/structured_analysis_20260508_103000_google-gemini-pro.json"
     ```
     - The sole argument is the path to the JSON file produced in Phase 2.
 

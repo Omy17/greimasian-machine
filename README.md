@@ -16,9 +16,7 @@ LLM analyses produced from the texts placed in `data/inputs/`.
 
 ## Repository Structure
 - `src/` — main code and pipeline scripts.
-- `src/greimas_pipeline/` — pipeline steps (01_extract_chapters.py, 02_run_structured_analysis.py,
-	03_validate_analysis.py, 04_validate_holistic.py, 05_compare_judges.py).
-- `validation_greimas_pipeline/` — helper runner(s) for JSON-structured experiments.
+- `src/greimas_validation_pipeline/` — pipeline steps (`01_extract_chapters.py`, `02_run_structured_analysis.py`, `03_validate_analysis.py`, `04_validate_holistic.py`, `05_compare_judges.py`) plus the helper runner `run_json_structured.py`.
 - `config/` — prompt templates and experiment configuration.
 - `data/inputs/` — input text files to analyze.
 - `data/outputs/` — folders with experiment JSON results and HTML reports.
@@ -51,8 +49,8 @@ python src/main.py
 Or run individual pipeline steps for more control:
 
 ```powershell
-python src/greimas_pipeline/01_extract_chapters.py
-python src/greimas_pipeline/02_run_structured_analysis.py
+python src/greimas_validation_pipeline/01_extract_chapters.py
+python src/greimas_validation_pipeline/02_run_structured_analysis.py
 ```
 
 5. Results and reports are saved under `data/outputs/` (each experiment run creates a timestamped
